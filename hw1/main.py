@@ -1,4 +1,13 @@
 #encoding=utf8
+
+# reference to https://github.com/GradySimon/tensorflow-glove/blob/master/tf_glove.py
+'''
+Credits
+Naturally, most of the credit goes to Jeffery Pennington, Richard Socher, and Christopher Manning, who developed the model, published a paper about it, and released an implementation in C.
+
+Thanks also to Jon Gauthier (@hans), who wrote a Python implementation of the model and a blog post describing that implementation, which were both very useful references as well.
+'''
+
 import tensorflow as tf
 import tf_glove
 import os
@@ -22,32 +31,16 @@ save_path = FLAGS.save_path
 # The text file for eval.
 #eval_data = FLAGS.eval_data
 
-'''
-# Use nargs to specify how many arguments an option should take.
-ap = argparse.ArgumentParser()
-ap.add_argument('-train_data', nargs=1, required=True)
-ap.add_argument('-save_path', nargs=1, required=True)
 
-# An illustration of how access the arguments.
-opts = ap.parse_args()
-
-datafile = opts.train_data
-save_path = opts.save_path
-'''
-
-
-embedding_size_p = 50
-context_size_p = 5
-max_vocab_size_p = 1000
-min_occurences_p = 15
-epochs = 1
+embedding_size_p = 200
+context_size_p = 10
+max_vocab_size_p = 100000000000000000000
+min_occurences_p = 5
+epochs = 150
 
 
 
 model = tf_glove.GloVeModel(embedding_size=embedding_size_p, context_size=context_size_p, max_vocab_size=max_vocab_size_p, min_occurrences=min_occurences_p)
-
-# data preprocessing : using text8
-#datafile = "/home/b01901073/adl/hw1/tensorflow/tensorflow/models/embedding/text8"
 
 # text8 preprocessing 
 data = open(train_data,"r").read()
@@ -60,8 +53,7 @@ model.fit_to_corpus(corpus)
 model.train(num_epochs=epochs)
 
 # save the answer 
-#embedding_path = "/home/b01901073/adl/hw1/tensorflow/tensorflow/models/embedding/test/glove_txt/"
-embedding_file_txt = "glove_test_file_final.txt"
+embedding_file_txt = "glove_result.txt"
 
 vocab_size = model.vocab_size
 
