@@ -1,0 +1,6218 @@
+inform __name__ __pricerange__
+inform __name__ __pricerange__
+inform __name__ __area__ __pricerange__
+inform __name__ __area__ __pricerange__
+inform __name__ __address__
+inform __name__ __address__
+inform __name__ __phone__
+inform __name__ __phone__
+inform __name__ __area__
+inform __name__ __area__
+goodbye()
+goodbye()
+inform __name__ __pricerange__ __kidsallowed__
+inform __name__ __pricerange__ __kidsallowed__
+inform __name__ __near__ __area__ __phone__
+inform __name__ __near__ __area__ __phone__
+goodbye()
+goodbye()
+inform __name__ __pricerange__ __goodformeal__
+inform __name__ __pricerange__ __goodformeal__
+inform __name__ __kidsallowed__
+inform __name__ __kidsallowed__
+inform __name__ __type__
+inform __name__ __type__
+?reqmore()
+?reqmore()
+inform __name__ __pricerange__ __goodformeal__ __kidsallowed__
+inform __name__ __pricerange__ __goodformeal__ __kidsallowed__
+inform __name__ __address__ __phone__
+inform __name__ __address__ __phone__
+goodbye()
+goodbye()
+inform __name__ __kidsallowed__ __food__ __pricerange__
+inform __name__ __kidsallowed__ __food__ __pricerange__
+inform_count __type__ __count__ __food__ __kidsallowed__ __pricerange__
+inform_count __type__ __count__ __food__ __kidsallowed__ __pricerange__
+?request(near)
+?request(near)
+inform __name__ __type__
+inform __name__ __type__
+?request(food)
+?request(food)
+inform __name__ __food__ __near__ __kidsallowed__ __pricerange__
+inform __name__ __food__ __near__ __kidsallowed__ __pricerange__
+inform __name__ __address__
+inform __name__ __address__
+goodbye()
+goodbye()
+inform __name__ __food__
+inform __name__ __food__
+inform_only_match __name__ __food__ __goodformeal__
+inform_only_match __name__ __food__ __goodformeal__
+inform __name__ __kidsallowed__
+inform __name__ __kidsallowed__
+inform __name__ __area__ __address__
+inform __name__ __area__ __address__
+goodbye()
+goodbye()
+inform __name__ __pricerange__ __kidsallowed__
+inform __name__ __pricerange__ __kidsallowed__
+inform_no_match __pricerange__ __goodformeal__
+inform_no_match __pricerange__ __goodformeal__
+goodbye()
+goodbye()
+inform_no_match __area__
+inform_no_match __area__
+inform_no_match __area__
+inform_no_match __area__
+goodbye()
+goodbye()
+?request(area)
+?request(area)
+inform __name__ __goodformeal__ __kidsallowed__
+inform __name__ __goodformeal__ __kidsallowed__
+inform_no_match __kidsallowed__ __area__
+inform_no_match __kidsallowed__ __area__
+inform __name__ __area__
+inform __name__ __area__
+inform __name__ __address__ __phone__
+inform __name__ __address__ __phone__
+inform __name__ __near__
+inform __name__ __near__
+goodbye()
+goodbye()
+inform_no_match __near__ __goodformeal__
+inform_no_match __near__ __goodformeal__
+?request(food)
+?request(food)
+?select __near__ __near__
+?select __near__ __near__
+inform __name__ __near__ __price__ __phone__
+inform __name__ __near__ __price__ __phone__
+goodbye()
+goodbye()
+inform __name__ __pricerange__ __area__
+inform __name__ __pricerange__ __area__
+goodbye()
+goodbye()
+inform_no_match __kidsallowed__ __food__
+inform_no_match __kidsallowed__ __food__
+inform __name__ __food__ __pricerange__
+inform __name__ __food__ __pricerange__
+inform __name__ __phone__
+inform __name__ __phone__
+inform __name__ __near__
+inform __name__ __near__
+inform __name__ __kidsallowed__
+inform __name__ __kidsallowed__
+goodbye()
+goodbye()
+inform_no_match __goodformeal__ __food__
+inform_no_match __goodformeal__ __food__
+inform __name__ __food__
+inform __name__ __food__
+inform __name__ __kidsallowed__ __phone__
+inform __name__ __kidsallowed__ __phone__
+inform __name__ __address__ __price__
+inform __name__ __address__ __price__
+goodbye()
+goodbye()
+inform __name__ __food__
+inform __name__ __food__
+goodbye()
+goodbye()
+?request(pricerange)
+?request(pricerange)
+?request(pricerange)
+?request(pricerange)
+?request(pricerange)
+?request(pricerange)
+goodbye()
+goodbye()
+?request(goodformeal)
+?request(goodformeal)
+inform_count __type__ __count__ __goodformeal__
+inform_count __type__ __count__ __goodformeal__
+?request(food)
+?request(food)
+inform_count __type__ __count__ __goodformeal__ __food__
+inform_count __type__ __count__ __goodformeal__ __food__
+?request(area)
+?request(area)
+?request(goodformeal)
+?request(goodformeal)
+?request(goodformeal)
+?request(goodformeal)
+?confirm __goodformeal__
+?confirm __goodformeal__
+goodbye()
+goodbye()
+inform __name__ __pricerange__ __kidsallowed__
+inform __name__ __pricerange__ __kidsallowed__
+inform __name__ __type__
+inform __name__ __type__
+?reqmore()
+?reqmore()
+inform __name__ __area__ __pricerange__ __kidsallowed__
+inform __name__ __area__ __pricerange__ __kidsallowed__
+inform __name__ __address__ __phone__
+inform __name__ __address__ __phone__
+goodbye()
+goodbye()
+inform __name__ __near__ __kidsallowed__
+inform __name__ __near__ __kidsallowed__
+inform __name__ __area__ __phone__
+inform __name__ __area__ __phone__
+goodbye()
+goodbye()
+?confirm __goodformeal__
+?confirm __goodformeal__
+?confirm __area__
+?confirm __area__
+?confirm __goodformeal__
+?confirm __goodformeal__
+goodbye()
+goodbye()
+inform_no_match __near__ __pricerange__
+inform_no_match __near__ __pricerange__
+?select __food__
+?select __food__
+inform_no_match __food__ __near__ __pricerange__
+inform_no_match __food__ __near__ __pricerange__
+goodbye()
+goodbye()
+inform_no_match __goodformeal__ __food__
+inform_no_match __goodformeal__ __food__
+inform __name__ __food__
+inform __name__ __food__
+inform __name__ __phone__
+inform __name__ __phone__
+inform __name__ __address__
+inform __name__ __address__
+inform __name__ __postcode__
+inform __name__ __postcode__
+goodbye()
+goodbye()
+?request(food)
+?request(food)
+?select __kidsallowed__ __kidsallowed__
+?select __kidsallowed__ __kidsallowed__
+inform_count __type__ __count__ __kidsallowed__
+inform_count __type__ __count__ __kidsallowed__
+?request(food)
+?request(food)
+inform __name__ __food__ __pricerange__ __kidsallowed__
+inform __name__ __food__ __pricerange__ __kidsallowed__
+inform __name__ __type__
+inform __name__ __type__
+inform __name__ __phone__
+inform __name__ __phone__
+goodbye()
+goodbye()
+inform_no_match __kidsallowed__ __near__ __pricerange__
+inform_no_match __kidsallowed__ __near__ __pricerange__
+inform __name__ __near__
+inform __name__ __near__
+inform __name__ __pricerange__ __kidsallowed__
+inform __name__ __pricerange__ __kidsallowed__
+inform __name__ __near__ __phone__
+inform __name__ __near__ __phone__
+inform __name__ __type__
+inform __name__ __type__
+inform __name__ __address__
+inform __name__ __address__
+inform __name__ __phone__
+inform __name__ __phone__
+inform __name__ __area__
+inform __name__ __area__
+goodbye()
+goodbye()
+?request(pricerange)
+?request(pricerange)
+inform __name__ __pricerange__
+inform __name__ __pricerange__
+inform __name__ __area__ __address__
+inform __name__ __area__ __address__
+goodbye()
+goodbye()
+inform __name__ __kidsallowed__
+inform __name__ __kidsallowed__
+inform __name__ __address__ __phone__
+inform __name__ __address__ __phone__
+goodbye()
+goodbye()
+inform __name__ __food__ __pricerange__
+inform __name__ __food__ __pricerange__
+inform __name__ __area__ __address__ __phone__
+inform __name__ __area__ __address__ __phone__
+goodbye()
+goodbye()
+inform __name__ __pricerange__ __near__
+inform __name__ __pricerange__ __near__
+inform __name__ __type__
+inform __name__ __type__
+inform_count __type__ __count__ __near__ __pricerange__
+inform_count __type__ __count__ __near__ __pricerange__
+?request(food)
+?request(food)
+inform __name__ __type__
+inform __name__ __type__
+inform __name__ __pricerange__ __near__
+inform __name__ __pricerange__ __near__
+inform __name__ __phone__ __postcode__
+inform __name__ __phone__ __postcode__
+goodbye()
+goodbye()
+inform __name__ __kidsallowed__ __pricerange__
+inform __name__ __kidsallowed__ __pricerange__
+inform __name__ __area__
+inform __name__ __area__
+inform __name__ __phone__
+inform __name__ __phone__
+goodbye()
+goodbye()
+inform __name__ __food__
+inform __name__ __food__
+inform __name__ __goodformeal__ __food__
+inform __name__ __goodformeal__ __food__
+inform_only_match __name__ __goodformeal__ __food__
+inform_only_match __name__ __goodformeal__ __food__
+inform __name__ __goodformeal__ __food__
+inform __name__ __goodformeal__ __food__
+inform __name__ __kidsallowed__
+inform __name__ __kidsallowed__
+inform __name__ __address__
+inform __name__ __address__
+goodbye()
+goodbye()
+inform __name__ __pricerange__ __food__
+inform __name__ __pricerange__ __food__
+inform __name__ __price__
+inform __name__ __price__
+inform __name__ __phone__
+inform __name__ __phone__
+goodbye()
+goodbye()
+?request(pricerange)
+?request(pricerange)
+inform __name__ __pricerange__ __kidsallowed__
+inform __name__ __pricerange__ __kidsallowed__
+inform __name__ __near__
+inform __name__ __near__
+?select __kidsallowed__ __kidsallowed__
+?select __kidsallowed__ __kidsallowed__
+?reqmore()
+?reqmore()
+inform __name__ __phone__
+inform __name__ __phone__
+inform __name__ __address__
+inform __name__ __address__
+goodbye()
+goodbye()
+?request(food)
+?request(food)
+?confirm __food__
+?confirm __food__
+?confirm __food__
+?confirm __food__
+?select __food__ __food__
+?select __food__ __food__
+?confirm __food__
+?confirm __food__
+?confirm __food__
+?confirm __food__
+goodbye()
+goodbye()
+inform __name__ __pricerange__ __goodformeal__ __food__
+inform __name__ __pricerange__ __goodformeal__ __food__
+inform_no_match __food__ __pricerange__
+inform_no_match __food__ __pricerange__
+inform __name__ __pricerange__ __food__ __goodformeal__
+inform __name__ __pricerange__ __food__ __goodformeal__
+inform __name__ __address__ __postcode__
+inform __name__ __address__ __postcode__
+goodbye()
+goodbye()
+inform_count __type__ __count__ __kidsallowed__
+inform_count __type__ __count__ __kidsallowed__
+?request(area)
+?request(area)
+inform_count __type__ __count__ __kidsallowed__ __near__
+inform_count __type__ __count__ __kidsallowed__ __near__
+?request(food)
+?request(food)
+?confirm __near__
+?confirm __near__
+?confirm __area__
+?confirm __area__
+inform __name__ __area__ __food__ __kidsallowed__
+inform __name__ __area__ __food__ __kidsallowed__
+inform __name__ __address__ __price__
+inform __name__ __address__ __price__
+goodbye()
+goodbye()
+inform __name__ __kidsallowed__ __near__ __goodformeal__
+inform __name__ __kidsallowed__ __near__ __goodformeal__
+inform __name__ __area__ __address__
+inform __name__ __area__ __address__
+goodbye()
+goodbye()
+inform __name__ __pricerange__
+inform __name__ __pricerange__
+inform __name__ __area__
+inform __name__ __area__
+inform __name__ __address__
+inform __name__ __address__
+goodbye()
+goodbye()
+inform_no_match __food__ __pricerange__
+inform_no_match __food__ __pricerange__
+inform __name__ __food__
+inform __name__ __food__
+inform __name__ __food__
+inform __name__ __food__
+inform __name__ __phone__
+inform __name__ __phone__
+inform __name__ __address__
+inform __name__ __address__
+goodbye()
+goodbye()
+inform __name__ __pricerange__ __food__ __goodformeal__
+inform __name__ __pricerange__ __food__ __goodformeal__
+inform __name__ __phone__
+inform __name__ __phone__
+inform __name__ __area__
+inform __name__ __area__
+goodbye()
+goodbye()
+inform __name__ __goodformeal__ __kidsallowed__
+inform __name__ __goodformeal__ __kidsallowed__
+inform __name__ __goodformeal__ __kidsallowed__
+inform __name__ __goodformeal__ __kidsallowed__
+inform __name__ __food__
+inform __name__ __food__
+inform_count __type__ __count__ __goodformeal__ __kidsallowed__
+inform_count __type__ __count__ __goodformeal__ __kidsallowed__
+?request(pricerange)
+?request(pricerange)
+inform __name__ __address__
+inform __name__ __address__
+?request(goodformeal)
+?request(goodformeal)
+goodbye()
+goodbye()
+?request(pricerange)
+?request(pricerange)
+?request(pricerange)
+?request(pricerange)
+?request(pricerange)
+?request(pricerange)
+?request(pricerange)
+?request(pricerange)
+?request(pricerange)
+?request(pricerange)
+?request(pricerange)
+?request(pricerange)
+inform __name__ __pricerange__ __food__ __kidsallowed__
+inform __name__ __pricerange__ __food__ __kidsallowed__
+inform __name__ __address__ __price__
+inform __name__ __address__ __price__
+inform __name__ __pricerange__ __food__ __kidsallowed__
+inform __name__ __pricerange__ __food__ __kidsallowed__
+inform_only_match __name__ __pricerange__ __food__ __kidsallowed__
+inform_only_match __name__ __pricerange__ __food__ __kidsallowed__
+inform __name__ __address__
+inform __name__ __address__
+goodbye()
+goodbye()
+inform_no_match __kidsallowed__ __area__
+inform_no_match __kidsallowed__ __area__
+inform_no_match __area__ __kidsallowed__
+inform_no_match __area__ __kidsallowed__
+inform __name__ __area__ __goodformeal__
+inform __name__ __area__ __goodformeal__
+inform __name__ __kidsallowed__
+inform __name__ __kidsallowed__
+inform __name__ __food__ __address__ __phone__
+inform __name__ __food__ __address__ __phone__
+goodbye()
+goodbye()
+inform __name__ __food__ __goodformeal__
+inform __name__ __food__ __goodformeal__
+inform __name__ __food__ __goodformeal__
+inform __name__ __food__ __goodformeal__
+inform __name__ __address__
+inform __name__ __address__
+inform __name__ __area__
+inform __name__ __area__
+goodbye()
+goodbye()
+inform __name__ __pricerange__ __food__ __goodformeal__
+inform __name__ __pricerange__ __food__ __goodformeal__
+inform __name__ __phone__
+inform __name__ __phone__
+inform __name__ __address__
+inform __name__ __address__
+goodbye()
+goodbye()
+inform __name__ __food__ __goodformeal__
+inform __name__ __food__ __goodformeal__
+inform __name__ __address__
+inform __name__ __address__
+inform __name__ __type__
+inform __name__ __type__
+inform __name__ __phone__
+inform __name__ __phone__
+inform __name__ __area__
+inform __name__ __area__
+goodbye()
+goodbye()
+inform __name__ __pricerange__ __food__
+inform __name__ __pricerange__ __food__
+inform_count __type__ __count__ __food__ __pricerange__
+inform_count __type__ __count__ __food__ __pricerange__
+?request(near)
+?request(near)
+inform __name__ __near__ __pricerange__ __food__
+inform __name__ __near__ __pricerange__ __food__
+inform __name__ __address__ __phone__
+inform __name__ __address__ __phone__
+goodbye()
+goodbye()
+inform __name__ __food__
+inform __name__ __food__
+inform_only_match __name__ __food__
+inform_only_match __name__ __food__
+inform __name__ __near__ __address__
+inform __name__ __near__ __address__
+inform __name__ __phone__
+inform __name__ __phone__
+inform __name__ __postcode__
+inform __name__ __postcode__
+goodbye()
+goodbye()
+inform __name__ __goodformeal__ __near__
+inform __name__ __goodformeal__ __near__
+?reqmore()
+?reqmore()
+?select __goodformeal__ __goodformeal__
+?select __goodformeal__ __goodformeal__
+inform __name__ __goodformeal__ __near__
+inform __name__ __goodformeal__ __near__
+inform __name__ __address__ __phone__
+inform __name__ __address__ __phone__
+inform __name__ __food__
+inform __name__ __food__
+goodbye()
+goodbye()
+?request(pricerange)
+?request(pricerange)
+inform __name__ __pricerange__ __kidsallowed__
+inform __name__ __pricerange__ __kidsallowed__
+inform __name__ __pricerange__ __kidsallowed__
+inform __name__ __pricerange__ __kidsallowed__
+inform __name__ __food__ __address__
+inform __name__ __food__ __address__
+goodbye()
+goodbye()
+?select __kidsallowed__ __kidsallowed__
+?select __kidsallowed__ __kidsallowed__
+inform __name__ __kidsallowed__
+inform __name__ __kidsallowed__
+inform __name__ __pricerange__ __kidsallowed__
+inform __name__ __pricerange__ __kidsallowed__
+inform __name__ __address__ __phone__
+inform __name__ __address__ __phone__
+inform __name__ __near__
+inform __name__ __near__
+goodbye()
+goodbye()
+?request(pricerange)
+?request(pricerange)
+?request(area)
+?request(area)
+?request(area)
+?request(area)
+inform __name__ __area__
+inform __name__ __area__
+inform __name__ __address__
+inform __name__ __address__
+inform __name__ __phone__
+inform __name__ __phone__
+goodbye()
+goodbye()
+?request(near)
+?request(near)
+?request(area)
+?request(area)
+?request(near)
+?request(near)
+?request(food)
+?request(food)
+inform_count __type__ __count__ __food__
+inform_count __type__ __count__ __food__
+?request(area)
+?request(area)
+goodbye()
+goodbye()
+inform __name__ __food__
+inform __name__ __food__
+inform __name__ __address__
+inform __name__ __address__
+goodbye()
+goodbye()
+?request(pricerange)
+?request(pricerange)
+?request(pricerange)
+?request(pricerange)
+?request(pricerange)
+?request(pricerange)
+?request(pricerange)
+?request(pricerange)
+?request(pricerange)
+?request(pricerange)
+inform __name__ __pricerange__
+inform __name__ __pricerange__
+?reqmore()
+?reqmore()
+inform __name__ __address__
+inform __name__ __address__
+inform __name__ __pricerange__
+inform __name__ __pricerange__
+goodbye()
+goodbye()
+inform __name__ __kidsallowed__ __area__ __pricerange__
+inform __name__ __kidsallowed__ __area__ __pricerange__
+inform __name__ __phone__
+inform __name__ __phone__
+?select __kidsallowed__ __kidsallowed__
+?select __kidsallowed__ __kidsallowed__
+inform __name__ __address__
+inform __name__ __address__
+goodbye()
+goodbye()
+?request(goodformeal)
+?request(goodformeal)
+inform __name__ __kidsallowed__ __goodformeal__
+inform __name__ __kidsallowed__ __goodformeal__
+inform __name__ __phone__
+inform __name__ __phone__
+inform __name__ __food__
+inform __name__ __food__
+goodbye()
+goodbye()
+inform_no_match __food__ __kidsallowed__
+inform_no_match __food__ __kidsallowed__
+inform __name__ __food__
+inform __name__ __food__
+inform __name__ __address__
+inform __name__ __address__
+inform __name__ __goodformeal__ __phone__
+inform __name__ __goodformeal__ __phone__
+inform __name__ __type__
+inform __name__ __type__
+goodbye()
+goodbye()
+inform __name__ __pricerange__ __kidsallowed__
+inform __name__ __pricerange__ __kidsallowed__
+inform_count __type__ __count__ __kidsallowed__ __pricerange__
+inform_count __type__ __count__ __kidsallowed__ __pricerange__
+?request(food)
+?request(food)
+inform __name__ __food__ __pricerange__ __kidsallowed__
+inform __name__ __food__ __pricerange__ __kidsallowed__
+inform __name__ __address__
+inform __name__ __address__
+inform __name__ __price__
+inform __name__ __price__
+goodbye()
+goodbye()
+?request(near)
+?request(near)
+?request(food)
+?request(food)
+inform __name__ __goodformeal__
+inform __name__ __goodformeal__
+inform __name__ __type__
+inform __name__ __type__
+?confirm __goodformeal__
+?confirm __goodformeal__
+inform __name__ __goodformeal__
+inform __name__ __goodformeal__
+goodbye()
+goodbye()
+inform __name__ __area__
+inform __name__ __area__
+inform_only_match __name__ __area__
+inform_only_match __name__ __area__
+inform __name__ __near__ __phone__
+inform __name__ __near__ __phone__
+goodbye()
+goodbye()
+?request(goodformeal)
+?request(goodformeal)
+inform __name__ __near__
+inform __name__ __near__
+inform __name__ __type__
+inform __name__ __type__
+inform_only_match __name__ __goodformeal__ __near__ __kidsallowed__
+inform_only_match __name__ __goodformeal__ __near__ __kidsallowed__
+inform __name__ __address__ __phone__ __postcode__
+inform __name__ __address__ __phone__ __postcode__
+goodbye()
+goodbye()
+inform __name__ __pricerange__ __kidsallowed__
+inform __name__ __pricerange__ __kidsallowed__
+inform_no_match __pricerange__ __goodformeal__
+inform_no_match __pricerange__ __goodformeal__
+goodbye()
+goodbye()
+?request(near)
+?request(near)
+inform_no_match __goodformeal__ __near__
+inform_no_match __goodformeal__ __near__
+inform __name__ __goodformeal__ __near__
+inform __name__ __goodformeal__ __near__
+inform __name__ __phone__
+inform __name__ __phone__
+inform __name__ __address__
+inform __name__ __address__
+goodbye()
+goodbye()
+?select __goodformeal__
+?select __goodformeal__
+?request(food)
+?request(food)
+?select __pricerange__
+?select __pricerange__
+?select __pricerange__
+?select __pricerange__
+?select __kidsallowed__ __kidsallowed__
+?select __kidsallowed__ __kidsallowed__
+inform_count __type__ __count__ __kidsallowed__ __pricerange__
+inform_count __type__ __count__ __kidsallowed__ __pricerange__
+?request(area)
+?request(area)
+goodbye()
+goodbye()
+inform __name__ __pricerange__ __goodformeal__
+inform __name__ __pricerange__ __goodformeal__
+inform __name__ __pricerange__ __goodformeal__
+inform __name__ __pricerange__ __goodformeal__
+inform __name__ __type__
+inform __name__ __type__
+inform __name__ __phone__
+inform __name__ __phone__
+inform __name__ __area__
+inform __name__ __area__
+goodbye()
+goodbye()
+inform __name__ __kidsallowed__ __pricerange__
+inform __name__ __kidsallowed__ __pricerange__
+inform_count __type__ __count__ __kidsallowed__ __pricerange__
+inform_count __type__ __count__ __kidsallowed__ __pricerange__
+?request(near)
+?request(near)
+inform_count __type__ __count__ __kidsallowed__ __pricerange__
+inform_count __type__ __count__ __kidsallowed__ __pricerange__
+?request(near)
+?request(near)
+inform __name__ __near__ __kidsallowed__ __pricerange__
+inform __name__ __near__ __kidsallowed__ __pricerange__
+inform __name__ __address__
+inform __name__ __address__
+goodbye()
+goodbye()
+inform_no_match __near__ __kidsallowed__ __pricerange__
+inform_no_match __near__ __kidsallowed__ __pricerange__
+inform_no_match __near__ __food__
+inform_no_match __near__ __food__
+goodbye()
+goodbye()
+?request(pricerange)
+?request(pricerange)
+inform __name__ __type__
+inform __name__ __type__
+inform_count __type__ __count__ __pricerange__ __area__
+inform_count __type__ __count__ __pricerange__ __area__
+?request(goodformeal)
+?request(goodformeal)
+inform_count __type__ __count__ __near__ __pricerange__
+inform_count __type__ __count__ __near__ __pricerange__
+?request(goodformeal)
+?request(goodformeal)
+inform_count __type__ __count__ __near__ __pricerange__
+inform_count __type__ __count__ __near__ __pricerange__
+?request(goodformeal)
+?request(goodformeal)
+goodbye()
+goodbye()
+inform __name__ __goodformeal__
+inform __name__ __goodformeal__
+inform __name__ __address__
+inform __name__ __address__
+inform __name__ __phone__
+inform __name__ __phone__
+inform __name__ __postcode__
+inform __name__ __postcode__
+goodbye()
+goodbye()
+?request(pricerange)
+?request(pricerange)
+inform __name__ __food__
+inform __name__ __food__
+inform __name__ __goodformeal__ __phone__
+inform __name__ __goodformeal__ __phone__
+goodbye()
+goodbye()
+inform __name__ __kidsallowed__
+inform __name__ __kidsallowed__
+inform __name__ __address__
+inform __name__ __address__
+inform __name__ __area__
+inform __name__ __area__
+goodbye()
+goodbye()
+inform __name__ __kidsallowed__ __goodformeal__
+inform __name__ __kidsallowed__ __goodformeal__
+inform __name__ __address__ __phone__
+inform __name__ __address__ __phone__
+goodbye()
+goodbye()
+inform __name__ __food__
+inform __name__ __food__
+inform __name__ __type__
+inform __name__ __type__
+inform __name__ __type__
+inform __name__ __type__
+inform __name__ __goodformeal__
+inform __name__ __goodformeal__
+goodbye()
+goodbye()
+inform __name__ __kidsallowed__ __food__ __goodformeal__
+inform __name__ __kidsallowed__ __food__ __goodformeal__
+inform __name__ __phone__
+inform __name__ __phone__
+inform __name__ __address__
+inform __name__ __address__
+goodbye()
+goodbye()
+inform __name__ __pricerange__ __food__ __goodformeal__
+inform __name__ __pricerange__ __food__ __goodformeal__
+inform __name__ __address__
+inform __name__ __address__
+inform __name__ __kidsallowed__
+inform __name__ __kidsallowed__
+goodbye()
+goodbye()
+inform __name__ __pricerange__
+inform __name__ __pricerange__
+inform __name__ __near__
+inform __name__ __near__
+inform __name__ __near__ __pricerange__
+inform __name__ __near__ __pricerange__
+inform __name__ __area__ __address__
+inform __name__ __area__ __address__
+goodbye()
+goodbye()
+inform_count __type__ __count__ __food__
+inform_count __type__ __count__ __food__
+?select __kidsallowed__ __kidsallowed__
+?select __kidsallowed__ __kidsallowed__
+?confirm __kidsallowed__
+?confirm __kidsallowed__
+?select __kidsallowed__ __kidsallowed__
+?select __kidsallowed__ __kidsallowed__
+inform __name__ __food__ __near__ __kidsallowed__
+inform __name__ __food__ __near__ __kidsallowed__
+inform __name__ __address__
+inform __name__ __address__
+inform __name__ __price__
+inform __name__ __price__
+goodbye()
+goodbye()
+?select __kidsallowed__ __kidsallowed__
+?select __kidsallowed__ __kidsallowed__
+inform __name__ __kidsallowed__
+inform __name__ __kidsallowed__
+inform __name__ __goodformeal__ __kidsallowed__
+inform __name__ __goodformeal__ __kidsallowed__
+inform __name__ __address__ __postcode__
+inform __name__ __address__ __postcode__
+goodbye()
+goodbye()
+?confirm __goodformeal__
+?confirm __goodformeal__
+?confirm __goodformeal__
+?confirm __goodformeal__
+?request(food)
+?request(food)
+inform __name__ __goodformeal__ __food__
+inform __name__ __goodformeal__ __food__
+inform __name__ __kidsallowed__
+inform __name__ __kidsallowed__
+inform __name__ __goodformeal__
+inform __name__ __goodformeal__
+inform __name__ __type__
+inform __name__ __type__
+?request(pricerange)
+?request(pricerange)
+?request(pricerange)
+?request(pricerange)
+?request(pricerange)
+?request(pricerange)
+?request(pricerange)
+?request(pricerange)
+?request(pricerange)
+?request(pricerange)
+?request(pricerange)
+?request(pricerange)
+goodbye()
+goodbye()
+inform __name__ __food__
+inform __name__ __food__
+inform_only_match __name__ __food__
+inform_only_match __name__ __food__
+inform __name__ __near__ __area__
+inform __name__ __near__ __area__
+inform __name__ __address__
+inform __name__ __address__
+inform __name__ __phone__
+inform __name__ __phone__
+goodbye()
+goodbye()
+?request(goodformeal)
+?request(goodformeal)
+inform __name__ __food__
+inform __name__ __food__
+inform __name__ __type__
+inform __name__ __type__
+inform __name__ __address__ __phone__
+inform __name__ __address__ __phone__
+goodbye()
+goodbye()
+inform __name__ __pricerange__ __kidsallowed__ __food__
+inform __name__ __pricerange__ __kidsallowed__ __food__
+inform __name__ __phone__
+inform __name__ __phone__
+inform __name__ __area__
+inform __name__ __area__
+goodbye()
+goodbye()
+inform_no_match __goodformeal__ __food__
+inform_no_match __goodformeal__ __food__
+inform __name__ __food__
+inform __name__ __food__
+inform __name__ __type__
+inform __name__ __type__
+inform_only_match __name__ __food__
+inform_only_match __name__ __food__
+inform __name__ __address__
+inform __name__ __address__
+inform __name__ __pricerange__
+inform __name__ __pricerange__
+goodbye()
+goodbye()
+inform_no_match __pricerange__ __area__
+inform_no_match __pricerange__ __area__
+goodbye()
+goodbye()
+inform __name__ __kidsallowed__ __food__
+inform __name__ __kidsallowed__ __food__
+inform_count __type__ __count__ __food__ __kidsallowed__
+inform_count __type__ __count__ __food__ __kidsallowed__
+?request(near)
+?request(near)
+inform __name__ __near__ __kidsallowed__ __food__
+inform __name__ __near__ __kidsallowed__ __food__
+inform __name__ __address__
+inform __name__ __address__
+inform __name__ __phone__
+inform __name__ __phone__
+inform __name__ __pricerange__
+inform __name__ __pricerange__
+goodbye()
+goodbye()
+?request(goodformeal)
+?request(goodformeal)
+?request(pricerange)
+?request(pricerange)
+inform __name__ __pricerange__
+inform __name__ __pricerange__
+inform __name__ __pricerange__
+inform __name__ __pricerange__
+goodbye()
+goodbye()
+inform __name__ __pricerange__ __kidsallowed__
+inform __name__ __pricerange__ __kidsallowed__
+inform __name__ __area__ __address__
+inform __name__ __area__ __address__
+goodbye()
+goodbye()
+inform __name__ __area__
+inform __name__ __area__
+inform_only_match __name__ __goodformeal__ __area__
+inform_only_match __name__ __goodformeal__ __area__
+inform __name__ __goodformeal__ __pricerange__ __area__
+inform __name__ __goodformeal__ __pricerange__ __area__
+inform_only_match __name__ __goodformeal__ __pricerange__ __kidsallowed__ __area__
+inform_only_match __name__ __goodformeal__ __pricerange__ __kidsallowed__ __area__
+inform __name__ __kidsallowed__ __phone__
+inform __name__ __kidsallowed__ __phone__
+goodbye()
+goodbye()
+?request(goodformeal)
+?request(goodformeal)
+inform __name__ __near__
+inform __name__ __near__
+inform __name__ __type__
+inform __name__ __type__
+inform_only_match __name__ __goodformeal__ __near__ __kidsallowed__
+inform_only_match __name__ __goodformeal__ __near__ __kidsallowed__
+inform __name__ __address__ __phone__ __postcode__
+inform __name__ __address__ __phone__ __postcode__
+goodbye()
+goodbye()
+inform __name__ __kidsallowed__ __goodformeal__
+inform __name__ __kidsallowed__ __goodformeal__
+inform __name__ __address__ __phone__ __postcode__
+inform __name__ __address__ __phone__ __postcode__
+goodbye()
+goodbye()
+inform __name__ __goodformeal__
+inform __name__ __goodformeal__
+inform_no_match __food__ __goodformeal__
+inform_no_match __food__ __goodformeal__
+inform __name__ __goodformeal__ __food__
+inform __name__ __goodformeal__ __food__
+inform __name__ __address__
+inform __name__ __address__
+inform __name__ __near__
+inform __name__ __near__
+goodbye()
+goodbye()
+inform __name__ __pricerange__ __goodformeal__
+inform __name__ __pricerange__ __goodformeal__
+inform __name__ __food__
+inform __name__ __food__
+inform __name__ __food__ __pricerange__ __goodformeal__
+inform __name__ __food__ __pricerange__ __goodformeal__
+goodbye()
+goodbye()
+inform __name__ __food__
+inform __name__ __food__
+inform __name__ __area__ __phone__
+inform __name__ __area__ __phone__
+goodbye()
+goodbye()
+inform __name__ __food__ __goodformeal__
+inform __name__ __food__ __goodformeal__
+goodbye()
+goodbye()
+?request(food)
+?request(food)
+inform __name__ __food__
+inform __name__ __food__
+goodbye()
+goodbye()
+inform __name__ __pricerange__
+inform __name__ __pricerange__
+inform __name__ __pricerange__
+inform __name__ __pricerange__
+inform __name__ __food__ __pricerange__
+inform __name__ __food__ __pricerange__
+inform_count __type__ __count__ __food__ __pricerange__
+inform_count __type__ __count__ __food__ __pricerange__
+?request(goodformeal)
+?request(goodformeal)
+?reqmore()
+?reqmore()
+?reqmore()
+?reqmore()
+goodbye()
+goodbye()
+inform __name__ __pricerange__ __food__
+inform __name__ __pricerange__ __food__
+?request(pricerange)
+?request(pricerange)
+inform __name__ __pricerange__ __food__
+inform __name__ __pricerange__ __food__
+inform __name__ __type__
+inform __name__ __type__
+inform __name__ __near__ __phone__
+inform __name__ __near__ __phone__
+goodbye()
+goodbye()
+?request(food)
+?request(food)
+?select __area__
+?select __area__
+inform __name__ __near__ __food__
+inform __name__ __near__ __food__
+?request(food)
+?request(food)
+inform __name__ __type__
+inform __name__ __type__
+inform __name__ __type__
+inform __name__ __type__
+inform_no_match __kidsallowed__ __near__
+inform_no_match __kidsallowed__ __near__
+inform __name__ __pricerange__
+inform __name__ __pricerange__
+inform __name__ __near__
+inform __name__ __near__
+inform __name__ __near__ __pricerange__
+inform __name__ __near__ __pricerange__
+inform __name__ __area__ __address__
+inform __name__ __area__ __address__
+goodbye()
+goodbye()
+?request(pricerange)
+?request(pricerange)
+?request(pricerange)
+?request(pricerange)
+inform __name__ __type__
+inform __name__ __type__
+inform_count __type__ __count__ __food__ __pricerange__
+inform_count __type__ __count__ __food__ __pricerange__
+?request(goodformeal)
+?request(goodformeal)
+inform_count __type__ __count__ __food__ __pricerange__
+inform_count __type__ __count__ __food__ __pricerange__
+?request(goodformeal)
+?request(goodformeal)
+goodbye()
+goodbye()
+inform __name__ __food__
+inform __name__ __food__
+inform_count __type__ __count__ __food__
+inform_count __type__ __count__ __food__
+?request(area)
+?request(area)
+inform_count __type__ __count__ __food__
+inform_count __type__ __count__ __food__
+?request(pricerange)
+?request(pricerange)
+inform_count __type__ __count__ __food__
+inform_count __type__ __count__ __food__
+?request(pricerange)
+?request(pricerange)
+inform_count __type__ __count__ __food__
+inform_count __type__ __count__ __food__
+?request(pricerange)
+?request(pricerange)
+inform_count __type__ __count__ __food__
+inform_count __type__ __count__ __food__
+?request(pricerange)
+?request(pricerange)
+inform_count __type__ __count__ __food__
+inform_count __type__ __count__ __food__
+?request(pricerange)
+?request(pricerange)
+inform __name__ __pricerange__
+inform __name__ __pricerange__
+inform __name__ __type__
+inform __name__ __type__
+inform __name__ __address__ __phone__
+inform __name__ __address__ __phone__
+inform_count __type__ __count__ __pricerange__
+inform_count __type__ __count__ __pricerange__
+?request(area)
+?request(area)
+inform_count __type__ __count__ __pricerange__
+inform_count __type__ __count__ __pricerange__
+?request(food)
+?request(food)
+goodbye()
+goodbye()
+inform __name__ __food__
+inform __name__ __food__
+inform __name__ __food__
+inform __name__ __food__
+inform __name__ __food__ __goodformeal__
+inform __name__ __food__ __goodformeal__
+inform __name__ __area__ __food__ __goodformeal__
+inform __name__ __area__ __food__ __goodformeal__
+inform __name__ __phone__
+inform __name__ __phone__
+inform __name__ __pricerange__
+inform __name__ __pricerange__
+goodbye()
+goodbye()
+inform __name__ __kidsallowed__ __near__
+inform __name__ __kidsallowed__ __near__
+inform __name__ __goodformeal__
+inform __name__ __goodformeal__
+inform __name__ __type__
+inform __name__ __type__
+inform __name__ __address__
+inform __name__ __address__
+inform __name__ __food__
+inform __name__ __food__
+goodbye()
+goodbye()
+inform __name__ __area__ __pricerange__ __kidsallowed__
+inform __name__ __area__ __pricerange__ __kidsallowed__
+inform __name__ __food__
+inform __name__ __food__
+inform __name__ __address__ __phone__
+inform __name__ __address__ __phone__
+goodbye()
+goodbye()
+?select __food__
+?select __food__
+inform __name__ __food__ __goodformeal__
+inform __name__ __food__ __goodformeal__
+inform __name__ __near__
+inform __name__ __near__
+inform __name__ __address__
+inform __name__ __address__
+goodbye()
+goodbye()
+inform __name__ __goodformeal__
+inform __name__ __goodformeal__
+inform __name__ __area__ __address__
+inform __name__ __area__ __address__
+goodbye()
+goodbye()
+inform __name__ __food__ __pricerange__
+inform __name__ __food__ __pricerange__
+inform __name__ __phone__
+inform __name__ __phone__
+inform __name__ __area__
+inform __name__ __area__
+goodbye()
+goodbye()
+?request(food)
+?request(food)
+inform_count __type__ __count__ __food__
+inform_count __type__ __count__ __food__
+?request(area)
+?request(area)
+inform __name__ __food__ __near__ __area__
+inform __name__ __food__ __near__ __area__
+inform __name__ __address__ __phone__
+inform __name__ __address__ __phone__
+goodbye()
+goodbye()
+inform __name__ __kidsallowed__ __food__
+inform __name__ __kidsallowed__ __food__
+inform_only_match __name__ __kidsallowed__ __food__ __goodformeal__
+inform_only_match __name__ __kidsallowed__ __food__ __goodformeal__
+inform __name__ __area__
+inform __name__ __area__
+inform __name__ __phone__
+inform __name__ __phone__
+inform __name__ __type__
+inform __name__ __type__
+inform __name__ __address__
+inform __name__ __address__
+goodbye()
+goodbye()
+?request(area)
+?request(area)
+inform __name__ __food__
+inform __name__ __food__
+inform __name__ __area__ __price__
+inform __name__ __area__ __price__
+inform __name__ __type__
+inform __name__ __type__
+inform __name__ __type__
+inform __name__ __type__
+goodbye()
+goodbye()
+?request(area)
+?request(area)
+inform __name__ __food__ __kidsallowed__
+inform __name__ __food__ __kidsallowed__
+inform __name__ __pricerange__
+inform __name__ __pricerange__
+inform __name__ __price__
+inform __name__ __price__
+goodbye()
+goodbye()
+inform __name__ __area__ __pricerange__
+inform __name__ __area__ __pricerange__
+inform_count __type__ __count__ __pricerange__ __area__
+inform_count __type__ __count__ __pricerange__ __area__
+?select __kidsallowed__ __kidsallowed__
+?select __kidsallowed__ __kidsallowed__
+inform __name__ __kidsallowed__ __area__ __pricerange__
+inform __name__ __kidsallowed__ __area__ __pricerange__
+inform __name__ __address__ __phone__ __postcode__
+inform __name__ __address__ __phone__ __postcode__
+goodbye()
+goodbye()
+inform __name__ __kidsallowed__ __food__
+inform __name__ __kidsallowed__ __food__
+inform __name__ __kidsallowed__ __food__
+inform __name__ __kidsallowed__ __food__
+inform __name__ __type__
+inform __name__ __type__
+inform __name__ __address__
+inform __name__ __address__
+inform __name__ __phone__
+inform __name__ __phone__
+inform __name__ __area__
+inform __name__ __area__
+goodbye()
+goodbye()
+?request(near)
+?request(near)
+inform __name__ __pricerange__ __food__
+inform __name__ __pricerange__ __food__
+inform __name__ __type__
+inform __name__ __type__
+?confirm __food__
+?confirm __food__
+inform __name__ __pricerange__ __food__
+inform __name__ __pricerange__ __food__
+inform __name__ __pricerange__ __food__
+inform __name__ __pricerange__ __food__
+goodbye()
+goodbye()
+inform __name__ __food__ __goodformeal__
+inform __name__ __food__ __goodformeal__
+inform __name__ __area__ __address__
+inform __name__ __area__ __address__
+goodbye()
+goodbye()
+inform __name__ __food__ __goodformeal__
+inform __name__ __food__ __goodformeal__
+inform_count __type__ __count__ __goodformeal__ __food__
+inform_count __type__ __count__ __goodformeal__ __food__
+?request(pricerange)
+?request(pricerange)
+inform __name__ __pricerange__ __food__ __goodformeal__
+inform __name__ __pricerange__ __food__ __goodformeal__
+inform __name__ __near__ __address__
+inform __name__ __near__ __address__
+goodbye()
+goodbye()
+?request(pricerange)
+?request(pricerange)
+?request(pricerange)
+?request(pricerange)
+?request(pricerange)
+?request(pricerange)
+?request(pricerange)
+?request(pricerange)
+?request(pricerange)
+?request(pricerange)
+?request(pricerange)
+?request(pricerange)
+inform __name__ __near__
+inform __name__ __near__
+inform __name__ __area__ __address__
+inform __name__ __area__ __address__
+goodbye()
+goodbye()
+inform __name__ __pricerange__
+inform __name__ __pricerange__
+inform __name__ __goodformeal__ __area__ __pricerange__
+inform __name__ __goodformeal__ __area__ __pricerange__
+inform __name__ __type__
+inform __name__ __type__
+inform __name__ __area__ __phone__
+inform __name__ __area__ __phone__
+goodbye()
+goodbye()
+?request(pricerange)
+?request(pricerange)
+inform __name__ __food__ __pricerange__
+inform __name__ __food__ __pricerange__
+inform __name__ __area__
+inform __name__ __area__
+inform __name__ __type__
+inform __name__ __type__
+inform __name__ __address__
+inform __name__ __address__
+goodbye()
+goodbye()
+inform_no_match __near__ __goodformeal__ __kidsallowed__
+inform_no_match __near__ __goodformeal__ __kidsallowed__
+inform __name__ __kidsallowed__ __near__
+inform __name__ __kidsallowed__ __near__
+inform __name__ __goodformeal__ __kidsallowed__ __near__
+inform __name__ __goodformeal__ __kidsallowed__ __near__
+inform __name__ __address__ __phone__
+inform __name__ __address__ __phone__
+goodbye()
+goodbye()
+?request(pricerange)
+?request(pricerange)
+?request(pricerange)
+?request(pricerange)
+?request(pricerange)
+?request(pricerange)
+?request(pricerange)
+?request(pricerange)
+inform __name__ __pricerange__
+inform __name__ __pricerange__
+inform_no_match __pricerange__ __area__
+inform_no_match __pricerange__ __area__
+inform_no_match __area__ __food__
+inform_no_match __area__ __food__
+inform_no_match __area__ __food__
+inform_no_match __area__ __food__
+inform_count __type__ __count__ __goodformeal__ __near__
+inform_count __type__ __count__ __goodformeal__ __near__
+?request(food)
+?request(food)
+inform __name__ __food__ __goodformeal__ __near__
+inform __name__ __food__ __goodformeal__ __near__
+inform __name__ __address__ __price__
+inform __name__ __address__ __price__
+goodbye()
+goodbye()
+?request(goodformeal)
+?request(goodformeal)
+inform __name__ __food__
+inform __name__ __food__
+inform __name__ __address__ __phone__
+inform __name__ __address__ __phone__
+?reqmore()
+?reqmore()
+goodbye()
+goodbye()
+inform_count __type__ __count__ __food__ __pricerange__
+inform_count __type__ __count__ __food__ __pricerange__
+?request(area)
+?request(area)
+inform __name__ __kidsallowed__ __food__ __pricerange__
+inform __name__ __kidsallowed__ __food__ __pricerange__
+?request(food)
+?request(food)
+inform_count __type__ __count__ __food__
+inform_count __type__ __count__ __food__
+?request(pricerange)
+?request(pricerange)
+inform __name__ __area__ __pricerange__ __food__
+inform __name__ __area__ __pricerange__ __food__
+inform __name__ __address__ __phone__
+inform __name__ __address__ __phone__
+inform __name__ __goodformeal__
+inform __name__ __goodformeal__
+goodbye()
+goodbye()
+inform __name__ __pricerange__ __kidsallowed__
+inform __name__ __pricerange__ __kidsallowed__
+inform_no_match __pricerange__ __goodformeal__
+inform_no_match __pricerange__ __goodformeal__
+goodbye()
+goodbye()
+inform __name__ __pricerange__
+inform __name__ __pricerange__
+inform __name__ __type__
+inform __name__ __type__
+inform_count __type__ __count__ __near__ __pricerange__
+inform_count __type__ __count__ __near__ __pricerange__
+?request(food)
+?request(food)
+inform __name__ __food__ __pricerange__ __near__
+inform __name__ __food__ __pricerange__ __near__
+inform_only_match __name__ __pricerange__ __near__
+inform_only_match __name__ __pricerange__ __near__
+inform __name__ __address__
+inform __name__ __address__
+goodbye()
+goodbye()
+inform __name__ __kidsallowed__ __goodformeal__ __food__
+inform __name__ __kidsallowed__ __goodformeal__ __food__
+inform __name__ __pricerange__ __address__ __phone__
+inform __name__ __pricerange__ __address__ __phone__
+goodbye()
+goodbye()
+inform __name__ __food__ __area__
+inform __name__ __food__ __area__
+inform __name__ __type__
+inform __name__ __type__
+inform __name__ __phone__
+inform __name__ __phone__
+inform __name__ __address__
+inform __name__ __address__
+goodbye()
+goodbye()
+inform __name__ __pricerange__ __goodformeal__
+inform __name__ __pricerange__ __goodformeal__
+inform __name__ __near__
+inform __name__ __near__
+inform_count __type__ __count__ __near__ __pricerange__
+inform_count __type__ __count__ __near__ __pricerange__
+?request(food)
+?request(food)
+inform __name__ __near__ __goodformeal__ __pricerange__
+inform __name__ __near__ __goodformeal__ __pricerange__
+inform __name__ __food__ __address__
+inform __name__ __food__ __address__
+goodbye()
+goodbye()
+inform __name__ __goodformeal__ __near__
+inform __name__ __goodformeal__ __near__
+inform __name__ __area__
+inform __name__ __area__
+inform __name__ __address__
+inform __name__ __address__
+inform __name__ __phone__
+inform __name__ __phone__
+inform __name__ __type__
+inform __name__ __type__
+inform __name__ __price__
+inform __name__ __price__
+goodbye()
+goodbye()
+inform __name__ __pricerange__ __goodformeal__
+inform __name__ __pricerange__ __goodformeal__
+inform __name__ __area__
+inform __name__ __area__
+inform __name__ __near__
+inform __name__ __near__
+inform_only_match __name__ __goodformeal__ __pricerange__
+inform_only_match __name__ __goodformeal__ __pricerange__
+inform __name__ __goodformeal__ __phone__
+inform __name__ __goodformeal__ __phone__
+inform __name__ __price__
+inform __name__ __price__
+goodbye()
+goodbye()
+inform __name__ __food__ __pricerange__
+inform __name__ __food__ __pricerange__
+inform_count __type__ __count__ __food__ __pricerange__
+inform_count __type__ __count__ __food__ __pricerange__
+?request(near)
+?request(near)
+inform __name__ __type__
+inform __name__ __type__
+inform __name__ __type__
+inform __name__ __type__
+goodbye()
+goodbye()
+?request(pricerange)
+?request(pricerange)
+inform __name__ __pricerange__
+inform __name__ __pricerange__
+inform __name__ __type__
+inform __name__ __type__
+inform __name__ __type__
+inform __name__ __type__
+?reqmore()
+?reqmore()
+?reqmore()
+?reqmore()
+goodbye()
+goodbye()
+inform __name__ __food__
+inform __name__ __food__
+inform_only_match __name__ __food__
+inform_only_match __name__ __food__
+inform __name__ __address__ __phone__
+inform __name__ __address__ __phone__
+goodbye()
+goodbye()
+inform __name__ __food__
+inform __name__ __food__
+inform __name__ __food__
+inform __name__ __food__
+inform __name__ __type__
+inform __name__ __type__
+inform __name__ __kidsallowed__ __area__ __pricerange__
+inform __name__ __kidsallowed__ __area__ __pricerange__
+inform __name__ __phone__
+inform __name__ __phone__
+?select __kidsallowed__ __kidsallowed__
+?select __kidsallowed__ __kidsallowed__
+inform __name__ __address__
+inform __name__ __address__
+goodbye()
+goodbye()
+?request(pricerange)
+?request(pricerange)
+inform_count __type__ __count__ __pricerange__
+inform_count __type__ __count__ __pricerange__
+?request(near)
+?request(near)
+inform_count __type__ __count__ __pricerange__
+inform_count __type__ __count__ __pricerange__
+?request(goodformeal)
+?request(goodformeal)
+inform_count __type__ __count__ __pricerange__
+inform_count __type__ __count__ __pricerange__
+?request(area)
+?request(area)
+inform_count __type__ __count__ __pricerange__
+inform_count __type__ __count__ __pricerange__
+?request(goodformeal)
+?request(goodformeal)
+goodbye()
+goodbye()
+inform __name__ __kidsallowed__ __pricerange__ __near__
+inform __name__ __kidsallowed__ __pricerange__ __near__
+inform __name__ __type__
+inform __name__ __type__
+inform __name__ __phone__
+inform __name__ __phone__
+inform __name__ __food__
+inform __name__ __food__
+goodbye()
+goodbye()
+inform_count __type__ __count__ __food__
+inform_count __type__ __count__ __food__
+?request(pricerange)
+?request(pricerange)
+inform __name__ __pricerange__ __area__ __food__
+inform __name__ __pricerange__ __area__ __food__
+inform __name__ __address__
+inform __name__ __address__
+inform __name__ __phone__
+inform __name__ __phone__
+inform __name__ __goodformeal__
+inform __name__ __goodformeal__
+goodbye()
+goodbye()
+?request(pricerange)
+?request(pricerange)
+inform_count __type__ __count__ __pricerange__
+inform_count __type__ __count__ __pricerange__
+?request(food)
+?request(food)
+inform __name__ __pricerange__ __food__ __goodformeal__
+inform __name__ __pricerange__ __food__ __goodformeal__
+inform_no_match __goodformeal__ __food__
+inform_no_match __goodformeal__ __food__
+inform __name__ __food__
+inform __name__ __food__
+inform __name__ __goodformeal__
+inform __name__ __goodformeal__
+inform __name__ __area__ __phone__
+inform __name__ __area__ __phone__
+goodbye()
+goodbye()
+inform __name__ __pricerange__ __food__
+inform __name__ __pricerange__ __food__
+inform_only_match __name__ __near__ __pricerange__ __food__
+inform_only_match __name__ __near__ __pricerange__ __food__
+inform __name__ __phone__
+inform __name__ __phone__
+goodbye()
+goodbye()
+?request(pricerange)
+?request(pricerange)
+?request(pricerange)
+?request(pricerange)
+inform __name__ __pricerange__
+inform __name__ __pricerange__
+goodbye()
+goodbye()
+inform __name__ __food__
+inform __name__ __food__
+inform __name__ __type__
+inform __name__ __type__
+inform_only_match __name__ __food__
+inform_only_match __name__ __food__
+inform __name__ __food__ __goodformeal__
+inform __name__ __food__ __goodformeal__
+inform __name__ __address__ __price__ __phone__
+inform __name__ __address__ __price__ __phone__
+goodbye()
+goodbye()
+inform __name__ __near__
+inform __name__ __near__
+inform __name__ __goodformeal__ __near__
+inform __name__ __goodformeal__ __near__
+inform __name__ __food__ __kidsallowed__ __address__ __phone__
+inform __name__ __food__ __kidsallowed__ __address__ __phone__
+goodbye()
+goodbye()
+inform __name__ __kidsallowed__ __food__
+inform __name__ __kidsallowed__ __food__
+inform __name__ __area__ __phone__
+inform __name__ __area__ __phone__
+goodbye()
+goodbye()
+inform __name__ __pricerange__ __goodformeal__
+inform __name__ __pricerange__ __goodformeal__
+inform __name__ __address__ __phone__
+inform __name__ __address__ __phone__
+inform __name__ __area__
+inform __name__ __area__
+goodbye()
+goodbye()
+?request(food)
+?request(food)
+inform_count __type__ __count__ __food__
+inform_count __type__ __count__ __food__
+?select __kidsallowed__ __kidsallowed__
+?select __kidsallowed__ __kidsallowed__
+inform __name__ __kidsallowed__ __food__
+inform __name__ __kidsallowed__ __food__
+inform __name__ __near__ __address__
+inform __name__ __near__ __address__
+inform_no_match __area__
+inform_no_match __area__
+inform_no_match __area__
+inform_no_match __area__
+goodbye()
+goodbye()
+?request(pricerange)
+?request(pricerange)
+inform_count __type__ __count__ __pricerange__
+inform_count __type__ __count__ __pricerange__
+?request(goodformeal)
+?request(goodformeal)
+inform_count __type__ __count__ __pricerange__
+inform_count __type__ __count__ __pricerange__
+?request(food)
+?request(food)
+inform __name__ __pricerange__ __food__
+inform __name__ __pricerange__ __food__
+inform __name__ __postcode__
+inform __name__ __postcode__
+goodbye()
+goodbye()
+inform_no_match __kidsallowed__ __food__
+inform_no_match __kidsallowed__ __food__
+inform __name__ __food__
+inform __name__ __food__
+inform __name__ __kidsallowed__
+inform __name__ __kidsallowed__
+inform __name__ __address__ __phone__
+inform __name__ __address__ __phone__
+inform __name__ __pricerange__
+inform __name__ __pricerange__
+goodbye()
+goodbye()
+inform __name__ __pricerange__
+inform __name__ __pricerange__
+?reqmore()
+?reqmore()
+inform __name__ __type__
+inform __name__ __type__
+inform __name__ __address__
+inform __name__ __address__
+inform __name__ __price__
+inform __name__ __price__
+inform __name__ __area__
+inform __name__ __area__
+goodbye()
+goodbye()
+inform __name__ __area__ __goodformeal__
+inform __name__ __area__ __goodformeal__
+inform __name__ __area__ __goodformeal__
+inform __name__ __area__ __goodformeal__
+inform __name__ __kidsallowed__
+inform __name__ __kidsallowed__
+inform_only_match __name__ __area__
+inform_only_match __name__ __area__
+goodbye()
+goodbye()
+inform __name__ __pricerange__ __near__
+inform __name__ __pricerange__ __near__
+inform __name__ __goodformeal__
+inform __name__ __goodformeal__
+?reqmore()
+?reqmore()
+?reqmore()
+?reqmore()
+?reqmore()
+?reqmore()
+goodbye()
+goodbye()
+inform_no_match __goodformeal__ __food__
+inform_no_match __goodformeal__ __food__
+inform __name__ __food__
+inform __name__ __food__
+inform __name__ __address__ __price__ __phone__
+inform __name__ __address__ __price__ __phone__
+goodbye()
+goodbye()
+?select __area__
+?select __area__
+?select __kidsallowed__ __kidsallowed__
+?select __kidsallowed__ __kidsallowed__
+?confirm __kidsallowed__
+?confirm __kidsallowed__
+?select __kidsallowed__ __kidsallowed__
+?select __kidsallowed__ __kidsallowed__
+inform_count __type__ __count__ __kidsallowed__
+inform_count __type__ __count__ __kidsallowed__
+?request(area)
+?request(area)
+inform __name__ __kidsallowed__
+inform __name__ __kidsallowed__
+inform __name__ __pricerange__ __food__
+inform __name__ __pricerange__ __food__
+inform __name__ __goodformeal__ __phone__
+inform __name__ __goodformeal__ __phone__
+inform __name__ __area__
+inform __name__ __area__
+inform_no_match __food__ __area__
+inform_no_match __food__ __area__
+goodbye()
+goodbye()
+inform __name__ __kidsallowed__ __food__
+inform __name__ __kidsallowed__ __food__
+inform_count __type__ __count__ __food__ __kidsallowed__
+inform_count __type__ __count__ __food__ __kidsallowed__
+?request(near)
+?request(near)
+inform __name__ __near__ __kidsallowed__ __food__
+inform __name__ __near__ __kidsallowed__ __food__
+inform __name__ __address__
+inform __name__ __address__
+inform __name__ __phone__
+inform __name__ __phone__
+inform __name__ __pricerange__
+inform __name__ __pricerange__
+goodbye()
+goodbye()
+inform __name__ __near__
+inform __name__ __near__
+goodbye()
+goodbye()
+inform_count __type__ __count__ __goodformeal__ __kidsallowed__ __area__
+inform_count __type__ __count__ __goodformeal__ __kidsallowed__ __area__
+?request(pricerange)
+?request(pricerange)
+?request(pricerange)
+?request(pricerange)
+?request(pricerange)
+?request(pricerange)
+inform __name__ __goodformeal__
+inform __name__ __goodformeal__
+inform __name__ __type__
+inform __name__ __type__
+inform __name__ __type__
+inform __name__ __type__
+goodbye()
+goodbye()
+?select __food__
+?select __food__
+inform __name__ __goodformeal__ __food__
+inform __name__ __goodformeal__ __food__
+inform __name__ __address__
+inform __name__ __address__
+inform __name__ __near__
+inform __name__ __near__
+goodbye()
+goodbye()
+inform __name__ __pricerange__
+inform __name__ __pricerange__
+inform __name__ __pricerange__
+inform __name__ __pricerange__
+inform __name__ __address__
+inform __name__ __address__
+inform __name__ __food__
+inform __name__ __food__
+goodbye()
+goodbye()
+inform __name__ __area__ __pricerange__ __kidsallowed__
+inform __name__ __area__ __pricerange__ __kidsallowed__
+inform __name__ __address__
+inform __name__ __address__
+inform __name__ __near__
+inform __name__ __near__
+goodbye()
+goodbye()
+inform_no_match __goodformeal__ __food__
+inform_no_match __goodformeal__ __food__
+inform __name__ __goodformeal__ __food__
+inform __name__ __goodformeal__ __food__
+inform __name__ __type__
+inform __name__ __type__
+inform __name__ __address__ __phone__
+inform __name__ __address__ __phone__
+inform __name__ __postcode__
+inform __name__ __postcode__
+goodbye()
+goodbye()
+inform __name__ __pricerange__ __kidsallowed__ __food__
+inform __name__ __pricerange__ __kidsallowed__ __food__
+inform __name__ __address__
+inform __name__ __address__
+inform __name__ __postcode__
+inform __name__ __postcode__
+inform __name__ __type__
+inform __name__ __type__
+goodbye()
+goodbye()
+?request(pricerange)
+?request(pricerange)
+inform __name__ __pricerange__
+inform __name__ __pricerange__
+goodbye()
+goodbye()
+inform_count __type__ __count__ __food__
+inform_count __type__ __count__ __food__
+?request(pricerange)
+?request(pricerange)
+inform __name__ __pricerange__ __food__
+inform __name__ __pricerange__ __food__
+inform __name__ __pricerange__
+inform __name__ __pricerange__
+inform __name__ __phone__
+inform __name__ __phone__
+inform __name__ __price__
+inform __name__ __price__
+?select __pricerange__ __pricerange__
+?select __pricerange__ __pricerange__
+goodbye()
+goodbye()
+inform __name__ __pricerange__
+inform __name__ __pricerange__
+inform_no_match __pricerange__ __area__
+inform_no_match __pricerange__ __area__
+inform __name__ __area__ __pricerange__
+inform __name__ __area__ __pricerange__
+goodbye()
+goodbye()
+inform __name__ __pricerange__ __kidsallowed__
+inform __name__ __pricerange__ __kidsallowed__
+inform_count __type__ __count__ __kidsallowed__ __pricerange__
+inform_count __type__ __count__ __kidsallowed__ __pricerange__
+?request(goodformeal)
+?request(goodformeal)
+inform __name__ __kidsallowed__ __pricerange__
+inform __name__ __kidsallowed__ __pricerange__
+inform __name__ __near__ __price__
+inform __name__ __near__ __price__
+inform __name__ __phone__
+inform __name__ __phone__
+inform_count __type__ __count__ __kidsallowed__ __pricerange__
+inform_count __type__ __count__ __kidsallowed__ __pricerange__
+?request(goodformeal)
+?request(goodformeal)
+goodbye()
+goodbye()
+inform __name__ __area__ __pricerange__
+inform __name__ __area__ __pricerange__
+inform __name__ __food__ __phone__
+inform __name__ __food__ __phone__
+goodbye()
+goodbye()
+?request(pricerange)
+?request(pricerange)
+?confirm __pricerange__
+?confirm __pricerange__
+?request(pricerange)
+?request(pricerange)
+inform __name__ __pricerange__
+inform __name__ __pricerange__
+inform __name__ __address__
+inform __name__ __address__
+inform __name__ __postcode__
+inform __name__ __postcode__
+goodbye()
+goodbye()
+?request(food)
+?request(food)
+?select __kidsallowed__ __kidsallowed__
+?select __kidsallowed__ __kidsallowed__
+inform __name__ __kidsallowed__ __goodformeal__
+inform __name__ __kidsallowed__ __goodformeal__
+inform __name__ __area__ __phone__
+inform __name__ __area__ __phone__
+goodbye()
+goodbye()
+?request(food)
+?request(food)
+?confirm __food__
+?confirm __food__
+inform __name__ __food__ __near__
+inform __name__ __food__ __near__
+inform __name__ __food__ __near__
+inform __name__ __food__ __near__
+inform __name__ __area__ __address__
+inform __name__ __area__ __address__
+goodbye()
+goodbye()
+inform __name__ __near__
+inform __name__ __near__
+inform __name__ __type__
+inform __name__ __type__
+inform __name__ __food__
+inform __name__ __food__
+inform __name__ __type__
+inform __name__ __type__
+?request(near)
+?request(near)
+?request(pricerange)
+?request(pricerange)
+goodbye()
+goodbye()
+?request(pricerange)
+?request(pricerange)
+inform __name__ __pricerange__ __near__
+inform __name__ __pricerange__ __near__
+inform __name__ __area__ __address__
+inform __name__ __area__ __address__
+goodbye()
+goodbye()
+?request(pricerange)
+?request(pricerange)
+inform_count __type__ __count__ __pricerange__
+inform_count __type__ __count__ __pricerange__
+?request(food)
+?request(food)
+inform_no_match __area__ __food__
+inform_no_match __area__ __food__
+inform __name__ __near__ __food__
+inform __name__ __near__ __food__
+inform __name__ __address__
+inform __name__ __address__
+inform __name__ __pricerange__
+inform __name__ __pricerange__
+goodbye()
+goodbye()
+?request(food)
+?request(food)
+inform __name__ __food__
+inform __name__ __food__
+inform __name__ __area__
+inform __name__ __area__
+inform_no_match __food__ __area__
+inform_no_match __food__ __area__
+goodbye()
+goodbye()
+?request(food)
+?request(food)
+?request(pricerange)
+?request(pricerange)
+inform __name__ __food__
+inform __name__ __food__
+inform __name__ __near__
+inform __name__ __near__
+inform __name__ __near__ __food__
+inform __name__ __near__ __food__
+inform __name__ __phone__
+inform __name__ __phone__
+inform __name__ __address__
+inform __name__ __address__
+goodbye()
+goodbye()
+?request(food)
+?request(food)
+inform __name__ __pricerange__
+inform __name__ __pricerange__
+inform __name__ __area__
+inform __name__ __area__
+inform __name__ __pricerange__
+inform __name__ __pricerange__
+inform __name__ __area__ __address__
+inform __name__ __area__ __address__
+inform __name__ __phone__
+inform __name__ __phone__
+inform_only_match __name__ __area__
+inform_only_match __name__ __area__
+inform __name__ __type__
+inform __name__ __type__
+goodbye()
+goodbye()
+inform __name__ __near__ __kidsallowed__
+inform __name__ __near__ __kidsallowed__
+inform __name__ __address__
+inform __name__ __address__
+inform __name__ __type__
+inform __name__ __type__
+inform __name__ __phone__
+inform __name__ __phone__
+inform __name__ __area__
+inform __name__ __area__
+goodbye()
+goodbye()
+inform __name__ __pricerange__ __kidsallowed__ __food__
+inform __name__ __pricerange__ __kidsallowed__ __food__
+inform __name__ __near__
+inform __name__ __near__
+inform __name__ __address__
+inform __name__ __address__
+goodbye()
+goodbye()
+?request(food)
+?request(food)
+inform __name__ __food__
+inform __name__ __food__
+inform __name__ __type__
+inform __name__ __type__
+inform_only_match __name__ __food__
+inform_only_match __name__ __food__
+?reqmore()
+?reqmore()
+goodbye()
+goodbye()
+inform __name__ __pricerange__ __kidsallowed__
+inform __name__ __pricerange__ __kidsallowed__
+inform __name__ __area__ __address__ __phone__
+inform __name__ __area__ __address__ __phone__
+goodbye()
+goodbye()
+inform __name__ __pricerange__ __near__
+inform __name__ __pricerange__ __near__
+inform __name__ __food__ __address__ __phone__
+inform __name__ __food__ __address__ __phone__
+goodbye()
+goodbye()
+inform __name__ __near__ __food__
+inform __name__ __near__ __food__
+inform __name__ __near__ __food__
+inform __name__ __near__ __food__
+inform __name__ __address__
+inform __name__ __address__
+inform __name__ __type__
+inform __name__ __type__
+?request(food)
+?request(food)
+inform __name__ __postcode__
+inform __name__ __postcode__
+goodbye()
+goodbye()
+?request(food)
+?request(food)
+inform_count __type__ __count__ __food__
+inform_count __type__ __count__ __food__
+?request(area)
+?request(area)
+inform __name__ __food__ __area__
+inform __name__ __food__ __area__
+inform __name__ __address__ __phone__
+inform __name__ __address__ __phone__
+goodbye()
+goodbye()
+inform_count __type__ __count__ __kidsallowed__ __pricerange__
+inform_count __type__ __count__ __kidsallowed__ __pricerange__
+?request(near)
+?request(near)
+goodbye()
+goodbye()
+inform_no_match __area__ __food__
+inform_no_match __area__ __food__
+inform_no_match __area__ __food__
+inform_no_match __area__ __food__
+inform_no_match __kidsallowed__ __food__
+inform_no_match __kidsallowed__ __food__
+inform_no_match __area__ __food__
+inform_no_match __area__ __food__
+inform_no_match __area__ __food__
+inform_no_match __area__ __food__
+?request(near)
+?request(near)
+goodbye()
+goodbye()
+?request(pricerange)
+?request(pricerange)
+inform __name__ __pricerange__ __area__
+inform __name__ __pricerange__ __area__
+inform __name__ __address__ __price__ __phone__
+inform __name__ __address__ __price__ __phone__
+goodbye()
+goodbye()
+inform __name__ __food__
+inform __name__ __food__
+inform __name__ __near__ __area__
+inform __name__ __near__ __area__
+inform_only_match __name__ __food__
+inform_only_match __name__ __food__
+?select __area__
+?select __area__
+inform __name__ __near__ __food__
+inform __name__ __near__ __food__
+inform __name__ __address__ __postcode__
+inform __name__ __address__ __postcode__
+goodbye()
+goodbye()
+inform __name__ __pricerange__
+inform __name__ __pricerange__
+inform __name__ __area__ __pricerange__
+inform __name__ __area__ __pricerange__
+?confirm __pricerange__
+?confirm __pricerange__
+inform_count __type__ __count__ __pricerange__ __area__
+inform_count __type__ __count__ __pricerange__ __area__
+?request(food)
+?request(food)
+goodbye()
+goodbye()
+inform __name__ __near__ __kidsallowed__ __goodformeal__
+inform __name__ __near__ __kidsallowed__ __goodformeal__
+inform __name__ __type__
+inform __name__ __type__
+inform __name__ __address__
+inform __name__ __address__
+inform_only_match __name__ __kidsallowed__ __goodformeal__ __near__
+inform_only_match __name__ __kidsallowed__ __goodformeal__ __near__
+inform __name__ __postcode__
+inform __name__ __postcode__
+goodbye()
+goodbye()
+?request(near)
+?request(near)
+?request(pricerange)
+?request(pricerange)
+goodbye()
+goodbye()
+inform __name__ __kidsallowed__ __goodformeal__
+inform __name__ __kidsallowed__ __goodformeal__
+inform __name__ __area__
+inform __name__ __area__
+inform __name__ __area__ __kidsallowed__ __goodformeal__
+inform __name__ __area__ __kidsallowed__ __goodformeal__
+inform __name__ __phone__
+inform __name__ __phone__
+inform __name__ __price__
+inform __name__ __price__
+goodbye()
+goodbye()
+inform __name__ __area__ __kidsallowed__ __goodformeal__
+inform __name__ __area__ __kidsallowed__ __goodformeal__
+inform __name__ __address__ __phone__
+inform __name__ __address__ __phone__
+inform __name__ __postcode__
+inform __name__ __postcode__
+goodbye()
+goodbye()
+?request(goodformeal)
+?request(goodformeal)
+inform_count __type__ __count__ __goodformeal__
+inform_count __type__ __count__ __goodformeal__
+?request(near)
+?request(near)
+inform_count __type__ __count__ __goodformeal__
+inform_count __type__ __count__ __goodformeal__
+?request(food)
+?request(food)
+inform __name__ __food__ __goodformeal__
+inform __name__ __food__ __goodformeal__
+inform __name__ __food__ __goodformeal__
+inform __name__ __food__ __goodformeal__
+inform_count __type__ __count__ __goodformeal__ __food__
+inform_count __type__ __count__ __goodformeal__ __food__
+?request(near)
+?request(near)
+goodbye()
+goodbye()
+?select __near__
+?select __near__
+goodbye()
+goodbye()
+inform __name__ __pricerange__
+inform __name__ __pricerange__
+inform __name__ __pricerange__ __food__
+inform __name__ __pricerange__ __food__
+inform __name__ __area__ __address__
+inform __name__ __area__ __address__
+goodbye()
+goodbye()
+inform_count __type__ __count__ __goodformeal__
+inform_count __type__ __count__ __goodformeal__
+?request(pricerange)
+?request(pricerange)
+?request(pricerange)
+?request(pricerange)
+?request(pricerange)
+?request(pricerange)
+?request(goodformeal)
+?request(goodformeal)
+?request(pricerange)
+?request(pricerange)
+inform __name__ __pricerange__
+inform __name__ __pricerange__
+inform __name__ __pricerange__
+inform __name__ __pricerange__
+goodbye()
+goodbye()
+inform __name__ __pricerange__ __food__
+inform __name__ __pricerange__ __food__
+?confirm __pricerange__
+?confirm __pricerange__
+inform_count __type__ __count__ __pricerange__ __food__
+inform_count __type__ __count__ __pricerange__ __food__
+?request(near)
+?request(near)
+inform __name__ __pricerange__ __kidsallowed__ __food__
+inform __name__ __pricerange__ __kidsallowed__ __food__
+inform __name__ __type__
+inform __name__ __type__
+inform __name__ __food__
+inform __name__ __food__
+?request(food)
+?request(food)
+inform __name__ __kidsallowed__
+inform __name__ __kidsallowed__
+inform __name__ __kidsallowed__
+inform __name__ __kidsallowed__
+inform __name__ __phone__ __postcode__
+inform __name__ __phone__ __postcode__
+goodbye()
+goodbye()
+inform __name__ __near__
+inform __name__ __near__
+inform __name__ __area__ __address__
+inform __name__ __area__ __address__
+goodbye()
+goodbye()
+?request(food)
+?request(food)
+?select __area__
+?select __area__
+inform __name__ __near__ __food__
+inform __name__ __near__ __food__
+?request(food)
+?request(food)
+inform __name__ __type__
+inform __name__ __type__
+inform __name__ __type__
+inform __name__ __type__
+inform_no_match __kidsallowed__ __near__
+inform_no_match __kidsallowed__ __near__
+inform __name__ __food__
+inform __name__ __food__
+inform __name__ __area__
+inform __name__ __area__
+inform __name__ __address__
+inform __name__ __address__
+goodbye()
+goodbye()
+?request(area)
+?request(area)
+inform __name__ __pricerange__
+inform __name__ __pricerange__
+inform __name__ __pricerange__
+inform __name__ __pricerange__
+inform_count __type__ __count__ __pricerange__
+inform_count __type__ __count__ __pricerange__
+?request(area)
+?request(area)
+inform __name__ __price__
+inform __name__ __price__
+goodbye()
+goodbye()
+inform __name__ __goodformeal__
+inform __name__ __goodformeal__
+inform __name__ __goodformeal__
+inform __name__ __goodformeal__
+inform __name__ __address__
+inform __name__ __address__
+inform __name__ __phone__
+inform __name__ __phone__
+inform __name__ __food__
+inform __name__ __food__
+goodbye()
+goodbye()
+inform_count __type__ __count__ __goodformeal__ __pricerange__
+inform_count __type__ __count__ __goodformeal__ __pricerange__
+?request(food)
+?request(food)
+inform __name__ __address__
+inform __name__ __address__
+inform __name__ __type__
+inform __name__ __type__
+goodbye()
+goodbye()
+inform __name__ __goodformeal__
+inform __name__ __goodformeal__
+inform __name__ __goodformeal__ __food__
+inform __name__ __goodformeal__ __food__
+inform __name__ __area__
+inform __name__ __area__
+inform __name__ __address__ __phone__
+inform __name__ __address__ __phone__
+goodbye()
+goodbye()
+inform_no_match __area__ __pricerange__ __kidsallowed__
+inform_no_match __area__ __pricerange__ __kidsallowed__
+inform __name__ __pricerange__ __area__
+inform __name__ __pricerange__ __area__
+inform __name__ __kidsallowed__
+inform __name__ __kidsallowed__
+goodbye()
+goodbye()
+?request(food)
+?request(food)
+inform_count __type__ __count__ __food__
+inform_count __type__ __count__ __food__
+?request(area)
+?request(area)
+inform __name__ __food__ __area__
+inform __name__ __food__ __area__
+inform __name__ __address__ __phone__
+inform __name__ __address__ __phone__
+goodbye()
+goodbye()
+inform __name__ __area__
+inform __name__ __area__
+inform __name__ __phone__
+inform __name__ __phone__
+inform __name__ __near__
+inform __name__ __near__
+goodbye()
+goodbye()
+inform_no_match __area__
+inform_no_match __area__
+inform_no_match __area__
+inform_no_match __area__
+inform __name__ __goodformeal__
+inform __name__ __goodformeal__
+inform __name__ __goodformeal__
+inform __name__ __goodformeal__
+inform __name__ __goodformeal__
+inform __name__ __goodformeal__
+inform __name__ __goodformeal__
+inform __name__ __goodformeal__
+goodbye()
+goodbye()
+inform __name__ __kidsallowed__ __pricerange__
+inform __name__ __kidsallowed__ __pricerange__
+?confirm __near__
+?confirm __near__
+?reqmore()
+?reqmore()
+inform __name__ __area__
+inform __name__ __area__
+inform __name__ __address__ __phone__
+inform __name__ __address__ __phone__
+goodbye()
+goodbye()
+inform __name__ __goodformeal__ __kidsallowed__
+inform __name__ __goodformeal__ __kidsallowed__
+inform_count __type__ __count__ __goodformeal__ __kidsallowed__
+inform_count __type__ __count__ __goodformeal__ __kidsallowed__
+?request(food)
+?request(food)
+inform __name__ __food__ __goodformeal__ __kidsallowed__
+inform __name__ __food__ __goodformeal__ __kidsallowed__
+inform __name__ __food__ __near__ __goodformeal__ __kidsallowed__
+inform __name__ __food__ __near__ __goodformeal__ __kidsallowed__
+inform __name__ __food__ __near__ __goodformeal__ __kidsallowed__
+inform __name__ __food__ __near__ __goodformeal__ __kidsallowed__
+inform __name__ __address__ __phone__ __postcode__
+inform __name__ __address__ __phone__ __postcode__
+goodbye()
+goodbye()
+inform __name__ __near__ __kidsallowed__
+inform __name__ __near__ __kidsallowed__
+inform __name__ __area__ __phone__
+inform __name__ __area__ __phone__
+goodbye()
+goodbye()
+inform __name__ __food__ __goodformeal__
+inform __name__ __food__ __goodformeal__
+inform __name__ __type__
+inform __name__ __type__
+?reqmore()
+?reqmore()
+inform __name__ __area__
+inform __name__ __area__
+goodbye()
+goodbye()
+?request(pricerange)
+?request(pricerange)
+inform_count __type__ __count__ __kidsallowed__
+inform_count __type__ __count__ __kidsallowed__
+?request(area)
+?request(area)
+inform __name__ __kidsallowed__
+inform __name__ __kidsallowed__
+inform_count __type__ __count__ __kidsallowed__
+inform_count __type__ __count__ __kidsallowed__
+?request(area)
+?request(area)
+goodbye()
+goodbye()
+?request(area)
+?request(area)
+?request(pricerange)
+?request(pricerange)
+inform_count __type__ __count__ __pricerange__
+inform_count __type__ __count__ __pricerange__
+?request(food)
+?request(food)
+inform_count __type__ __count__ __pricerange__
+inform_count __type__ __count__ __pricerange__
+?select __kidsallowed__ __kidsallowed__
+?select __kidsallowed__ __kidsallowed__
+goodbye()
+goodbye()
+inform __name__ __area__ __pricerange__ __kidsallowed__
+inform __name__ __area__ __pricerange__ __kidsallowed__
+inform __name__ __address__
+inform __name__ __address__
+inform __name__ __goodformeal__
+inform __name__ __goodformeal__
+goodbye()
+goodbye()
+inform __name__ __food__
+inform __name__ __food__
+inform __name__ __area__ __address__
+inform __name__ __area__ __address__
+goodbye()
+goodbye()
+inform __name__ __kidsallowed__ __pricerange__ __near__
+inform __name__ __kidsallowed__ __pricerange__ __near__
+?confirm __near__
+?confirm __near__
+inform __name__ __near__ __kidsallowed__ __pricerange__
+inform __name__ __near__ __kidsallowed__ __pricerange__
+?confirm __near__
+?confirm __near__
+inform_only_match __name__ __near__ __kidsallowed__ __pricerange__
+inform_only_match __name__ __near__ __kidsallowed__ __pricerange__
+inform __name__ __address__ __phone__ __postcode__
+inform __name__ __address__ __phone__ __postcode__
+goodbye()
+goodbye()
+inform_count __type__ __count__ __area__
+inform_count __type__ __count__ __area__
+?request(pricerange)
+?request(pricerange)
+inform __name__ __pricerange__
+inform __name__ __pricerange__
+inform __name__ __phone__
+inform __name__ __phone__
+inform __name__ __pricerange__
+inform __name__ __pricerange__
+inform_no_match __area__ __pricerange__
+inform_no_match __area__ __pricerange__
+goodbye()
+goodbye()
+?request(near)
+?request(near)
+?request(area)
+?request(area)
+inform_count __type__ __count__ __goodformeal__ __area__
+inform_count __type__ __count__ __goodformeal__ __area__
+?request(food)
+?request(food)
+inform __name__ __kidsallowed__ __food__ __area__
+inform __name__ __kidsallowed__ __food__ __area__
+inform __name__ __address__
+inform __name__ __address__
+inform __name__ __type__
+inform __name__ __type__
+inform __name__ __phone__
+inform __name__ __phone__
+goodbye()
+goodbye()
+?request(food)
+?request(food)
+inform_count __type__ __count__ __food__
+inform_count __type__ __count__ __food__
+?request(pricerange)
+?request(pricerange)
+inform_count __type__ __count__ __food__ __pricerange__
+inform_count __type__ __count__ __food__ __pricerange__
+?request(area)
+?request(area)
+inform_count __type__ __count__ __food__ __pricerange__ __area__
+inform_count __type__ __count__ __food__ __pricerange__ __area__
+?request(goodformeal)
+?request(goodformeal)
+inform __name__ __goodformeal__ __area__ __pricerange__ __food__
+inform __name__ __goodformeal__ __area__ __pricerange__ __food__
+inform __name__ __price__ __phone__
+inform __name__ __price__ __phone__
+goodbye()
+goodbye()
+inform __name__ __area__
+inform __name__ __area__
+inform_only_match __name__ __area__
+inform_only_match __name__ __area__
+inform __name__ __kidsallowed__
+inform __name__ __kidsallowed__
+goodbye()
+goodbye()
+inform_count __type__ __count__ __pricerange__
+inform_count __type__ __count__ __pricerange__
+?request(food)
+?request(food)
+inform __name__ __food__ __pricerange__
+inform __name__ __food__ __pricerange__
+inform __name__ __price__ __phone__
+inform __name__ __price__ __phone__
+goodbye()
+goodbye()
+?request(pricerange)
+?request(pricerange)
+?request(pricerange)
+?request(pricerange)
+inform_count __type__ __count__ __pricerange__
+inform_count __type__ __count__ __pricerange__
+?request(area)
+?request(area)
+inform_count __type__ __count__ __pricerange__
+inform_count __type__ __count__ __pricerange__
+?request(area)
+?request(area)
+inform __name__ __area__ __pricerange__
+inform __name__ __area__ __pricerange__
+inform __name__ __near__ __address__
+inform __name__ __near__ __address__
+goodbye()
+goodbye()
+inform_count __type__ __count__ __pricerange__
+inform_count __type__ __count__ __pricerange__
+?select __kidsallowed__ __kidsallowed__
+?select __kidsallowed__ __kidsallowed__
+inform_count __type__ __count__ __food__ __pricerange__
+inform_count __type__ __count__ __food__ __pricerange__
+?request(goodformeal)
+?request(goodformeal)
+inform __name__ __pricerange__ __food__ __goodformeal__
+inform __name__ __pricerange__ __food__ __goodformeal__
+inform __name__ __address__
+inform __name__ __address__
+goodbye()
+goodbye()
+?confirm __pricerange__
+?confirm __pricerange__
+inform __name__ __pricerange__
+inform __name__ __pricerange__
+inform __name__ __type__
+inform __name__ __type__
+inform __name__ __type__
+inform __name__ __type__
+?request(goodformeal)
+?request(goodformeal)
+inform __name__ __type__
+inform __name__ __type__
+goodbye()
+goodbye()
+?request(goodformeal)
+?request(goodformeal)
+inform_count __type__ __count__ __goodformeal__
+inform_count __type__ __count__ __goodformeal__
+?select __kidsallowed__ __kidsallowed__
+?select __kidsallowed__ __kidsallowed__
+inform __name__ __kidsallowed__ __goodformeal__
+inform __name__ __kidsallowed__ __goodformeal__
+inform __name__ __near__ __address__ __phone__
+inform __name__ __near__ __address__ __phone__
+goodbye()
+goodbye()
+inform __name__ __pricerange__ __kidsallowed__ __near__
+inform __name__ __pricerange__ __kidsallowed__ __near__
+inform __name__ __area__ __phone__
+inform __name__ __area__ __phone__
+goodbye()
+goodbye()
+inform __name__ __area__ __pricerange__ __kidsallowed__
+inform __name__ __area__ __pricerange__ __kidsallowed__
+inform __name__ __address__
+inform __name__ __address__
+inform __name__ __goodformeal__
+inform __name__ __goodformeal__
+goodbye()
+goodbye()
+inform __name__ __pricerange__
+inform __name__ __pricerange__
+inform __name__ __area__ __pricerange__
+inform __name__ __area__ __pricerange__
+inform __name__ __address__
+inform __name__ __address__
+inform __name__ __phone__
+inform __name__ __phone__
+inform __name__ __area__
+inform __name__ __area__
+goodbye()
+goodbye()
+inform __name__ __pricerange__ __food__
+inform __name__ __pricerange__ __food__
+inform __name__ __area__ __address__ __phone__
+inform __name__ __area__ __address__ __phone__
+goodbye()
+goodbye()
+inform __name__ __food__
+inform __name__ __food__
+inform_only_match __name__ __food__
+inform_only_match __name__ __food__
+inform __name__ __near__ __address__
+inform __name__ __near__ __address__
+inform __name__ __phone__
+inform __name__ __phone__
+inform __name__ __postcode__
+inform __name__ __postcode__
+goodbye()
+goodbye()
+inform_count __type__ __count__ __goodformeal__ __kidsallowed__
+inform_count __type__ __count__ __goodformeal__ __kidsallowed__
+?request(area)
+?request(area)
+inform_count __type__ __count__ __goodformeal__ __kidsallowed__
+inform_count __type__ __count__ __goodformeal__ __kidsallowed__
+?request(pricerange)
+?request(pricerange)
+inform __name__ __pricerange__ __kidsallowed__ __goodformeal__
+inform __name__ __pricerange__ __kidsallowed__ __goodformeal__
+inform __name__ __phone__
+inform __name__ __phone__
+goodbye()
+goodbye()
+inform __name__ __area__ __goodformeal__
+inform __name__ __area__ __goodformeal__
+inform __name__ __address__
+inform __name__ __address__
+inform __name__ __price__
+inform __name__ __price__
+goodbye()
+goodbye()
+?select __kidsallowed__ __kidsallowed__
+?select __kidsallowed__ __kidsallowed__
+?request(food)
+?request(food)
+?request(food)
+?request(food)
+goodbye()
+goodbye()
+inform __name__ __food__
+inform __name__ __food__
+inform __name__ __food__ __goodformeal__
+inform __name__ __food__ __goodformeal__
+inform __name__ __food__
+inform __name__ __food__
+inform __name__ __address__
+inform __name__ __address__
+inform_count __type__ __count__ __food__
+inform_count __type__ __count__ __food__
+?select __kidsallowed__ __kidsallowed__
+?select __kidsallowed__ __kidsallowed__
+goodbye()
+goodbye()
+?request(pricerange)
+?request(pricerange)
+inform __name__ __pricerange__
+inform __name__ __pricerange__
+inform __name__ __pricerange__ __near__
+inform __name__ __pricerange__ __near__
+inform __name__ __address__
+inform __name__ __address__
+inform __name__ __phone__
+inform __name__ __phone__
+inform __name__ __postcode__
+inform __name__ __postcode__
+goodbye()
+goodbye()
+inform __name__ __kidsallowed__ __food__
+inform __name__ __kidsallowed__ __food__
+inform __name__ __kidsallowed__ __food__
+inform __name__ __kidsallowed__ __food__
+inform_count __type__ __count__ __food__ __kidsallowed__
+inform_count __type__ __count__ __food__ __kidsallowed__
+?request(near)
+?request(near)
+inform __name__ __kidsallowed__ __food__
+inform __name__ __kidsallowed__ __food__
+inform __name__ __phone__
+inform __name__ __phone__
+inform __name__ __near__
+inform __name__ __near__
+goodbye()
+goodbye()
+?request(pricerange)
+?request(pricerange)
+inform_no_match __goodformeal__ __food__
+inform_no_match __goodformeal__ __food__
+inform_no_match __food__ __goodformeal__
+inform_no_match __food__ __goodformeal__
+inform __name__ __food__ __goodformeal__
+inform __name__ __food__ __goodformeal__
+inform_only_match __name__ __kidsallowed__ __food__ __goodformeal__
+inform_only_match __name__ __kidsallowed__ __food__ __goodformeal__
+inform __name__ __kidsallowed__ __address__ __phone__ __postcode__
+inform __name__ __kidsallowed__ __address__ __phone__ __postcode__
+goodbye()
+goodbye()
+?request(food)
+?request(food)
+?select __kidsallowed__ __kidsallowed__
+?select __kidsallowed__ __kidsallowed__
+inform __name__ __goodformeal__
+inform __name__ __goodformeal__
+inform __name__ __goodformeal__
+inform __name__ __goodformeal__
+inform_only_match __name__ __goodformeal__
+inform_only_match __name__ __goodformeal__
+?reqmore()
+?reqmore()
+inform __name__ __goodformeal__
+inform __name__ __goodformeal__
+?reqmore()
+?reqmore()
+goodbye()
+goodbye()
+inform __name__ __goodformeal__ __kidsallowed__
+inform __name__ __goodformeal__ __kidsallowed__
+inform_count __type__ __count__ __goodformeal__ __kidsallowed__
+inform_count __type__ __count__ __goodformeal__ __kidsallowed__
+?request(food)
+?request(food)
+inform __name__ __food__ __goodformeal__ __kidsallowed__
+inform __name__ __food__ __goodformeal__ __kidsallowed__
+inform __name__ __food__ __near__ __goodformeal__ __kidsallowed__
+inform __name__ __food__ __near__ __goodformeal__ __kidsallowed__
+inform __name__ __food__ __near__ __goodformeal__ __kidsallowed__
+inform __name__ __food__ __near__ __goodformeal__ __kidsallowed__
+inform __name__ __address__ __phone__ __postcode__
+inform __name__ __address__ __phone__ __postcode__
+goodbye()
+goodbye()
+inform __name__ __pricerange__ __goodformeal__
+inform __name__ __pricerange__ __goodformeal__
+inform_no_match __food__ __goodformeal__
+inform_no_match __food__ __goodformeal__
+inform __name__ __near__
+inform __name__ __near__
+inform __name__ __address__ __phone__
+inform __name__ __address__ __phone__
+goodbye()
+goodbye()
+inform_no_match __food__ __near__
+inform_no_match __food__ __near__
+inform_no_match __near__ __food__
+inform_no_match __near__ __food__
+inform __name__ __kidsallowed__ __goodformeal__ __pricerange__
+inform __name__ __kidsallowed__ __goodformeal__ __pricerange__
+goodbye()
+goodbye()
+inform __name__ __pricerange__ __near__
+inform __name__ __pricerange__ __near__
+?confirm __near__
+?confirm __near__
+?confirm __near__
+?confirm __near__
+inform __name__ __near__ __pricerange__
+inform __name__ __near__ __pricerange__
+inform __name__ __address__
+inform __name__ __address__
+inform __name__ __phone__ __postcode__
+inform __name__ __phone__ __postcode__
+goodbye()
+goodbye()
+inform __name__ __kidsallowed__ __goodformeal__
+inform __name__ __kidsallowed__ __goodformeal__
+inform __name__ __area__ __address__
+inform __name__ __area__ __address__
+goodbye()
+goodbye()
+inform __name__ __kidsallowed__
+inform __name__ __kidsallowed__
+inform __name__ __area__ __kidsallowed__
+inform __name__ __area__ __kidsallowed__
+inform __name__ __address__
+inform __name__ __address__
+inform __name__ __phone__
+inform __name__ __phone__
+inform __name__ __postcode__
+inform __name__ __postcode__
+goodbye()
+goodbye()
+?request(goodformeal)
+?request(goodformeal)
+inform_count __type__ __count__ __goodformeal__
+inform_count __type__ __count__ __goodformeal__
+?select __kidsallowed__ __kidsallowed__
+?select __kidsallowed__ __kidsallowed__
+inform __name__ __kidsallowed__ __goodformeal__
+inform __name__ __kidsallowed__ __goodformeal__
+inform __name__ __near__ __address__ __phone__
+inform __name__ __near__ __address__ __phone__
+goodbye()
+goodbye()
+inform __name__ __area__ __kidsallowed__
+inform __name__ __area__ __kidsallowed__
+?confirm __area__
+?confirm __area__
+inform __name__ __area__ __kidsallowed__
+inform __name__ __area__ __kidsallowed__
+inform __name__ __type__
+inform __name__ __type__
+inform __name__ __type__
+inform __name__ __type__
+inform __name__ __food__ __address__ __phone__
+inform __name__ __food__ __address__ __phone__
+goodbye()
+goodbye()
+inform __name__ __pricerange__ __kidsallowed__
+inform __name__ __pricerange__ __kidsallowed__
+inform __name__ __near__
+inform __name__ __near__
+?select __kidsallowed__ __kidsallowed__
+?select __kidsallowed__ __kidsallowed__
+?reqmore()
+?reqmore()
+inform __name__ __phone__
+inform __name__ __phone__
+inform __name__ __address__
+inform __name__ __address__
+goodbye()
+goodbye()
+inform __name__ __pricerange__ __kidsallowed__ __food__
+inform __name__ __pricerange__ __kidsallowed__ __food__
+inform __name__ __area__ __phone__
+inform __name__ __area__ __phone__
+goodbye()
+goodbye()
+?request(pricerange)
+?request(pricerange)
+inform __name__ __pricerange__
+inform __name__ __pricerange__
+inform __name__ __food__
+inform __name__ __food__
+inform __name__ __address__
+inform __name__ __address__
+inform __name__ __phone__
+inform __name__ __phone__
+inform __name__ __area__
+inform __name__ __area__
+goodbye()
+goodbye()
+inform __name__ __near__ __kidsallowed__
+inform __name__ __near__ __kidsallowed__
+inform __name__ __address__
+inform __name__ __address__
+inform __name__ __type__
+inform __name__ __type__
+inform __name__ __phone__
+inform __name__ __phone__
+inform __name__ __area__
+inform __name__ __area__
+goodbye()
+goodbye()
+inform __name__ __pricerange__ __kidsallowed__ __food__
+inform __name__ __pricerange__ __kidsallowed__ __food__
+inform_count __type__ __count__ __food__ __kidsallowed__ __pricerange__
+inform_count __type__ __count__ __food__ __kidsallowed__ __pricerange__
+?request(near)
+?request(near)
+inform __name__ __near__ __kidsallowed__ __pricerange__ __food__
+inform __name__ __near__ __kidsallowed__ __pricerange__ __food__
+inform __name__ __postcode__
+inform __name__ __postcode__
+inform __name__ __address__ __phone__
+inform __name__ __address__ __phone__
+goodbye()
+goodbye()
+inform_count __type__ __count__ __kidsallowed__ __pricerange__
+inform_count __type__ __count__ __kidsallowed__ __pricerange__
+?request(goodformeal)
+?request(goodformeal)
+inform_count __type__ __count__ __kidsallowed__ __pricerange__
+inform_count __type__ __count__ __kidsallowed__ __pricerange__
+?request(goodformeal)
+?request(goodformeal)
+inform_count __type__ __count__ __kidsallowed__ __pricerange__
+inform_count __type__ __count__ __kidsallowed__ __pricerange__
+?request(goodformeal)
+?request(goodformeal)
+inform_count __type__ __count__ __kidsallowed__ __pricerange__
+inform_count __type__ __count__ __kidsallowed__ __pricerange__
+?request(goodformeal)
+?request(goodformeal)
+inform __name__ __food__
+inform __name__ __food__
+inform __name__ __address__
+inform __name__ __address__
+inform __name__ __price__
+inform __name__ __price__
+inform_only_match __name__ __goodformeal__ __food__
+inform_only_match __name__ __goodformeal__ __food__
+inform __name__ __goodformeal__ __kidsallowed__
+inform __name__ __goodformeal__ __kidsallowed__
+goodbye()
+goodbye()
+inform_count __type__ __count__ __goodformeal__ __kidsallowed__
+inform_count __type__ __count__ __goodformeal__ __kidsallowed__
+?request(area)
+?request(area)
+inform __name__ __kidsallowed__ __goodformeal__
+inform __name__ __kidsallowed__ __goodformeal__
+inform __name__ __pricerange__ __phone__
+inform __name__ __pricerange__ __phone__
+goodbye()
+goodbye()
+inform __name__ __pricerange__
+inform __name__ __pricerange__
+inform __name__ __area__ __pricerange__
+inform __name__ __area__ __pricerange__
+inform __name__ __type__
+inform __name__ __type__
+inform_only_match __name__ __goodformeal__ __area__ __pricerange__
+inform_only_match __name__ __goodformeal__ __area__ __pricerange__
+inform __name__ __near__ __phone__
+inform __name__ __near__ __phone__
+goodbye()
+goodbye()
+inform __name__ __pricerange__ __near__
+inform __name__ __pricerange__ __near__
+inform __name__ __food__ __phone__
+inform __name__ __food__ __phone__
+goodbye()
+goodbye()
+inform __name__ __pricerange__
+inform __name__ __pricerange__
+inform __name__ __pricerange__ __near__
+inform __name__ __pricerange__ __near__
+inform __name__ __address__
+inform __name__ __address__
+inform __name__ __area__
+inform __name__ __area__
+goodbye()
+goodbye()
+?request(pricerange)
+?request(pricerange)
+inform __name__ __area__
+inform __name__ __area__
+inform __name__ __food__ __area__
+inform __name__ __food__ __area__
+inform __name__ __phone__ __postcode__
+inform __name__ __phone__ __postcode__
+goodbye()
+goodbye()
+inform_count __type__ __count__ __area__
+inform_count __type__ __count__ __area__
+?request(food)
+?request(food)
+?confirm __food__
+?confirm __food__
+inform __name__ __food__ __area__
+inform __name__ __food__ __area__
+inform __name__ __type__
+inform __name__ __type__
+inform __name__ __type__
+inform __name__ __type__
+?confirm __food__
+?confirm __food__
+inform __name__ __type__
+inform __name__ __type__
+inform __name__ __food__ __goodformeal__
+inform __name__ __food__ __goodformeal__
+inform __name__ __kidsallowed__
+inform __name__ __kidsallowed__
+inform __name__ __food__ __goodformeal__
+inform __name__ __food__ __goodformeal__
+inform __name__ __kidsallowed__
+inform __name__ __kidsallowed__
+inform __name__ __area__ __phone__
+inform __name__ __area__ __phone__
+goodbye()
+goodbye()
+inform __name__ __pricerange__
+inform __name__ __pricerange__
+inform __name__ __type__
+inform __name__ __type__
+inform __name__ __area__ __phone__
+inform __name__ __area__ __phone__
+goodbye()
+goodbye()
+inform __name__ __kidsallowed__ __area__
+inform __name__ __kidsallowed__ __area__
+inform __name__ __type__
+inform __name__ __type__
+inform __name__ __postcode__
+inform __name__ __postcode__
+goodbye()
+goodbye()
+inform_count __type__ __count__ __goodformeal__
+inform_count __type__ __count__ __goodformeal__
+?request(food)
+?request(food)
+inform __name__ __address__ __phone__
+inform __name__ __address__ __phone__
+goodbye()
+goodbye()
+inform __name__ __area__ __kidsallowed__ __goodformeal__
+inform __name__ __area__ __kidsallowed__ __goodformeal__
+inform __name__ __near__ __phone__
+inform __name__ __near__ __phone__
+goodbye()
+goodbye()
+inform __name__ __near__ __goodformeal__
+inform __name__ __near__ __goodformeal__
+inform __name__ __type__
+inform __name__ __type__
+inform __name__ __address__
+inform __name__ __address__
+inform __name__ __phone__
+inform __name__ __phone__
+inform __name__ __price__
+inform __name__ __price__
+goodbye()
+goodbye()
+inform_count __type__ __count__ __goodformeal__
+inform_count __type__ __count__ __goodformeal__
+?request(food)
+?request(food)
+inform __name__ __goodformeal__ __food__
+inform __name__ __goodformeal__ __food__
+inform __name__ __kidsallowed__ __phone__
+inform __name__ __kidsallowed__ __phone__
+goodbye()
+goodbye()
+inform_count __type__ __count__ __goodformeal__
+inform_count __type__ __count__ __goodformeal__
+?request(pricerange)
+?request(pricerange)
+inform_count __type__ __count__ __goodformeal__
+inform_count __type__ __count__ __goodformeal__
+?request(pricerange)
+?request(pricerange)
+inform_count __type__ __count__ __goodformeal__
+inform_count __type__ __count__ __goodformeal__
+?request(pricerange)
+?request(pricerange)
+inform __name__ __type__
+inform __name__ __type__
+inform __name__ __phone__
+inform __name__ __phone__
+inform __name__ __type__
+inform __name__ __type__
+inform __name__ __type__
+inform __name__ __type__
+?request(food)
+?request(food)
+inform_count __type__ __count__ __food__
+inform_count __type__ __count__ __food__
+?request(goodformeal)
+?request(goodformeal)
+inform __name__ __area__ __food__
+inform __name__ __area__ __food__
+inform __name__ __phone__
+inform __name__ __phone__
+goodbye()
+goodbye()
+inform_count __type__ __count__ __food__
+inform_count __type__ __count__ __food__
+?request(goodformeal)
+?request(goodformeal)
+inform_count __type__ __count__ __goodformeal__ __food__
+inform_count __type__ __count__ __goodformeal__ __food__
+?request(area)
+?request(area)
+?confirm __goodformeal__
+?confirm __goodformeal__
+?confirm __goodformeal__
+?confirm __goodformeal__
+inform_count __type__ __count__ __goodformeal__ __food__
+inform_count __type__ __count__ __goodformeal__ __food__
+?request(pricerange)
+?request(pricerange)
+goodbye()
+goodbye()
+?request(pricerange)
+?request(pricerange)
+inform __name__ __food__ __pricerange__ __kidsallowed__
+inform __name__ __food__ __pricerange__ __kidsallowed__
+inform __name__ __phone__
+inform __name__ __phone__
+inform __name__ __type__
+inform __name__ __type__
+inform __name__ __goodformeal__
+inform __name__ __goodformeal__
+goodbye()
+goodbye()
+inform __name__ __pricerange__ __kidsallowed__
+inform __name__ __pricerange__ __kidsallowed__
+inform __name__ __near__ __area__ __phone__
+inform __name__ __near__ __area__ __phone__
+goodbye()
+goodbye()
+?request(pricerange)
+?request(pricerange)
+inform __name__ __pricerange__ __near__
+inform __name__ __pricerange__ __near__
+inform __name__ __area__ __address__
+inform __name__ __area__ __address__
+goodbye()
+goodbye()
+?request(pricerange)
+?request(pricerange)
+inform_count __type__ __count__ __pricerange__
+inform_count __type__ __count__ __pricerange__
+?request(area)
+?request(area)
+inform_count __type__ __count__ __pricerange__
+inform_count __type__ __count__ __pricerange__
+?request(area)
+?request(area)
+inform __name__ __area__ __pricerange__
+inform __name__ __area__ __pricerange__
+inform __name__ __near__ __address__
+inform __name__ __near__ __address__
+goodbye()
+goodbye()
+inform __name__ __pricerange__ __goodformeal__ __kidsallowed__
+inform __name__ __pricerange__ __goodformeal__ __kidsallowed__
+inform_count __type__ __count__ __goodformeal__ __kidsallowed__ __pricerange__
+inform_count __type__ __count__ __goodformeal__ __kidsallowed__ __pricerange__
+?request(near)
+?request(near)
+inform __name__ __near__ __pricerange__ __goodformeal__ __kidsallowed__
+inform __name__ __near__ __pricerange__ __goodformeal__ __kidsallowed__
+inform __name__ __address__ __phone__
+inform __name__ __address__ __phone__
+goodbye()
+goodbye()
+?request(pricerange)
+?request(pricerange)
+?request(pricerange)
+?request(pricerange)
+inform __name__ __pricerange__
+inform __name__ __pricerange__
+goodbye()
+goodbye()
+inform __name__ __goodformeal__ __food__
+inform __name__ __goodformeal__ __food__
+?reqmore()
+?reqmore()
+inform __name__ __type__
+inform __name__ __type__
+?reqmore()
+?reqmore()
+?reqmore()
+?reqmore()
+goodbye()
+goodbye()
+inform __name__ __food__
+inform __name__ __food__
+inform __name__ __type__
+inform __name__ __type__
+inform __name__ __type__
+inform __name__ __type__
+inform_only_match __name__ __food__
+inform_only_match __name__ __food__
+inform __name__ __address__
+inform __name__ __address__
+inform __name__ __area__
+inform __name__ __area__
+goodbye()
+goodbye()
+inform __name__ __food__ __goodformeal__
+inform __name__ __food__ __goodformeal__
+inform_count __type__ __count__ __goodformeal__ __food__
+inform_count __type__ __count__ __goodformeal__ __food__
+?select __kidsallowed__ __kidsallowed__
+?select __kidsallowed__ __kidsallowed__
+inform __name__ __kidsallowed__ __food__ __goodformeal__
+inform __name__ __kidsallowed__ __food__ __goodformeal__
+inform_only_match __name__ __food__
+inform_only_match __name__ __food__
+inform __name__ __phone__
+inform __name__ __phone__
+goodbye()
+goodbye()
+inform __name__ __pricerange__
+inform __name__ __pricerange__
+inform __name__ __pricerange__
+inform __name__ __pricerange__
+inform __name__ __food__ __pricerange__
+inform __name__ __food__ __pricerange__
+inform_count __type__ __count__ __food__ __pricerange__
+inform_count __type__ __count__ __food__ __pricerange__
+?request(goodformeal)
+?request(goodformeal)
+?reqmore()
+?reqmore()
+?reqmore()
+?reqmore()
+goodbye()
+goodbye()
+inform __name__ __kidsallowed__ __pricerange__ __near__
+inform __name__ __kidsallowed__ __pricerange__ __near__
+inform __name__ __phone__
+inform __name__ __phone__
+inform_only_match __name__ __kidsallowed__ __pricerange__ __near__
+inform_only_match __name__ __kidsallowed__ __pricerange__ __near__
+inform __name__ __area__
+inform __name__ __area__
+goodbye()
+goodbye()
+inform __name__ __pricerange__ __food__
+inform __name__ __pricerange__ __food__
+inform __name__ __pricerange__ __food__
+inform __name__ __pricerange__ __food__
+inform __name__ __address__
+inform __name__ __address__
+inform __name__ __postcode__
+inform __name__ __postcode__
+inform __name__ __pricerange__ __food__
+inform __name__ __pricerange__ __food__
+inform_only_match __name__ __pricerange__ __food__
+inform_only_match __name__ __pricerange__ __food__
+inform __name__ __kidsallowed__ __goodformeal__
+inform __name__ __kidsallowed__ __goodformeal__
+inform __name__ __food__ __address__
+inform __name__ __food__ __address__
+goodbye()
+goodbye()
+?request(pricerange)
+?request(pricerange)
+inform_count __type__ __count__ __pricerange__
+inform_count __type__ __count__ __pricerange__
+?request(near)
+?request(near)
+inform_count __type__ __count__ __pricerange__
+inform_count __type__ __count__ __pricerange__
+?request(goodformeal)
+?request(goodformeal)
+inform_count __type__ __count__ __pricerange__
+inform_count __type__ __count__ __pricerange__
+?request(area)
+?request(area)
+inform_count __type__ __count__ __pricerange__
+inform_count __type__ __count__ __pricerange__
+?request(goodformeal)
+?request(goodformeal)
+goodbye()
+goodbye()
+inform __name__ __pricerange__ __food__
+inform __name__ __pricerange__ __food__
+inform __name__ __pricerange__ __food__
+inform __name__ __pricerange__ __food__
+inform __name__ __address__
+inform __name__ __address__
+inform __name__ __postcode__
+inform __name__ __postcode__
+inform __name__ __pricerange__ __food__
+inform __name__ __pricerange__ __food__
+inform_only_match __name__ __pricerange__ __food__
+inform_only_match __name__ __pricerange__ __food__
+inform __name__ __pricerange__
+inform __name__ __pricerange__
+inform __name__ __kidsallowed__
+inform __name__ __kidsallowed__
+inform __name__ __pricerange__ __kidsallowed__
+inform __name__ __pricerange__ __kidsallowed__
+goodbye()
+goodbye()
+?request(food)
+?request(food)
+inform __name__ __food__
+inform __name__ __food__
+inform __name__ __type__
+inform __name__ __type__
+inform_only_match __name__ __food__
+inform_only_match __name__ __food__
+?reqmore()
+?reqmore()
+goodbye()
+goodbye()
+inform __name__ __pricerange__ __kidsallowed__
+inform __name__ __pricerange__ __kidsallowed__
+inform __name__ __near__
+inform __name__ __near__
+?select __kidsallowed__ __kidsallowed__
+?select __kidsallowed__ __kidsallowed__
+?reqmore()
+?reqmore()
+inform __name__ __phone__
+inform __name__ __phone__
+inform __name__ __address__
+inform __name__ __address__
+goodbye()
+goodbye()
+inform __name__ __pricerange__ __food__ __kidsallowed__
+inform __name__ __pricerange__ __food__ __kidsallowed__
+inform __name__ __address__
+inform __name__ __address__
+inform __name__ __phone__
+inform __name__ __phone__
+inform __name__ __area__
+inform __name__ __area__
+inform __name__ __type__
+inform __name__ __type__
+goodbye()
+goodbye()
+?request(goodformeal)
+?request(goodformeal)
+?request(pricerange)
+?request(pricerange)
+inform __name__ __near__ __goodformeal__
+inform __name__ __near__ __goodformeal__
+inform __name__ __food__ __area__ __address__
+inform __name__ __food__ __area__ __address__
+goodbye()
+goodbye()
+inform __name__ __food__
+inform __name__ __food__
+inform __name__ __area__ __phone__
+inform __name__ __area__ __phone__
+goodbye()
+goodbye()
+inform __name__ __pricerange__ __near__ __kidsallowed__
+inform __name__ __pricerange__ __near__ __kidsallowed__
+inform __name__ __goodformeal__ __address__
+inform __name__ __goodformeal__ __address__
+goodbye()
+goodbye()
+inform __name__ __area__
+inform __name__ __area__
+inform_no_match __area__ __goodformeal__
+inform_no_match __area__ __goodformeal__
+goodbye()
+goodbye()
+?request(pricerange)
+?request(pricerange)
+inform __name__ __pricerange__
+inform __name__ __pricerange__
+inform_no_match __pricerange__ __near__
+inform_no_match __pricerange__ __near__
+inform __name__ __type__
+inform __name__ __type__
+inform __name__ __near__ __pricerange__
+inform __name__ __near__ __pricerange__
+inform __name__ __area__ __address__
+inform __name__ __area__ __address__
+goodbye()
+goodbye()
+?request(food)
+?request(food)
+goodbye()
+goodbye()
+inform_no_match __area__ __pricerange__ __kidsallowed__
+inform_no_match __area__ __pricerange__ __kidsallowed__
+inform __name__ __pricerange__ __area__
+inform __name__ __pricerange__ __area__
+inform __name__ __kidsallowed__
+inform __name__ __kidsallowed__
+goodbye()
+goodbye()
+?request(pricerange)
+?request(pricerange)
+inform __name__ __pricerange__
+inform __name__ __pricerange__
+inform __name__ __goodformeal__ __pricerange__
+inform __name__ __goodformeal__ __pricerange__
+inform __name__ __kidsallowed__
+inform __name__ __kidsallowed__
+inform __name__ __address__
+inform __name__ __address__
+inform __name__ __phone__
+inform __name__ __phone__
+goodbye()
+goodbye()
+inform __name__ __near__ __kidsallowed__ __food__
+inform __name__ __near__ __kidsallowed__ __food__
+inform __name__ __area__ __phone__
+inform __name__ __area__ __phone__
+goodbye()
+goodbye()
+inform __name__ __kidsallowed__ __food__
+inform __name__ __kidsallowed__ __food__
+inform __name__ __address__
+inform __name__ __address__
+inform __name__ __near__
+inform __name__ __near__
+goodbye()
+goodbye()
+inform __name__ __pricerange__ __near__
+inform __name__ __pricerange__ __near__
+inform __name__ __food__ __address__ __phone__
+inform __name__ __food__ __address__ __phone__
+goodbye()
+goodbye()
+inform __name__ __pricerange__ __goodformeal__
+inform __name__ __pricerange__ __goodformeal__
+inform __name__ __near__ __area__ __address__
+inform __name__ __near__ __area__ __address__
+goodbye()
+goodbye()
+?request(food)
+?request(food)
+inform __name__ __food__
+inform __name__ __food__
+inform __name__ __food__
+inform __name__ __food__
+inform_only_match __name__ __food__
+inform_only_match __name__ __food__
+inform __name__ __phone__
+inform __name__ __phone__
+inform __name__ __type__
+inform __name__ __type__
+goodbye()
+goodbye()
+inform __name__ __pricerange__ __near__
+inform __name__ __pricerange__ __near__
+inform __name__ __phone__
+inform __name__ __phone__
+inform __name__ __area__
+inform __name__ __area__
+goodbye()
+goodbye()
+inform_count __type__ __count__ __food__
+inform_count __type__ __count__ __food__
+?request(area)
+?request(area)
+inform __name__ __area__ __food__
+inform __name__ __area__ __food__
+inform __name__ __type__
+inform __name__ __type__
+inform __name__ __type__
+inform __name__ __type__
+goodbye()
+goodbye()
+?request(pricerange)
+?request(pricerange)
+?request(near)
+?request(near)
+inform __name__ __area__
+inform __name__ __area__
+inform __name__ __address__ __phone__
+inform __name__ __address__ __phone__
+inform __name__ __type__
+inform __name__ __type__
+inform __name__ __address__ __phone__
+inform __name__ __address__ __phone__
+goodbye()
+goodbye()
+inform __name__ __pricerange__ __food__
+inform __name__ __pricerange__ __food__
+inform __name__ __goodformeal__ __address__
+inform __name__ __goodformeal__ __address__
+goodbye()
+goodbye()
+?request(pricerange)
+?request(pricerange)
+?request(pricerange)
+?request(pricerange)
+?request(pricerange)
+?request(pricerange)
+inform __name__ __near__
+inform __name__ __near__
+goodbye()
+goodbye()
+inform __name__ __pricerange__
+inform __name__ __pricerange__
+inform __name__ __type__
+inform __name__ __type__
+inform __name__ __pricerange__ __near__ __goodformeal__
+inform __name__ __pricerange__ __near__ __goodformeal__
+inform_count __type__ __count__ __goodformeal__ __near__ __pricerange__
+inform_count __type__ __count__ __goodformeal__ __near__ __pricerange__
+?request(area)
+?request(area)
+?reqmore()
+?reqmore()
+inform __name__ __phone__
+inform __name__ __phone__
+goodbye()
+goodbye()
+inform __name__ __food__
+inform __name__ __food__
+inform __name__ __type__
+inform __name__ __type__
+inform_only_match __name__ __kidsallowed__ __food__
+inform_only_match __name__ __kidsallowed__ __food__
+inform __name__ __address__ __price__ __phone__
+inform __name__ __address__ __price__ __phone__
+goodbye()
+goodbye()
+?select __kidsallowed__ __kidsallowed__
+?select __kidsallowed__ __kidsallowed__
+inform __name__ __kidsallowed__
+inform __name__ __kidsallowed__
+inform __name__ __kidsallowed__ __food__ __goodformeal__
+inform __name__ __kidsallowed__ __food__ __goodformeal__
+inform __name__ __area__ __phone__
+inform __name__ __area__ __phone__
+goodbye()
+goodbye()
+?request(pricerange)
+?request(pricerange)
+inform __name__ __pricerange__
+inform __name__ __pricerange__
+inform __name__ __type__
+inform __name__ __type__
+inform __name__ __address__
+inform __name__ __address__
+inform __name__ __food__
+inform __name__ __food__
+inform __name__ __food__
+inform __name__ __food__
+goodbye()
+goodbye()
+?request(pricerange)
+?request(pricerange)
+inform __name__ __pricerange__
+inform __name__ __pricerange__
+inform_no_match __pricerange__ __near__
+inform_no_match __pricerange__ __near__
+inform __name__ __type__
+inform __name__ __type__
+inform __name__ __near__ __pricerange__
+inform __name__ __near__ __pricerange__
+inform __name__ __area__ __address__
+inform __name__ __area__ __address__
+goodbye()
+goodbye()
+?request(pricerange)
+?request(pricerange)
+inform __name__ __goodformeal__
+inform __name__ __goodformeal__
+inform __name__ __goodformeal__
+inform __name__ __goodformeal__
+inform __name__ __goodformeal__
+inform __name__ __goodformeal__
+inform __name__ __pricerange__ __goodformeal__
+inform __name__ __pricerange__ __goodformeal__
+inform __name__ __type__
+inform __name__ __type__
+inform __name__ __pricerange__ __goodformeal__
+inform __name__ __pricerange__ __goodformeal__
+inform __name__ __phone__
+inform __name__ __phone__
+inform __name__ __postcode__
+inform __name__ __postcode__
+goodbye()
+goodbye()
+inform __name__ __goodformeal__ __kidsallowed__
+inform __name__ __goodformeal__ __kidsallowed__
+inform __name__ __goodformeal__ __kidsallowed__
+inform __name__ __goodformeal__ __kidsallowed__
+inform __name__ __food__
+inform __name__ __food__
+inform_count __type__ __count__ __goodformeal__ __kidsallowed__
+inform_count __type__ __count__ __goodformeal__ __kidsallowed__
+?request(pricerange)
+?request(pricerange)
+inform __name__ __address__
+inform __name__ __address__
+?request(goodformeal)
+?request(goodformeal)
+goodbye()
+goodbye()
+?request(pricerange)
+?request(pricerange)
+?request(pricerange)
+?request(pricerange)
+inform_count __type__ __count__ __pricerange__
+inform_count __type__ __count__ __pricerange__
+?request(food)
+?request(food)
+inform __name__ __food__ __pricerange__
+inform __name__ __food__ __pricerange__
+inform __name__ __type__
+inform __name__ __type__
+goodbye()
+goodbye()
+inform __name__ __pricerange__ __goodformeal__ __food__
+inform __name__ __pricerange__ __goodformeal__ __food__
+inform __name__ __type__
+inform __name__ __type__
+inform __name__ __type__
+inform __name__ __type__
+?request(goodformeal)
+?request(goodformeal)
+inform __name__ __address__ __price__
+inform __name__ __address__ __price__
+goodbye()
+goodbye()
+?request(pricerange)
+?request(pricerange)
+?request(pricerange)
+?request(pricerange)
+goodbye()
+goodbye()
+inform __name__ __pricerange__
+inform __name__ __pricerange__
+inform __name__ __near__ __pricerange__
+inform __name__ __near__ __pricerange__
+inform __name__ __type__
+inform __name__ __type__
+?reqmore()
+?reqmore()
+inform __name__ __area__ __address__ __phone__
+inform __name__ __area__ __address__ __phone__
+goodbye()
+goodbye()
+?request(area)
+?request(area)
+?confirm __area__
+?confirm __area__
+?select __food__
+?select __food__
+inform __name__ __food__ __goodformeal__ __area__
+inform __name__ __food__ __goodformeal__ __area__
+inform __name__ __near__ __address__ __phone__
+inform __name__ __near__ __address__ __phone__
+goodbye()
+goodbye()
+inform __name__ __food__ __goodformeal__ __kidsallowed__
+inform __name__ __food__ __goodformeal__ __kidsallowed__
+inform __name__ __pricerange__ __address__ __phone__
+inform __name__ __pricerange__ __address__ __phone__
+goodbye()
+goodbye()
+?request(pricerange)
+?request(pricerange)
+inform __name__ __goodformeal__ __kidsallowed__ __pricerange__
+inform __name__ __goodformeal__ __kidsallowed__ __pricerange__
+inform __name__ __near__ __address__
+inform __name__ __near__ __address__
+inform __name__ __phone__
+inform __name__ __phone__
+goodbye()
+goodbye()
+?request(pricerange)
+?request(pricerange)
+inform_count __type__ __count__ __goodformeal__ __near__ __pricerange__
+inform_count __type__ __count__ __goodformeal__ __near__ __pricerange__
+?request(food)
+?request(food)
+inform __name__ __pricerange__ __near__ __goodformeal__
+inform __name__ __pricerange__ __near__ __goodformeal__
+inform __name__ __address__
+inform __name__ __address__
+inform __name__ __phone__
+inform __name__ __phone__
+inform __name__ __type__
+inform __name__ __type__
+goodbye()
+goodbye()
+inform __name__ __food__
+inform __name__ __food__
+inform __name__ __near__
+inform __name__ __near__
+inform __name__ __address__
+inform __name__ __address__
+inform __name__ __phone__
+inform __name__ __phone__
+inform __name__ __goodformeal__
+inform __name__ __goodformeal__
+goodbye()
+goodbye()
+?select __near__
+?select __near__
+inform __name__ __near__
+inform __name__ __near__
+inform __name__ __near__
+inform __name__ __near__
+inform __name__ __area__
+inform __name__ __area__
+inform __name__ __pricerange__ __kidsallowed__ __food__
+inform __name__ __pricerange__ __kidsallowed__ __food__
+inform __name__ __address__
+inform __name__ __address__
+inform __name__ __type__
+inform __name__ __type__
+inform __name__ __goodformeal__
+inform __name__ __goodformeal__
+?reqmore()
+?reqmore()
+inform __name__ __type__
+inform __name__ __type__
+goodbye()
+goodbye()
+?request(pricerange)
+?request(pricerange)
+?request(pricerange)
+?request(pricerange)
+inform __name__ __pricerange__
+inform __name__ __pricerange__
+inform __name__ __near__ __pricerange__
+inform __name__ __near__ __pricerange__
+inform __name__ __phone__
+inform __name__ __phone__
+inform_only_match __name__ __goodformeal__ __near__ __pricerange__
+inform_only_match __name__ __goodformeal__ __near__ __pricerange__
+inform __name__ __goodformeal__ __price__
+inform __name__ __goodformeal__ __price__
+goodbye()
+goodbye()
+inform_count __type__ __count__ __near__
+inform_count __type__ __count__ __near__
+?request(food)
+?request(food)
+inform __name__ __near__
+inform __name__ __near__
+inform __name__ __address__
+inform __name__ __address__
+inform __name__ __type__
+inform __name__ __type__
+inform __name__ __phone__
+inform __name__ __phone__
+goodbye()
+goodbye()
+inform __name__ __pricerange__ __kidsallowed__ __goodformeal__
+inform __name__ __pricerange__ __kidsallowed__ __goodformeal__
+inform_only_match __name__ __pricerange__ __kidsallowed__ __goodformeal__
+inform_only_match __name__ __pricerange__ __kidsallowed__ __goodformeal__
+inform __name__ __type__
+inform __name__ __type__
+inform __name__ __address__
+inform __name__ __address__
+inform __name__ __phone__
+inform __name__ __phone__
+inform __name__ __near__
+inform __name__ __near__
+goodbye()
+goodbye()
+inform __name__ __food__ __kidsallowed__
+inform __name__ __food__ __kidsallowed__
+inform __name__ __address__
+inform __name__ __address__
+inform __name__ __postcode__
+inform __name__ __postcode__
+goodbye()
+goodbye()
+inform __name__ __pricerange__
+inform __name__ __pricerange__
+inform_count __type__ __count__ __pricerange__
+inform_count __type__ __count__ __pricerange__
+?request(food)
+?request(food)
+inform __name__ __food__ __pricerange__
+inform __name__ __food__ __pricerange__
+inform __name__ __address__
+inform __name__ __address__
+goodbye()
+goodbye()
+?request(pricerange)
+?request(pricerange)
+?request(pricerange)
+?request(pricerange)
+inform_count __type__ __count__ __pricerange__
+inform_count __type__ __count__ __pricerange__
+?request(area)
+?request(area)
+inform __name__ __pricerange__ __near__
+inform __name__ __pricerange__ __near__
+inform __name__ __kidsallowed__
+inform __name__ __kidsallowed__
+inform __name__ __address__
+inform __name__ __address__
+inform __name__ __phone__
+inform __name__ __phone__
+inform __name__ __price__
+inform __name__ __price__
+goodbye()
+goodbye()
+inform_no_match __kidsallowed__ __food__
+inform_no_match __kidsallowed__ __food__
+inform __name__ __food__
+inform __name__ __food__
+inform __name__ __kidsallowed__
+inform __name__ __kidsallowed__
+inform __name__ __address__ __phone__
+inform __name__ __address__ __phone__
+inform __name__ __pricerange__
+inform __name__ __pricerange__
+goodbye()
+goodbye()
+?request(near)
+?request(near)
+inform __name__ __kidsallowed__
+inform __name__ __kidsallowed__
+inform_count __type__ __count__ __kidsallowed__
+inform_count __type__ __count__ __kidsallowed__
+?request(pricerange)
+?request(pricerange)
+inform __name__ __area__ __kidsallowed__
+inform __name__ __area__ __kidsallowed__
+inform __name__ __food__ __phone__
+inform __name__ __food__ __phone__
+goodbye()
+goodbye()
+inform __name__ __pricerange__ __kidsallowed__ __food__
+inform __name__ __pricerange__ __kidsallowed__ __food__
+inform __name__ __address__
+inform __name__ __address__
+inform __name__ __phone__
+inform __name__ __phone__
+goodbye()
+goodbye()
+inform __name__ __near__ __kidsallowed__
+inform __name__ __near__ __kidsallowed__
+inform __name__ __area__ __phone__
+inform __name__ __area__ __phone__
+goodbye()
+goodbye()
+inform __name__ __goodformeal__ __near__ __food__
+inform __name__ __goodformeal__ __near__ __food__
+inform __name__ __type__
+inform __name__ __type__
+inform __name__ __address__
+inform __name__ __address__
+inform __name__ __phone__
+inform __name__ __phone__
+inform __name__ __area__
+inform __name__ __area__
+goodbye()
+goodbye()
+inform __name__ __area__ __food__
+inform __name__ __area__ __food__
+inform __name__ __kidsallowed__
+inform __name__ __kidsallowed__
+inform __name__ __address__
+inform __name__ __address__
+inform __name__ __type__
+inform __name__ __type__
+inform __name__ __area__
+inform __name__ __area__
+inform __name__ __phone__
+inform __name__ __phone__
+goodbye()
+goodbye()
+inform __name__ __area__
+inform __name__ __area__
+inform __name__ __address__ __phone__
+inform __name__ __address__ __phone__
+goodbye()
+goodbye()
+inform __name__ __food__ __goodformeal__
+inform __name__ __food__ __goodformeal__
+inform __name__ __food__ __goodformeal__
+inform __name__ __food__ __goodformeal__
+inform __name__ __pricerange__ __address__ __phone__
+inform __name__ __pricerange__ __address__ __phone__
+goodbye()
+goodbye()
+inform __name__ __kidsallowed__ __goodformeal__ __area__
+inform __name__ __kidsallowed__ __goodformeal__ __area__
+inform __name__ __type__
+inform __name__ __type__
+inform __name__ __address__ __phone__
+inform __name__ __address__ __phone__
+?reqmore()
+?reqmore()
+inform __name__ __type__
+inform __name__ __type__
+inform __name__ __near__
+inform __name__ __near__
+goodbye()
+goodbye()
+inform __name__ __near__ __goodformeal__
+inform __name__ __near__ __goodformeal__
+inform_count __type__ __count__ __goodformeal__ __near__
+inform_count __type__ __count__ __goodformeal__ __near__
+?select __kidsallowed__ __kidsallowed__
+?select __kidsallowed__ __kidsallowed__
+inform __name__ __kidsallowed__ __near__ __goodformeal__
+inform __name__ __kidsallowed__ __near__ __goodformeal__
+inform __name__ __area__ __address__
+inform __name__ __area__ __address__
+goodbye()
+goodbye()
+inform __name__ __kidsallowed__ __goodformeal__
+inform __name__ __kidsallowed__ __goodformeal__
+inform __name__ __phone__
+inform __name__ __phone__
+inform __name__ __type__
+inform __name__ __type__
+inform __name__ __pricerange__
+inform __name__ __pricerange__
+goodbye()
+goodbye()
+?confirm __goodformeal__
+?confirm __goodformeal__
+?confirm __food__
+?confirm __food__
+inform_count __type__ __count__ __goodformeal__ __pricerange__
+inform_count __type__ __count__ __goodformeal__ __pricerange__
+?select __kidsallowed__ __kidsallowed__
+?select __kidsallowed__ __kidsallowed__
+inform __name__ __kidsallowed__
+inform __name__ __kidsallowed__
+inform __name__ __kidsallowed__ __goodformeal__ __pricerange__
+inform __name__ __kidsallowed__ __goodformeal__ __pricerange__
+inform __name__ __kidsallowed__ __goodformeal__ __pricerange__
+inform __name__ __kidsallowed__ __goodformeal__ __pricerange__
+goodbye()
+goodbye()
+inform __name__ __kidsallowed__
+inform __name__ __kidsallowed__
+inform __name__ __food__ __address__ __phone__
+inform __name__ __food__ __address__ __phone__
+inform __name__ __kidsallowed__
+inform __name__ __kidsallowed__
+goodbye()
+goodbye()
+inform __name__ __pricerange__ __near__
+inform __name__ __pricerange__ __near__
+inform __name__ __type__
+inform __name__ __type__
+inform __name__ __phone__
+inform __name__ __phone__
+inform __name__ __goodformeal__
+inform __name__ __goodformeal__
+goodbye()
+goodbye()
+inform __name__ __pricerange__
+inform __name__ __pricerange__
+inform __name__ __pricerange__ __food__
+inform __name__ __pricerange__ __food__
+inform __name__ __type__
+inform __name__ __type__
+?confirm __food__
+?confirm __food__
+inform __name__ __phone__
+inform __name__ __phone__
+goodbye()
+goodbye()
+inform __name__ __pricerange__
+inform __name__ __pricerange__
+inform __name__ __area__ __pricerange__
+inform __name__ __area__ __pricerange__
+inform __name__ __kidsallowed__ __phone__
+inform __name__ __kidsallowed__ __phone__
+goodbye()
+goodbye()
+?request(pricerange)
+?request(pricerange)
+inform __name__ __goodformeal__ __kidsallowed__ __pricerange__
+inform __name__ __goodformeal__ __kidsallowed__ __pricerange__
+inform __name__ __near__ __address__
+inform __name__ __near__ __address__
+inform __name__ __phone__
+inform __name__ __phone__
+goodbye()
+goodbye()
+?request(area)
+?request(area)
+?confirm __area__
+?confirm __area__
+?confirm __area__
+?confirm __area__
+?confirm __area__
+?confirm __area__
+goodbye()
+goodbye()
+inform __name__ __pricerange__
+inform __name__ __pricerange__
+inform __name__ __type__
+inform __name__ __type__
+?request(pricerange)
+?request(pricerange)
+inform_count __type__ __count__ __pricerange__
+inform_count __type__ __count__ __pricerange__
+?request(goodformeal)
+?request(goodformeal)
+inform __name__ __pricerange__ __goodformeal__
+inform __name__ __pricerange__ __goodformeal__
+inform __name__ __address__
+inform __name__ __address__
+inform __name__ __phone__
+inform __name__ __phone__
+inform __name__ __area__
+inform __name__ __area__
+goodbye()
+goodbye()
+inform __name__ __kidsallowed__
+inform __name__ __kidsallowed__
+inform __name__ __kidsallowed__
+inform __name__ __kidsallowed__
+goodbye()
+goodbye()
+?request(area)
+?request(area)
+inform_count __type__ __count__ __pricerange__ __area__
+inform_count __type__ __count__ __pricerange__ __area__
+?select __kidsallowed__ __kidsallowed__
+?select __kidsallowed__ __kidsallowed__
+?confirm __pricerange__
+?confirm __pricerange__
+inform __name__ __address__ __price__
+inform __name__ __address__ __price__
+inform __name__ __phone__
+inform __name__ __phone__
+goodbye()
+goodbye()
+inform __name__ __pricerange__
+inform __name__ __pricerange__
+goodbye()
+goodbye()
+?select __kidsallowed__ __kidsallowed__
+?select __kidsallowed__ __kidsallowed__
+?request(food)
+?request(food)
+?request(food)
+?request(food)
+goodbye()
+goodbye()
+?request(pricerange)
+?request(pricerange)
+inform_count __type__ __count__ __pricerange__
+inform_count __type__ __count__ __pricerange__
+?request(area)
+?request(area)
+inform __name__ __food__ __pricerange__
+inform __name__ __food__ __pricerange__
+inform_only_match __name__ __kidsallowed__ __food__
+inform_only_match __name__ __kidsallowed__ __food__
+inform __name__ __address__
+inform __name__ __address__
+inform __name__ __phone__
+inform __name__ __phone__
+goodbye()
+goodbye()
+inform __name__ __pricerange__ __food__
+inform __name__ __pricerange__ __food__
+inform __name__ __type__
+inform __name__ __type__
+inform __name__ __phone__
+inform __name__ __phone__
+inform __name__ __postcode__
+inform __name__ __postcode__
+goodbye()
+goodbye()
+inform __name__ __pricerange__ __goodformeal__
+inform __name__ __pricerange__ __goodformeal__
+inform __name__ __area__
+inform __name__ __area__
+inform __name__ __area__ __pricerange__ __goodformeal__
+inform __name__ __area__ __pricerange__ __goodformeal__
+inform_only_match __name__ __kidsallowed__ __area__ __pricerange__ __goodformeal__
+inform_only_match __name__ __kidsallowed__ __area__ __pricerange__ __goodformeal__
+inform __name__ __address__ __phone__
+inform __name__ __address__ __phone__
+inform_only_match __name__ __kidsallowed__ __area__ __pricerange__ __goodformeal__
+inform_only_match __name__ __kidsallowed__ __area__ __pricerange__ __goodformeal__
+goodbye()
+goodbye()
+inform_no_match __area__
+inform_no_match __area__
+inform_no_match __area__
+inform_no_match __area__
+?confirm __area__
+?confirm __area__
+inform __name__ __area__
+inform __name__ __area__
+inform __name__ __type__
+inform __name__ __type__
+inform __name__ __phone__
+inform __name__ __phone__
+goodbye()
+goodbye()
+inform __name__ __food__
+inform __name__ __food__
+inform __name__ __phone__
+inform __name__ __phone__
+inform __name__ __area__
+inform __name__ __area__
+goodbye()
+goodbye()
+inform __name__ __near__ __kidsallowed__ __pricerange__
+inform __name__ __near__ __kidsallowed__ __pricerange__
+inform __name__ __price__ __phone__
+inform __name__ __price__ __phone__
+inform __name__ __address__
+inform __name__ __address__
+goodbye()
+goodbye()
+?request(pricerange)
+?request(pricerange)
+?request(pricerange)
+?request(pricerange)
+?request(pricerange)
+?request(pricerange)
+?request(pricerange)
+?request(pricerange)
+goodbye()
+goodbye()
+inform __name__ __kidsallowed__ __food__
+inform __name__ __kidsallowed__ __food__
+inform __name__ __area__ __address__ __phone__
+inform __name__ __area__ __address__ __phone__
+goodbye()
+goodbye()
+inform __name__ __pricerange__ __goodformeal__ __food__
+inform __name__ __pricerange__ __goodformeal__ __food__
+inform __name__ __area__ __phone__
+inform __name__ __area__ __phone__
+goodbye()
+goodbye()
+?request(pricerange)
+?request(pricerange)
+inform __name__ __pricerange__
+inform __name__ __pricerange__
+inform __name__ __pricerange__ __near__
+inform __name__ __pricerange__ __near__
+inform __name__ __address__
+inform __name__ __address__
+inform __name__ __phone__
+inform __name__ __phone__
+inform __name__ __postcode__
+inform __name__ __postcode__
+goodbye()
+goodbye()
+inform __name__ __food__ __pricerange__
+inform __name__ __food__ __pricerange__
+inform __name__ __price__ __phone__
+inform __name__ __price__ __phone__
+goodbye()
+goodbye()
+inform __name__ __pricerange__
+inform __name__ __pricerange__
+inform_count __type__ __count__ __pricerange__
+inform_count __type__ __count__ __pricerange__
+?request(area)
+?request(area)
+inform __name__ __area__
+inform __name__ __area__
+inform_no_match __food__ __pricerange__
+inform_no_match __food__ __pricerange__
+inform __name__ __type__
+inform __name__ __type__
+inform __name__ __address__ __phone__ __postcode__
+inform __name__ __address__ __phone__ __postcode__
+goodbye()
+goodbye()
+inform __name__ __near__ __kidsallowed__ __food__
+inform __name__ __near__ __kidsallowed__ __food__
+inform __name__ __area__ __phone__
+inform __name__ __area__ __phone__
+goodbye()
+goodbye()
+?request(pricerange)
+?request(pricerange)
+?confirm __pricerange__
+?confirm __pricerange__
+?request(pricerange)
+?request(pricerange)
+?confirm __pricerange__
+?confirm __pricerange__
+?request(pricerange)
+?request(pricerange)
+?request(pricerange)
+?request(pricerange)
+goodbye()
+goodbye()
+inform __name__ __pricerange__
+inform __name__ __pricerange__
+goodbye()
+goodbye()
+?request(area)
+?request(area)
+inform __name__ __pricerange__
+inform __name__ __pricerange__
+inform __name__ __type__
+inform __name__ __type__
+?reqmore()
+?reqmore()
+inform __name__ __goodformeal__ __kidsallowed__ __pricerange__
+inform __name__ __goodformeal__ __kidsallowed__ __pricerange__
+inform __name__ __address__ __price__ __phone__
+inform __name__ __address__ __price__ __phone__
+goodbye()
+goodbye()
+?confirm __pricerange__
+?confirm __pricerange__
+inform __name__ __pricerange__
+inform __name__ __pricerange__
+inform __name__ __type__
+inform __name__ __type__
+inform __name__ __type__
+inform __name__ __type__
+?request(goodformeal)
+?request(goodformeal)
+inform __name__ __type__
+inform __name__ __type__
+goodbye()
+goodbye()
+inform_count __type__ __count__ __food__ __pricerange__
+inform_count __type__ __count__ __food__ __pricerange__
+?select __kidsallowed__ __kidsallowed__
+?select __kidsallowed__ __kidsallowed__
+?select __kidsallowed__ __kidsallowed__
+?select __kidsallowed__ __kidsallowed__
+inform_no_match __food__ __kidsallowed__
+inform_no_match __food__ __kidsallowed__
+goodbye()
+goodbye()
+inform __name__ __pricerange__ __food__
+inform __name__ __pricerange__ __food__
+inform __name__ __type__
+inform __name__ __type__
+inform __name__ __type__
+inform __name__ __type__
+inform __name__ __address__
+inform __name__ __address__
+inform __name__ __phone__
+inform __name__ __phone__
+inform __name__ __area__
+inform __name__ __area__
+goodbye()
+goodbye()
+inform_count __type__ __count__ __pricerange__
+inform_count __type__ __count__ __pricerange__
+?select __kidsallowed__ __kidsallowed__
+?select __kidsallowed__ __kidsallowed__
+inform __name__ __kidsallowed__ __goodformeal__
+inform __name__ __kidsallowed__ __goodformeal__
+inform __name__ __area__ __address__
+inform __name__ __area__ __address__
+goodbye()
+goodbye()
+?request(pricerange)
+?request(pricerange)
+inform __name__ __pricerange__ __near__
+inform __name__ __pricerange__ __near__
+inform __name__ __address__
+inform __name__ __address__
+inform __name__ __area__
+inform __name__ __area__
+inform __name__ __type__
+inform __name__ __type__
+goodbye()
+goodbye()
+?request(pricerange)
+?request(pricerange)
+inform __name__ __pricerange__
+inform __name__ __pricerange__
+inform __name__ __type__
+inform __name__ __type__
+inform __name__ __pricerange__ __near__
+inform __name__ __pricerange__ __near__
+goodbye()
+goodbye()
+inform __name__ __food__
+inform __name__ __food__
+inform __name__ __type__
+inform __name__ __type__
+inform __name__ __type__
+inform __name__ __type__
+inform __name__ __pricerange__
+inform __name__ __pricerange__
+inform __name__ __area__ __phone__
+inform __name__ __area__ __phone__
+?reqmore()
+?reqmore()
+goodbye()
+goodbye()
+inform __name__ __pricerange__
+inform __name__ __pricerange__
+inform __name__ __pricerange__
+inform __name__ __pricerange__
+inform __name__ __address__
+inform __name__ __address__
+inform __name__ __food__
+inform __name__ __food__
+goodbye()
+goodbye()
+goodbye()
+goodbye()
+inform __name__ __pricerange__ __near__
+inform __name__ __pricerange__ __near__
+inform __name__ __area__ __phone__
+inform __name__ __area__ __phone__
+goodbye()
+goodbye()
+inform __name__ __food__ __near__
+inform __name__ __food__ __near__
+inform __name__ __address__ __price__ __phone__
+inform __name__ __address__ __price__ __phone__
+goodbye()
+goodbye()
+inform __name__ __food__
+inform __name__ __food__
+inform __name__ __near__
+inform __name__ __near__
+inform __name__ __near__
+inform __name__ __near__
+inform __name__ __near__ __food__
+inform __name__ __near__ __food__
+inform __name__ __kidsallowed__
+inform __name__ __kidsallowed__
+inform __name__ __area__ __phone__
+inform __name__ __area__ __phone__
+goodbye()
+goodbye()
+inform __name__ __food__
+inform __name__ __food__
+inform_count __type__ __count__ __food__
+inform_count __type__ __count__ __food__
+?select __kidsallowed__ __kidsallowed__
+?select __kidsallowed__ __kidsallowed__
+inform __name__ __kidsallowed__ __food__
+inform __name__ __kidsallowed__ __food__
+inform __name__ __phone__
+inform __name__ __phone__
+inform __name__ __area__
+inform __name__ __area__
+goodbye()
+goodbye()
+inform __name__ __kidsallowed__ __near__ __goodformeal__
+inform __name__ __kidsallowed__ __near__ __goodformeal__
+inform __name__ __type__
+inform __name__ __type__
+inform __name__ __address__
+inform __name__ __address__
+inform __name__ __postcode__
+inform __name__ __postcode__
+goodbye()
+goodbye()
+inform_count __type__ __count__ __food__ __pricerange__
+inform_count __type__ __count__ __food__ __pricerange__
+?request(goodformeal)
+?request(goodformeal)
+inform_count __type__ __count__ __food__ __pricerange__
+inform_count __type__ __count__ __food__ __pricerange__
+?request(goodformeal)
+?request(goodformeal)
+inform_count __type__ __count__ __food__ __pricerange__
+inform_count __type__ __count__ __food__ __pricerange__
+?request(goodformeal)
+?request(goodformeal)
+inform __name__ __pricerange__ __food__ __goodformeal__
+inform __name__ __pricerange__ __food__ __goodformeal__
+inform __name__ __address__
+inform __name__ __address__
+inform __name__ __area__
+inform __name__ __area__
+goodbye()
+goodbye()
+inform __name__ __goodformeal__ __pricerange__
+inform __name__ __goodformeal__ __pricerange__
+inform __name__ __phone__
+inform __name__ __phone__
+inform __name__ __type__
+inform __name__ __type__
+inform __name__ __postcode__
+inform __name__ __postcode__
+goodbye()
+goodbye()
+inform __name__ __food__ __pricerange__
+inform __name__ __food__ __pricerange__
+inform __name__ __address__ __phone__
+inform __name__ __address__ __phone__
+inform __name__ __type__
+inform __name__ __type__
+inform __name__ __goodformeal__
+inform __name__ __goodformeal__
+goodbye()
+goodbye()
+inform __name__ __pricerange__ __kidsallowed__
+inform __name__ __pricerange__ __kidsallowed__
+inform __name__ __type__
+inform __name__ __type__
+inform __name__ __area__
+inform __name__ __area__
+inform __name__ __address__ __phone__
+inform __name__ __address__ __phone__
+inform __name__ __type__
+inform __name__ __type__
+inform __name__ __goodformeal__
+inform __name__ __goodformeal__
+goodbye()
+goodbye()
+?request(food)
+?request(food)
+inform __name__ __food__
+inform __name__ __food__
+inform __name__ __type__
+inform __name__ __type__
+inform_only_match __name__ __food__
+inform_only_match __name__ __food__
+?reqmore()
+?reqmore()
+goodbye()
+goodbye()
+inform __name__ __pricerange__ __near__
+inform __name__ __pricerange__ __near__
+inform __name__ __address__ __phone__
+inform __name__ __address__ __phone__
+inform __name__ __area__
+inform __name__ __area__
+goodbye()
+goodbye()
+?request(pricerange)
+?request(pricerange)
+?request(goodformeal)
+?request(goodformeal)
+inform_count __type__ __count__ __goodformeal__
+inform_count __type__ __count__ __goodformeal__
+?request(pricerange)
+?request(pricerange)
+inform_count __type__ __count__ __goodformeal__ __pricerange__
+inform_count __type__ __count__ __goodformeal__ __pricerange__
+?request(food)
+?request(food)
+inform __name__ __food__ __pricerange__ __goodformeal__
+inform __name__ __food__ __pricerange__ __goodformeal__
+inform __name__ __type__
+inform __name__ __type__
+inform_count __type__ __count__ __goodformeal__ __near__
+inform_count __type__ __count__ __goodformeal__ __near__
+?request(food)
+?request(food)
+inform __name__ __food__ __goodformeal__ __near__
+inform __name__ __food__ __goodformeal__ __near__
+inform __name__ __address__ __price__
+inform __name__ __address__ __price__
+goodbye()
+goodbye()
+inform __name__ __pricerange__ __food__
+inform __name__ __pricerange__ __food__
+inform __name__ __area__ __address__
+inform __name__ __area__ __address__
+inform __name__ __phone__
+inform __name__ __phone__
+goodbye()
+goodbye()
+inform __name__ __food__
+inform __name__ __food__
+inform __name__ __area__ __address__
+inform __name__ __area__ __address__
+goodbye()
+goodbye()
+inform __name__ __kidsallowed__ __goodformeal__
+inform __name__ __kidsallowed__ __goodformeal__
+inform __name__ __area__
+inform __name__ __area__
+inform __name__ __area__ __kidsallowed__ __goodformeal__
+inform __name__ __area__ __kidsallowed__ __goodformeal__
+inform __name__ __phone__
+inform __name__ __phone__
+inform __name__ __price__
+inform __name__ __price__
+goodbye()
+goodbye()
+?request(food)
+?request(food)
+?select __kidsallowed__ __kidsallowed__
+?select __kidsallowed__ __kidsallowed__
+?request(pricerange)
+?request(pricerange)
+inform __name__ __pricerange__ __area__
+inform __name__ __pricerange__ __area__
+inform __name__ __address__ __price__ __phone__
+inform __name__ __address__ __price__ __phone__
+goodbye()
+goodbye()
+inform_count __type__ __count__ __goodformeal__
+inform_count __type__ __count__ __goodformeal__
+?request(pricerange)
+?request(pricerange)
+?request(pricerange)
+?request(pricerange)
+inform_no_match __food__ __goodformeal__
+inform_no_match __food__ __goodformeal__
+inform_count __type__ __count__ __food__
+inform_count __type__ __count__ __food__
+?request(pricerange)
+?request(pricerange)
+inform __name__ __type__
+inform __name__ __type__
+goodbye()
+goodbye()
+inform __name__ __food__
+inform __name__ __food__
+inform __name__ __phone__
+inform __name__ __phone__
+inform __name__ __area__
+inform __name__ __area__
+goodbye()
+goodbye()
+?request(food)
+?request(food)
+inform __name__ __pricerange__
+inform __name__ __pricerange__
+inform __name__ __pricerange__
+inform __name__ __pricerange__
+inform __name__ __type__
+inform __name__ __type__
+inform __name__ __type__
+inform __name__ __type__
+inform __name__ __kidsallowed__ __food__
+inform __name__ __kidsallowed__ __food__
+inform __name__ __area__ __phone__
+inform __name__ __area__ __phone__
+goodbye()
+goodbye()
+inform __name__ __goodformeal__ __kidsallowed__
+inform __name__ __goodformeal__ __kidsallowed__
+inform __name__ __phone__
+inform __name__ __phone__
+inform __name__ __near__
+inform __name__ __near__
+goodbye()
+goodbye()
+inform __name__ __pricerange__
+inform __name__ __pricerange__
+inform __name__ __area__ __pricerange__
+inform __name__ __area__ __pricerange__
+inform __name__ __phone__
+inform __name__ __phone__
+inform __name__ __type__
+inform __name__ __type__
+goodbye()
+goodbye()
+inform __name__ __area__ __pricerange__
+inform __name__ __area__ __pricerange__
+inform __name__ __address__
+inform __name__ __address__
+inform __name__ __food__
+inform __name__ __food__
+goodbye()
+goodbye()
+inform_count __type__ __count__ __kidsallowed__
+inform_count __type__ __count__ __kidsallowed__
+?request(area)
+?request(area)
+goodbye()
+goodbye()
+inform __name__ __food__ __goodformeal__ __pricerange__
+inform __name__ __food__ __goodformeal__ __pricerange__
+inform __name__ __area__ __address__ __phone__
+inform __name__ __area__ __address__ __phone__
+goodbye()
+goodbye()
+inform_no_match __food__ __kidsallowed__
+inform_no_match __food__ __kidsallowed__
+inform __name__ __food__
+inform __name__ __food__
+inform __name__ __kidsallowed__
+inform __name__ __kidsallowed__
+inform __name__ __phone__
+inform __name__ __phone__
+inform __name__ __address__
+inform __name__ __address__
+?reqmore()
+?reqmore()
+goodbye()
+goodbye()
+inform __name__ __food__
+inform __name__ __food__
+inform __name__ __food__ __goodformeal__
+inform __name__ __food__ __goodformeal__
+inform __name__ __food__
+inform __name__ __food__
+inform __name__ __address__
+inform __name__ __address__
+inform_count __type__ __count__ __food__
+inform_count __type__ __count__ __food__
+?select __kidsallowed__ __kidsallowed__
+?select __kidsallowed__ __kidsallowed__
+goodbye()
+goodbye()
+?request(pricerange)
+?request(pricerange)
+inform __name__ __pricerange__
+inform __name__ __pricerange__
+inform __name__ __pricerange__ __kidsallowed__
+inform __name__ __pricerange__ __kidsallowed__
+inform __name__ __price__ __phone__
+inform __name__ __price__ __phone__
+goodbye()
+goodbye()
+?request(food)
+?request(food)
+inform_count __type__ __count__ __food__
+inform_count __type__ __count__ __food__
+?select __kidsallowed__ __kidsallowed__
+?select __kidsallowed__ __kidsallowed__
+inform __name__ __food__ __kidsallowed__
+inform __name__ __food__ __kidsallowed__
+?confirm __kidsallowed__
+?confirm __kidsallowed__
+inform __name__ __food__ __kidsallowed__
+inform __name__ __food__ __kidsallowed__
+inform __name__ __near__
+inform __name__ __near__
+inform __name__ __type__
+inform __name__ __type__
+inform __name__ __goodformeal__
+inform __name__ __goodformeal__
+inform __name__ __area__
+inform __name__ __area__
+inform __name__ __area__ __goodformeal__
+inform __name__ __area__ __goodformeal__
+inform __name__ __address__
+inform __name__ __address__
+inform __name__ __price__
+inform __name__ __price__
+goodbye()
+goodbye()
+inform __name__ __pricerange__ __kidsallowed__ __goodformeal__
+inform __name__ __pricerange__ __kidsallowed__ __goodformeal__
+?confirm __kidsallowed__
+?confirm __kidsallowed__
+inform __name__ __kidsallowed__ __pricerange__ __goodformeal__
+inform __name__ __kidsallowed__ __pricerange__ __goodformeal__
+goodbye()
+goodbye()
+inform __name__ __pricerange__ __kidsallowed__ __goodformeal__
+inform __name__ __pricerange__ __kidsallowed__ __goodformeal__
+inform __name__ __area__ __address__
+inform __name__ __area__ __address__
+goodbye()
+goodbye()
+?request(pricerange)
+?request(pricerange)
+inform __name__ __near__ __kidsallowed__ __pricerange__
+inform __name__ __near__ __kidsallowed__ __pricerange__
+inform __name__ __area__ __address__
+inform __name__ __area__ __address__
+goodbye()
+goodbye()
+inform __name__ __pricerange__ __near__
+inform __name__ __pricerange__ __near__
+inform __name__ __address__
+inform __name__ __address__
+inform __name__ __phone__
+inform __name__ __phone__
+inform __name__ __food__
+inform __name__ __food__
+inform __name__ __kidsallowed__
+inform __name__ __kidsallowed__
+goodbye()
+goodbye()
+inform_count __type__ __count__ __food__
+inform_count __type__ __count__ __food__
+?select __kidsallowed__ __kidsallowed__
+?select __kidsallowed__ __kidsallowed__
+?confirm __kidsallowed__
+?confirm __kidsallowed__
+?select __kidsallowed__ __kidsallowed__
+?select __kidsallowed__ __kidsallowed__
+inform __name__ __food__ __near__ __kidsallowed__
+inform __name__ __food__ __near__ __kidsallowed__
+inform __name__ __address__
+inform __name__ __address__
+inform __name__ __price__
+inform __name__ __price__
+goodbye()
+goodbye()
+inform __name__ __pricerange__ __food__ __kidsallowed__
+inform __name__ __pricerange__ __food__ __kidsallowed__
+goodbye()
+goodbye()
+inform __name__ __pricerange__ __food__
+inform __name__ __pricerange__ __food__
+inform __name__ __address__
+inform __name__ __address__
+inform __name__ __area__
+inform __name__ __area__
+goodbye()
+goodbye()
+?request(food)
+?request(food)
+?request(area)
+?request(area)
+?request(near)
+?request(near)
+inform __name__ __food__
+inform __name__ __food__
+inform __name__ __address__ __price__
+inform __name__ __address__ __price__
+goodbye()
+goodbye()
+?request(near)
+?request(near)
+goodbye()
+goodbye()
+?request(food)
+?request(food)
+inform_count __type__ __count__ __food__
+inform_count __type__ __count__ __food__
+?select __kidsallowed__ __kidsallowed__
+?select __kidsallowed__ __kidsallowed__
+inform __name__ __kidsallowed__ __food__
+inform __name__ __kidsallowed__ __food__
+inform __name__ __near__ __kidsallowed__ __food__
+inform __name__ __near__ __kidsallowed__ __food__
+inform __name__ __area__
+inform __name__ __area__
+inform __name__ __food__ __phone__
+inform __name__ __food__ __phone__
+goodbye()
+goodbye()
+?request(goodformeal)
+?request(goodformeal)
+?request(area)
+?request(area)
+inform_count __type__ __count__ __area__
+inform_count __type__ __count__ __area__
+?request(food)
+?request(food)
+inform_count __type__ __count__ __area__
+inform_count __type__ __count__ __area__
+?request(food)
+?request(food)
+inform __name__ __food__ __kidsallowed__
+inform __name__ __food__ __kidsallowed__
+inform __name__ __area__ __address__
+inform __name__ __area__ __address__
+inform __name__ __phone__
+inform __name__ __phone__
+goodbye()
+goodbye()
+inform __name__ __kidsallowed__ __food__
+inform __name__ __kidsallowed__ __food__
+inform __name__ __address__
+inform __name__ __address__
+inform __name__ __phone__
+inform __name__ __phone__
+inform __name__ __price__
+inform __name__ __price__
+goodbye()
+goodbye()
+inform __name__ __food__ __goodformeal__
+inform __name__ __food__ __goodformeal__
+inform __name__ __near__ __area__ __phone__
+inform __name__ __near__ __area__ __phone__
+goodbye()
+goodbye()
+inform __name__ __pricerange__ __near__
+inform __name__ __pricerange__ __near__
+inform __name__ __address__
+inform __name__ __address__
+inform __name__ __phone__
+inform __name__ __phone__
+inform __name__ __price__
+inform __name__ __price__
+goodbye()
+goodbye()
+inform __name__ __pricerange__ __food__
+inform __name__ __pricerange__ __food__
+inform __name__ __address__
+inform __name__ __address__
+inform __name__ __area__
+inform __name__ __area__
+goodbye()
+goodbye()
+?request(pricerange)
+?request(pricerange)
+inform __name__ __pricerange__
+inform __name__ __pricerange__
+goodbye()
+goodbye()
+inform __name__ __pricerange__ __kidsallowed__ __food__
+inform __name__ __pricerange__ __kidsallowed__ __food__
+inform __name__ __phone__
+inform __name__ __phone__
+inform __name__ __area__
+inform __name__ __area__
+goodbye()
+goodbye()
+inform __name__ __pricerange__ __kidsallowed__
+inform __name__ __pricerange__ __kidsallowed__
+goodbye()
+goodbye()
+?request(pricerange)
+?request(pricerange)
+inform_count __type__ __count__ __pricerange__
+inform_count __type__ __count__ __pricerange__
+?select __kidsallowed__ __kidsallowed__
+?select __kidsallowed__ __kidsallowed__
+inform_count __type__ __count__ __kidsallowed__ __pricerange__
+inform_count __type__ __count__ __kidsallowed__ __pricerange__
+?request(area)
+?request(area)
+inform_count __type__ __count__ __kidsallowed__ __pricerange__
+inform_count __type__ __count__ __kidsallowed__ __pricerange__
+?request(food)
+?request(food)
+goodbye()
+goodbye()
+?request(pricerange)
+?request(pricerange)
+?request(pricerange)
+?request(pricerange)
+?request(pricerange)
+?request(pricerange)
+?request(pricerange)
+?request(pricerange)
+?request(pricerange)
+?request(pricerange)
+goodbye()
+goodbye()
+?request(pricerange)
+?request(pricerange)
+inform __name__ __near__
+inform __name__ __near__
+inform_count __type__ __count__ __near__
+inform_count __type__ __count__ __near__
+?select __kidsallowed__ __kidsallowed__
+?select __kidsallowed__ __kidsallowed__
+inform __name__ __kidsallowed__ __near__
+inform __name__ __kidsallowed__ __near__
+inform __name__ __address__ __phone__
+inform __name__ __address__ __phone__
+inform __name__ __food__
+inform __name__ __food__
+goodbye()
+goodbye()
+?request(food)
+?request(food)
+inform __name__ __food__
+inform __name__ __food__
+goodbye()
+goodbye()
+inform_no_match __food__ __pricerange__
+inform_no_match __food__ __pricerange__
+?request(pricerange)
+?request(pricerange)
+inform __name__ __pricerange__
+inform __name__ __pricerange__
+inform __name__ __food__ __pricerange__
+inform __name__ __food__ __pricerange__
+inform __name__ __kidsallowed__ __food__ __pricerange__
+inform __name__ __kidsallowed__ __food__ __pricerange__
+inform __name__ __address__ __price__
+inform __name__ __address__ __price__
+goodbye()
+goodbye()
+?request(pricerange)
+?request(pricerange)
+inform __name__ __pricerange__
+inform __name__ __pricerange__
+inform __name__ __type__
+inform __name__ __type__
+inform __name__ __address__
+inform __name__ __address__
+inform __name__ __food__
+inform __name__ __food__
+inform __name__ __food__
+inform __name__ __food__
+goodbye()
+goodbye()
+?request(near)
+?request(near)
+?confirm __goodformeal__
+?confirm __goodformeal__
+?select __near__
+?select __near__
+?confirm __food__
+?confirm __food__
+?confirm __pricerange__
+?confirm __pricerange__
+goodbye()
+goodbye()
+?request(food)
+?request(food)
+inform __name__ __food__
+inform __name__ __food__
+inform __name__ __address__ __postcode__
+inform __name__ __address__ __postcode__
+inform __name__ __phone__
+inform __name__ __phone__
+inform __name__ __pricerange__
+inform __name__ __pricerange__
+goodbye()
+goodbye()
+?request(food)
+?request(food)
+inform_count __type__ __count__ __food__
+inform_count __type__ __count__ __food__
+?request(goodformeal)
+?request(goodformeal)
+?request(food)
+?request(food)
+inform __name__ __food__ __kidsallowed__
+inform __name__ __food__ __kidsallowed__
+inform __name__ __pricerange__ __phone__
+inform __name__ __pricerange__ __phone__
+goodbye()
+goodbye()
+?request(pricerange)
+?request(pricerange)
+?request(pricerange)
+?request(pricerange)
+goodbye()
+goodbye()
+?request(pricerange)
+?request(pricerange)
+?select __kidsallowed__ __kidsallowed__
+?select __kidsallowed__ __kidsallowed__
+?request(near)
+?request(near)
+inform __name__ __food__ __goodformeal__
+inform __name__ __food__ __goodformeal__
+inform __name__ __phone__
+inform __name__ __phone__
+inform __name__ __area__
+inform __name__ __area__
+goodbye()
+goodbye()
+inform_no_match __pricerange__ __near__
+inform_no_match __pricerange__ __near__
+goodbye()
+goodbye()
+inform __name__ __food__
+inform __name__ __food__
+inform __name__ __type__
+inform __name__ __type__
+inform_only_match __name__ __food__
+inform_only_match __name__ __food__
+inform __name__ __food__ __goodformeal__
+inform __name__ __food__ __goodformeal__
+inform __name__ __address__ __price__ __phone__
+inform __name__ __address__ __price__ __phone__
+goodbye()
+goodbye()
+inform_no_match __food__ __area__
+inform_no_match __food__ __area__
+inform __name__ __food__ __area__
+inform __name__ __food__ __area__
+inform __name__ __phone__
+inform __name__ __phone__
+inform __name__ __type__
+inform __name__ __type__
+goodbye()
+goodbye()
+inform __name__ __pricerange__ __near__
+inform __name__ __pricerange__ __near__
+goodbye()
+goodbye()
+inform __name__ __kidsallowed__
+inform __name__ __kidsallowed__
+inform __name__ __type__
+inform __name__ __type__
+inform __name__ __address__ __phone__
+inform __name__ __address__ __phone__
+inform __name__ __area__
+inform __name__ __area__
+goodbye()
+goodbye()
+inform_no_match __near__ __goodformeal__
+inform_no_match __near__ __goodformeal__
+?request(food)
+?request(food)
+?select __near__ __near__
+?select __near__ __near__
+inform __name__ __near__ __price__ __phone__
+inform __name__ __near__ __price__ __phone__
+goodbye()
+goodbye()
+inform __name__ __goodformeal__
+inform __name__ __goodformeal__
+inform_no_match __area__
+inform_no_match __area__
+?select __food__
+?select __food__
+?select __area__ __area__
+?select __area__ __area__
+?select __near__
+?select __near__
+inform __name__ __kidsallowed__ __area__
+inform __name__ __kidsallowed__ __area__
+inform __name__ __phone__
+inform __name__ __phone__
+inform __name__ __food__
+inform __name__ __food__
+inform __name__ __food__
+inform __name__ __food__
+inform __name__ __food__
+inform __name__ __food__
+inform __name__ __phone__
+inform __name__ __phone__
+goodbye()
+goodbye()
+inform __name__ __kidsallowed__ __goodformeal__
+inform __name__ __kidsallowed__ __goodformeal__
+inform_count __type__ __count__ __goodformeal__ __kidsallowed__
+inform_count __type__ __count__ __goodformeal__ __kidsallowed__
+?request(food)
+?request(food)
+inform __name__ __food__ __kidsallowed__ __goodformeal__
+inform __name__ __food__ __kidsallowed__ __goodformeal__
+goodbye()
+goodbye()
+inform __name__ __kidsallowed__
+inform __name__ __kidsallowed__
+inform __name__ __food__ __address__ __phone__
+inform __name__ __food__ __address__ __phone__
+inform __name__ __kidsallowed__
+inform __name__ __kidsallowed__
+goodbye()
+goodbye()
+inform_count __type__ __count__ __kidsallowed__ __pricerange__
+inform_count __type__ __count__ __kidsallowed__ __pricerange__
+?request(goodformeal)
+?request(goodformeal)
+inform __name__ __pricerange__ __kidsallowed__ __food__
+inform __name__ __pricerange__ __kidsallowed__ __food__
+inform __name__ __address__ __price__ __phone__
+inform __name__ __address__ __price__ __phone__
+goodbye()
+goodbye()
+inform __name__ __food__
+inform __name__ __food__
+inform_only_match __name__ __food__
+inform_only_match __name__ __food__
+inform __name__ __goodformeal__ __area__ __address__
+inform __name__ __goodformeal__ __area__ __address__
+goodbye()
+goodbye()
+?select __area__
+?select __area__
+inform __name__ __food__ __area__
+inform __name__ __food__ __area__
+?request(food)
+?request(food)
+?request(pricerange)
+?request(pricerange)
+?request(area)
+?request(area)
+?request(area)
+?request(area)
+?request(area)
+?request(area)
+goodbye()
+goodbye()
+inform_count __type__ __count__ __goodformeal__
+inform_count __type__ __count__ __goodformeal__
+?request(pricerange)
+?request(pricerange)
+?request(pricerange)
+?request(pricerange)
+inform __name__ __pricerange__ __goodformeal__
+inform __name__ __pricerange__ __goodformeal__
+inform_only_match __name__ __pricerange__ __goodformeal__
+inform_only_match __name__ __pricerange__ __goodformeal__
+inform __name__ __address__
+inform __name__ __address__
+inform_only_match __name__ __pricerange__ __goodformeal__
+inform_only_match __name__ __pricerange__ __goodformeal__
+goodbye()
+goodbye()
+?request(pricerange)
+?request(pricerange)
+inform __name__ __pricerange__
+inform __name__ __pricerange__
+inform_no_match __pricerange__ __near__
+inform_no_match __pricerange__ __near__
+inform __name__ __type__
+inform __name__ __type__
+inform __name__ __near__ __pricerange__
+inform __name__ __near__ __pricerange__
+inform __name__ __area__ __address__
+inform __name__ __area__ __address__
+goodbye()
+goodbye()
+inform __name__ __pricerange__ __food__ __goodformeal__
+inform __name__ __pricerange__ __food__ __goodformeal__
+inform __name__ __type__
+inform __name__ __type__
+inform __name__ __address__ __phone__
+inform __name__ __address__ __phone__
+inform __name__ __kidsallowed__
+inform __name__ __kidsallowed__
+goodbye()
+goodbye()
+?request(pricerange)
+?request(pricerange)
+inform __name__ __kidsallowed__
+inform __name__ __kidsallowed__
+inform __name__ __goodformeal__ __kidsallowed__
+inform __name__ __goodformeal__ __kidsallowed__
+inform __name__ __near__
+inform __name__ __near__
+inform __name__ __address__
+inform __name__ __address__
+goodbye()
+goodbye()
+?request(goodformeal)
+?request(goodformeal)
+goodbye()
+goodbye()
+inform __name__ __food__
+inform __name__ __food__
+inform_count __type__ __count__ __food__
+inform_count __type__ __count__ __food__
+?request(near)
+?request(near)
+goodbye()
+goodbye()
+?request(pricerange)
+?request(pricerange)
+inform __name__ __pricerange__
+inform __name__ __pricerange__
+inform __name__ __type__
+inform __name__ __type__
+goodbye()
+goodbye()
+inform __name__ __kidsallowed__ __pricerange__ __near__
+inform __name__ __kidsallowed__ __pricerange__ __near__
+inform __name__ __area__ __address__
+inform __name__ __area__ __address__
+inform __name__ __type__
+inform __name__ __type__
+inform_no_match __kidsallowed__ __area__
+inform_no_match __kidsallowed__ __area__
+goodbye()
+goodbye()
+inform __name__ __goodformeal__
+inform __name__ __goodformeal__
+inform_no_match __goodformeal__ __food__
+inform_no_match __goodformeal__ __food__
+inform __name__ __food__
+inform __name__ __food__
+inform __name__ __address__ __price__ __phone__
+inform __name__ __address__ __price__ __phone__
+goodbye()
+goodbye()
+inform __name__ __pricerange__
+inform __name__ __pricerange__
+inform __name__ __food__
+inform __name__ __food__
+inform __name__ __food__ __pricerange__
+inform __name__ __food__ __pricerange__
+inform __name__ __goodformeal__
+inform __name__ __goodformeal__
+inform __name__ __address__
+inform __name__ __address__
+goodbye()
+goodbye()
+inform __name__ __kidsallowed__ __goodformeal__
+inform __name__ __kidsallowed__ __goodformeal__
+inform __name__ __near__
+inform __name__ __near__
+inform __name__ __type__
+inform __name__ __type__
+inform __name__ __food__
+inform __name__ __food__
+inform __name__ __address__
+inform __name__ __address__
+goodbye()
+goodbye()
+inform __name__ __food__ __goodformeal__
+inform __name__ __food__ __goodformeal__
+inform __name__ __address__
+inform __name__ __address__
+inform __name__ __type__
+inform __name__ __type__
+inform __name__ __phone__
+inform __name__ __phone__
+inform __name__ __area__
+inform __name__ __area__
+goodbye()
+goodbye()
+?request(pricerange)
+?request(pricerange)
+inform __name__ __pricerange__
+inform __name__ __pricerange__
+inform __name__ __kidsallowed__ __pricerange__
+inform __name__ __kidsallowed__ __pricerange__
+inform_no_match __goodformeal__ __food__
+inform_no_match __goodformeal__ __food__
+inform __name__ __goodformeal__ __food__
+inform __name__ __goodformeal__ __food__
+inform_only_match __name__ __goodformeal__ __food__
+inform_only_match __name__ __goodformeal__ __food__
+inform __name__ __near__ __address__ __phone__
+inform __name__ __near__ __address__ __phone__
+goodbye()
+goodbye()
+inform_count __type__ __count__ __kidsallowed__
+inform_count __type__ __count__ __kidsallowed__
+?request(food)
+?request(food)
+inform_no_match __area__
+inform_no_match __area__
+goodbye()
+goodbye()
+inform __name__ __kidsallowed__ __goodformeal__
+inform __name__ __kidsallowed__ __goodformeal__
+?reqmore()
+?reqmore()
+inform __name__ __area__ __kidsallowed__ __goodformeal__
+inform __name__ __area__ __kidsallowed__ __goodformeal__
+inform __name__ __address__
+inform __name__ __address__
+inform __name__ __phone__
+inform __name__ __phone__
+goodbye()
+goodbye()
+inform __name__ __kidsallowed__
+inform __name__ __kidsallowed__
+?confirm __area__
+?confirm __area__
+inform_count __type__ __count__ __kidsallowed__
+inform_count __type__ __count__ __kidsallowed__
+?request(pricerange)
+?request(pricerange)
+goodbye()
+goodbye()
+inform_count __type__ __count__ __near__
+inform_count __type__ __count__ __near__
+?request(food)
+?request(food)
+inform __name__ __near__
+inform __name__ __near__
+inform __name__ __address__
+inform __name__ __address__
+inform __name__ __type__
+inform __name__ __type__
+inform __name__ __phone__
+inform __name__ __phone__
+goodbye()
+goodbye()
+?request(area)
+?request(area)
+?confirm __area__
+?confirm __area__
+?confirm __area__
+?confirm __area__
+?confirm __area__
+?confirm __area__
+goodbye()
+goodbye()
+inform_count __type__ __count__ __kidsallowed__
+inform_count __type__ __count__ __kidsallowed__
+?request(food)
+?request(food)
+inform_no_match __area__
+inform_no_match __area__
+goodbye()
+goodbye()
+?request(near)
+?request(near)
+goodbye()
+goodbye()
+inform __name__ __area__
+inform __name__ __area__
+inform_only_match __name__ __area__
+inform_only_match __name__ __area__
+inform __name__ __type__
+inform __name__ __type__
+goodbye()
+goodbye()
+inform_no_match __area__
+inform_no_match __area__
+inform __name__ __goodformeal__ __area__ __kidsallowed__
+inform __name__ __goodformeal__ __area__ __kidsallowed__
+inform __name__ __address__
+inform __name__ __address__
+inform __name__ __phone__
+inform __name__ __phone__
+goodbye()
+goodbye()
+inform_count __type__ __count__ __goodformeal__ __kidsallowed__ __area__
+inform_count __type__ __count__ __goodformeal__ __kidsallowed__ __area__
+?request(pricerange)
+?request(pricerange)
+?request(pricerange)
+?request(pricerange)
+?request(pricerange)
+?request(pricerange)
+inform __name__ __goodformeal__
+inform __name__ __goodformeal__
+inform __name__ __type__
+inform __name__ __type__
+inform __name__ __type__
+inform __name__ __type__
+goodbye()
+goodbye()
+?request(pricerange)
+?request(pricerange)
+inform_count __type__ __count__ __pricerange__
+inform_count __type__ __count__ __pricerange__
+?request(goodformeal)
+?request(goodformeal)
+?confirm __goodformeal__
+?confirm __goodformeal__
+?request(goodformeal)
+?request(goodformeal)
+inform_count __type__ __count__ __goodformeal__ __pricerange__
+inform_count __type__ __count__ __goodformeal__ __pricerange__
+?request(food)
+?request(food)
+inform_count __type__ __count__ __goodformeal__ __pricerange__
+inform_count __type__ __count__ __goodformeal__ __pricerange__
+?select __kidsallowed__ __kidsallowed__
+?select __kidsallowed__ __kidsallowed__
+?request(pricerange)
+?request(pricerange)
+inform __name__ __pricerange__ __area__
+inform __name__ __pricerange__ __area__
+inform __name__ __address__ __price__ __phone__
+inform __name__ __address__ __price__ __phone__
+goodbye()
+goodbye()
+inform_count __type__ __count__ __pricerange__
+inform_count __type__ __count__ __pricerange__
+?request(area)
+?request(area)
+?confirm __pricerange__
+?confirm __pricerange__
+inform __name__ __pricerange__ __area__
+inform __name__ __pricerange__ __area__
+inform __name__ __address__ __postcode__
+inform __name__ __address__ __postcode__
+goodbye()
+goodbye()
+?request(pricerange)
+?request(pricerange)
+?request(pricerange)
+?request(pricerange)
+?request(pricerange)
+?request(pricerange)
+?request(pricerange)
+?request(pricerange)
+goodbye()
+goodbye()
+inform_count __type__ __count__ __area__
+inform_count __type__ __count__ __area__
+?request(food)
+?request(food)
+inform __name__ __area__ __pricerange__
+inform __name__ __area__ __pricerange__
+inform __name__ __type__
+inform __name__ __type__
+inform __name__ __phone__
+inform __name__ __phone__
+inform __name__ __type__
+inform __name__ __type__
+goodbye()
+goodbye()
+inform __name__ __kidsallowed__
+inform __name__ __kidsallowed__
+inform __name__ __type__
+inform __name__ __type__
+inform __name__ __address__ __phone__
+inform __name__ __address__ __phone__
+inform __name__ __area__
+inform __name__ __area__
+goodbye()
+goodbye()
+inform_no_match __area__
+inform_no_match __area__
+inform_no_match __area__
+inform_no_match __area__
+inform __name__ __food__
+inform __name__ __food__
+inform_count __type__ __count__ __food__
+inform_count __type__ __count__ __food__
+?request(area)
+?request(area)
+inform __name__ __near__ __address__ __phone__ __postcode__
+inform __name__ __near__ __address__ __phone__ __postcode__
+goodbye()
+goodbye()
+?request(pricerange)
+?request(pricerange)
+?select __food__
+?select __food__
+inform __name__ __food__
+inform __name__ __food__
+inform __name__ __phone__ __postcode__
+inform __name__ __phone__ __postcode__
+goodbye()
+goodbye()
+?request(pricerange)
+?request(pricerange)
+?request(pricerange)
+?request(pricerange)
+inform __name__ __pricerange__
+inform __name__ __pricerange__
+inform __name__ __address__
+inform __name__ __address__
+inform __name__ __price__
+inform __name__ __price__
+?request(pricerange)
+?request(pricerange)
+goodbye()
+goodbye()
+?select __near__
+?select __near__
+goodbye()
+goodbye()
+inform_no_match __area__
+inform_no_match __area__
+goodbye()
+goodbye()
+?request(area)
+?request(area)
+?request(near)
+?request(near)
+?request(pricerange)
+?request(pricerange)
+?confirm __food__
+?confirm __food__
+inform __name__ __pricerange__ __kidsallowed__
+inform __name__ __pricerange__ __kidsallowed__
+inform __name__ __address__
+inform __name__ __address__
+goodbye()
+goodbye()
+?request(pricerange)
+?request(pricerange)
+?request(pricerange)
+?request(pricerange)
+inform_count __type__ __count__ __pricerange__
+inform_count __type__ __count__ __pricerange__
+?request(food)
+?request(food)
+?request(pricerange)
+?request(pricerange)
+inform_count __type__ __count__ __pricerange__
+inform_count __type__ __count__ __pricerange__
+?request(near)
+?request(near)
+goodbye()
+goodbye()
+?request(pricerange)
+?request(pricerange)
+inform_count __type__ __count__ __pricerange__
+inform_count __type__ __count__ __pricerange__
+?request(near)
+?request(near)
+inform __name__ __food__ __pricerange__
+inform __name__ __food__ __pricerange__
+inform_no_match __area__ __pricerange__
+inform_no_match __area__ __pricerange__
+?request(food)
+?request(food)
+inform __name__ __pricerange__ __goodformeal__
+inform __name__ __pricerange__ __goodformeal__
+inform __name__ __near__
+inform __name__ __near__
+goodbye()
+goodbye()
+inform __name__ __pricerange__ __area__
+inform __name__ __pricerange__ __area__
+inform_no_match __food__ __area__
+inform_no_match __food__ __area__
+inform __name__ __food__ __address__
+inform __name__ __food__ __address__
+inform __name__ __kidsallowed__
+inform __name__ __kidsallowed__
+inform __name__ __type__
+inform __name__ __type__
+inform __name__ __goodformeal__ __area__
+inform __name__ __goodformeal__ __area__
+goodbye()
+goodbye()
+inform __name__ __food__
+inform __name__ __food__
+inform __name__ __type__
+inform __name__ __type__
+inform_count __type__ __count__ __food__
+inform_count __type__ __count__ __food__
+?request(near)
+?request(near)
+goodbye()
+goodbye()
+inform __name__ __kidsallowed__ __pricerange__
+inform __name__ __kidsallowed__ __pricerange__
+inform __name__ __pricerange__ __food__ __kidsallowed__
+inform __name__ __pricerange__ __food__ __kidsallowed__
+inform_only_match __name__ __pricerange__ __food__
+inform_only_match __name__ __pricerange__ __food__
+inform __name__ __pricerange__ __food__ __kidsallowed__
+inform __name__ __pricerange__ __food__ __kidsallowed__
+goodbye()
+goodbye()
+?request(pricerange)
+?request(pricerange)
+inform __name__ __pricerange__
+inform __name__ __pricerange__
+inform_count __type__ __count__ __pricerange__
+inform_count __type__ __count__ __pricerange__
+?request(food)
+?request(food)
+inform __name__ __food__ __pricerange__
+inform __name__ __food__ __pricerange__
+inform_only_match __name__ __food__ __pricerange__
+inform_only_match __name__ __food__ __pricerange__
+?reqmore()
+?reqmore()
+goodbye()
+goodbye()
+?request(near)
+?request(near)
+?request(pricerange)
+?request(pricerange)
+inform_count __type__ __count__ __pricerange__
+inform_count __type__ __count__ __pricerange__
+?request(food)
+?request(food)
+?confirm __pricerange__
+?confirm __pricerange__
+?request(pricerange)
+?request(pricerange)
+?confirm __pricerange__
+?confirm __pricerange__
+?confirm __pricerange__
+?confirm __pricerange__
+inform __name__ __pricerange__
+inform __name__ __pricerange__
+inform __name__ __area__ __pricerange__
+inform __name__ __area__ __pricerange__
+?confirm __pricerange__
+?confirm __pricerange__
+inform_count __type__ __count__ __pricerange__ __area__
+inform_count __type__ __count__ __pricerange__ __area__
+?request(food)
+?request(food)
+goodbye()
+goodbye()
+inform_count __type__ __count__ __goodformeal__ __kidsallowed__ __near__
+inform_count __type__ __count__ __goodformeal__ __kidsallowed__ __near__
+?request(pricerange)
+?request(pricerange)
+inform __name__ __pricerange__ __goodformeal__ __near__ __kidsallowed__
+inform __name__ __pricerange__ __goodformeal__ __near__ __kidsallowed__
+inform __name__ __pricerange__ __goodformeal__ __near__ __kidsallowed__
+inform __name__ __pricerange__ __goodformeal__ __near__ __kidsallowed__
+inform __name__ __address__ __price__
+inform __name__ __address__ __price__
+inform_only_match __name__ __goodformeal__ __near__ __kidsallowed__
+inform_only_match __name__ __goodformeal__ __near__ __kidsallowed__
+inform __name__ __phone__
+inform __name__ __phone__
+goodbye()
+goodbye()
+?request(near)
+?request(near)
+inform __name__ __pricerange__ __area__
+inform __name__ __pricerange__ __area__
+inform __name__ __goodformeal__ __phone__
+inform __name__ __goodformeal__ __phone__
+goodbye()
+goodbye()
+inform __name__ __food__ __pricerange__
+inform __name__ __food__ __pricerange__
+?reqmore()
+?reqmore()
+inform __name__ __address__ __phone__ __postcode__
+inform __name__ __address__ __phone__ __postcode__
+goodbye()
+goodbye()
+inform __name__ __pricerange__ __kidsallowed__
+inform __name__ __pricerange__ __kidsallowed__
+inform __name__ __pricerange__ __kidsallowed__
+inform __name__ __pricerange__ __kidsallowed__
+inform __name__ __pricerange__ __food__ __kidsallowed__
+inform __name__ __pricerange__ __food__ __kidsallowed__
+inform __name__ __area__ __phone__
+inform __name__ __area__ __phone__
+goodbye()
+goodbye()
+inform __name__ __pricerange__ __kidsallowed__
+inform __name__ __pricerange__ __kidsallowed__
+inform __name__ __pricerange__ __kidsallowed__
+inform __name__ __pricerange__ __kidsallowed__
+inform __name__ __food__ __address__
+inform __name__ __food__ __address__
+goodbye()
+goodbye()
+inform_no_match __pricerange__ __near__
+inform_no_match __pricerange__ __near__
+goodbye()
+goodbye()
+inform __name__ __food__
+inform __name__ __food__
+inform_no_match __goodformeal__ __food__
+inform_no_match __goodformeal__ __food__
+inform __name__ __food__
+inform __name__ __food__
+inform __name__ __goodformeal__
+inform __name__ __goodformeal__
+inform __name__ __phone__
+inform __name__ __phone__
+inform __name__ __price__
+inform __name__ __price__
+goodbye()
+goodbye()
+inform __name__ __near__ __goodformeal__
+inform __name__ __near__ __goodformeal__
+inform_count __type__ __count__ __goodformeal__ __near__
+inform_count __type__ __count__ __goodformeal__ __near__
+?select __kidsallowed__ __kidsallowed__
+?select __kidsallowed__ __kidsallowed__
+inform __name__ __kidsallowed__ __near__ __goodformeal__
+inform __name__ __kidsallowed__ __near__ __goodformeal__
+inform __name__ __area__ __address__
+inform __name__ __area__ __address__
+goodbye()
+goodbye()
+inform_count __type__ __count__ __goodformeal__ __pricerange__
+inform_count __type__ __count__ __goodformeal__ __pricerange__
+?request(food)
+?request(food)
+inform __name__ __food__ __pricerange__ __goodformeal__
+inform __name__ __food__ __pricerange__ __goodformeal__
+inform __name__ __address__
+inform __name__ __address__
+?reqmore()
+?reqmore()
+inform __name__ __near__
+inform __name__ __near__
+goodbye()
+goodbye()
+inform __name__ __kidsallowed__ __pricerange__ __near__
+inform __name__ __kidsallowed__ __pricerange__ __near__
+inform __name__ __area__ __address__
+inform __name__ __area__ __address__
+inform __name__ __type__
+inform __name__ __type__
+inform_no_match __kidsallowed__ __area__
+inform_no_match __kidsallowed__ __area__
+goodbye()
+goodbye()
+inform __name__ __near__
+inform __name__ __near__
+inform_count __type__ __count__ __near__
+inform_count __type__ __count__ __near__
+?request(pricerange)
+?request(pricerange)
+inform __name__ __pricerange__ __near__
+inform __name__ __pricerange__ __near__
+inform __name__ __near__ __pricerange__
+inform __name__ __near__ __pricerange__
+inform __name__ __phone__
+inform __name__ __phone__
+inform __name__ __postcode__
+inform __name__ __postcode__
+goodbye()
+goodbye()
+inform_no_match __food__ __pricerange__
+inform_no_match __food__ __pricerange__
+inform __name__ __pricerange__ __food__ __kidsallowed__
+inform __name__ __pricerange__ __food__ __kidsallowed__
+inform __name__ __address__
+inform __name__ __address__
+inform __name__ __phone__
+inform __name__ __phone__
+inform __name__ __goodformeal__
+inform __name__ __goodformeal__
+goodbye()
+goodbye()
+inform_no_match __kidsallowed__ __area__
+inform_no_match __kidsallowed__ __area__
+inform __name__ __kidsallowed__ __area__
+inform __name__ __kidsallowed__ __area__
+inform_only_match __name__ __kidsallowed__ __area__
+inform_only_match __name__ __kidsallowed__ __area__
+inform __name__ __phone__
+inform __name__ __phone__
+inform __name__ __type__
+inform __name__ __type__
+inform_only_match __name__ __kidsallowed__ __area__
+inform_only_match __name__ __kidsallowed__ __area__
+goodbye()
+goodbye()
+inform __name__ __pricerange__ __food__
+inform __name__ __pricerange__ __food__
+inform __name__ __near__
+inform __name__ __near__
+inform __name__ __address__
+inform __name__ __address__
+goodbye()
+goodbye()
+inform __name__ __pricerange__
+inform __name__ __pricerange__
+inform_count __type__ __count__ __pricerange__
+inform_count __type__ __count__ __pricerange__
+?request(goodformeal)
+?request(goodformeal)
+inform_only_match __name__ __near__ __food__ __pricerange__
+inform_only_match __name__ __near__ __food__ __pricerange__
+inform __name__ __area__ __address__ __phone__
+inform __name__ __area__ __address__ __phone__
+goodbye()
+goodbye()
+?request(goodformeal)
+?request(goodformeal)
+goodbye()
+goodbye()
+inform __name__ __area__ __pricerange__
+inform __name__ __area__ __pricerange__
+?reqmore()
+?reqmore()
+inform_only_match __name__ __pricerange__ __area__
+inform_only_match __name__ __pricerange__ __area__
+inform __name__ __food__ __phone__
+inform __name__ __food__ __phone__
+goodbye()
+goodbye()
+?request(pricerange)
+?request(pricerange)
+?confirm __pricerange__
+?confirm __pricerange__
+?request(pricerange)
+?request(pricerange)
+inform __name__ __pricerange__
+inform __name__ __pricerange__
+inform __name__ __address__
+inform __name__ __address__
+inform __name__ __postcode__
+inform __name__ __postcode__
+goodbye()
+goodbye()
+inform_no_match __area__
+inform_no_match __area__
+inform_no_match __area__
+inform_no_match __area__
+goodbye()
+goodbye()
+inform __name__ __kidsallowed__ __food__ __goodformeal__
+inform __name__ __kidsallowed__ __food__ __goodformeal__
+inform __name__ __price__
+inform __name__ __price__
+inform __name__ __type__
+inform __name__ __type__
+inform __name__ __phone__
+inform __name__ __phone__
+goodbye()
+goodbye()
+?request(near)
+?request(near)
+?request(pricerange)
+?request(pricerange)
+inform __name__ __pricerange__
+inform __name__ __pricerange__
+?confirm __pricerange__
+?confirm __pricerange__
+inform __name__ __phone__
+inform __name__ __phone__
+?reqmore()
+?reqmore()
+goodbye()
+goodbye()
+inform __name__ __food__
+inform __name__ __food__
+inform __name__ __address__
+inform __name__ __address__
+inform __name__ __type__
+inform __name__ __type__
+inform __name__ __type__
+inform __name__ __type__
+inform __name__ __price__
+inform __name__ __price__
+goodbye()
+goodbye()
+?request(pricerange)
+?request(pricerange)
+inform_count __type__ __count__ __pricerange__
+inform_count __type__ __count__ __pricerange__
+?request(goodformeal)
+?request(goodformeal)
+inform __name__ __near__ __pricerange__
+inform __name__ __near__ __pricerange__
+inform __name__ __phone__
+inform __name__ __phone__
+inform __name__ __address__
+inform __name__ __address__
+goodbye()
+goodbye()
+inform __name__ __pricerange__ __food__
+inform __name__ __pricerange__ __food__
+inform __name__ __address__ __postcode__
+inform __name__ __address__ __postcode__
+inform __name__ __type__
+inform __name__ __type__
+goodbye()
+goodbye()
+inform __name__ __pricerange__
+inform __name__ __pricerange__
+inform_no_match __pricerange__ __area__
+inform_no_match __pricerange__ __area__
+inform __name__ __area__ __pricerange__
+inform __name__ __area__ __pricerange__
+goodbye()
+goodbye()
+inform_no_match __area__
+inform_no_match __area__
+goodbye()
+goodbye()
+inform __name__ __kidsallowed__
+inform __name__ __kidsallowed__
+inform __name__ __goodformeal__ __kidsallowed__
+inform __name__ __goodformeal__ __kidsallowed__
+inform __name__ __area__
+inform __name__ __area__
+inform __name__ __goodformeal__ __kidsallowed__
+inform __name__ __goodformeal__ __kidsallowed__
+inform __name__ __phone__
+inform __name__ __phone__
+goodbye()
+goodbye()
+inform __name__ __food__
+inform __name__ __food__
+inform __name__ __type__
+inform __name__ __type__
+inform __name__ __type__
+inform __name__ __type__
+inform __name__ __goodformeal__
+inform __name__ __goodformeal__
+goodbye()
+goodbye()
+inform __name__ __kidsallowed__ __pricerange__
+inform __name__ __kidsallowed__ __pricerange__
+inform __name__ __type__
+inform __name__ __type__
+inform __name__ __phone__
+inform __name__ __phone__
+inform __name__ __food__
+inform __name__ __food__
+goodbye()
+goodbye()
+inform __name__ __food__
+inform __name__ __food__
+inform __name__ __area__
+inform __name__ __area__
+inform __name__ __type__
+inform __name__ __type__
+inform __name__ __type__
+inform __name__ __type__
+inform __name__ __type__
+inform __name__ __type__
+goodbye()
+goodbye()
+inform __name__ __pricerange__ __goodformeal__
+inform __name__ __pricerange__ __goodformeal__
+inform __name__ __pricerange__ __goodformeal__
+inform __name__ __pricerange__ __goodformeal__
+inform_count __type__ __count__ __goodformeal__ __pricerange__
+inform_count __type__ __count__ __goodformeal__ __pricerange__
+?select __kidsallowed__ __kidsallowed__
+?select __kidsallowed__ __kidsallowed__
+inform __name__ __pricerange__ __kidsallowed__ __goodformeal__
+inform __name__ __pricerange__ __kidsallowed__ __goodformeal__
+goodbye()
+goodbye()
+inform __name__ __near__
+inform __name__ __near__
+inform __name__ __pricerange__ __phone__
+inform __name__ __pricerange__ __phone__
+goodbye()
+goodbye()
+inform __name__ __goodformeal__ __food__
+inform __name__ __goodformeal__ __food__
+inform_only_match __name__ __goodformeal__ __food__ __kidsallowed__
+inform_only_match __name__ __goodformeal__ __food__ __kidsallowed__
+inform __name__ __address__
+inform __name__ __address__
+inform __name__ __phone__
+inform __name__ __phone__
+inform __name__ __area__
+inform __name__ __area__
+goodbye()
+goodbye()
+?request(goodformeal)
+?request(goodformeal)
+inform __name__ __kidsallowed__
+inform __name__ __kidsallowed__
+inform __name__ __near__
+inform __name__ __near__
+inform __name__ __phone__
+inform __name__ __phone__
+goodbye()
+goodbye()
+inform __name__ __pricerange__
+inform __name__ __pricerange__
+inform __name__ __area__
+inform __name__ __area__
+inform __name__ __pricerange__ __near__
+inform __name__ __pricerange__ __near__
+inform __name__ __address__
+inform __name__ __address__
+inform __name__ __price__
+inform __name__ __price__
+goodbye()
+goodbye()
+?request(near)
+?request(near)
+inform __name__ __kidsallowed__ __food__ __goodformeal__
+inform __name__ __kidsallowed__ __food__ __goodformeal__
+inform __name__ __price__
+inform __name__ __price__
+inform __name__ __type__
+inform __name__ __type__
+inform __name__ __phone__
+inform __name__ __phone__
+goodbye()
+goodbye()
+inform __name__ __pricerange__
+inform __name__ __pricerange__
+inform __name__ __type__
+inform __name__ __type__
+inform __name__ __pricerange__ __near__ __goodformeal__
+inform __name__ __pricerange__ __near__ __goodformeal__
+inform_count __type__ __count__ __goodformeal__ __near__ __pricerange__
+inform_count __type__ __count__ __goodformeal__ __near__ __pricerange__
+?request(area)
+?request(area)
+?reqmore()
+?reqmore()
+inform __name__ __phone__
+inform __name__ __phone__
+goodbye()
+goodbye()
+?request(pricerange)
+?request(pricerange)
+?request(area)
+?request(area)
+inform __name__ __food__
+inform __name__ __food__
+inform __name__ __address__
+inform __name__ __address__
+inform __name__ __phone__
+inform __name__ __phone__
+inform __name__ __pricerange__
+inform __name__ __pricerange__
+goodbye()
+goodbye()
+inform __name__ __pricerange__ __kidsallowed__
+inform __name__ __pricerange__ __kidsallowed__
+inform_count __type__ __count__ __kidsallowed__ __pricerange__
+inform_count __type__ __count__ __kidsallowed__ __pricerange__
+?request(goodformeal)
+?request(goodformeal)
+inform __name__ __phone__
+inform __name__ __phone__
+inform __name__ __postcode__
+inform __name__ __postcode__
+goodbye()
+goodbye()
+?select __near__
+?select __near__
+goodbye()
+goodbye()
+inform __name__ __pricerange__ __goodformeal__
+inform __name__ __pricerange__ __goodformeal__
+inform __name__ __address__ __postcode__
+inform __name__ __address__ __postcode__
+?reqmore()
+?reqmore()
+goodbye()
+goodbye()
+?request(food)
+?request(food)
+inform __name__ __pricerange__
+inform __name__ __pricerange__
+inform __name__ __type__
+inform __name__ __type__
+inform __name__ __type__
+inform __name__ __type__
+inform __name__ __pricerange__
+inform __name__ __pricerange__
+?confirm __area__
+?confirm __area__
+inform_count __type__ __count__ __area__ __pricerange__
+inform_count __type__ __count__ __area__ __pricerange__
+?select __kidsallowed__ __kidsallowed__
+?select __kidsallowed__ __kidsallowed__
+?request(pricerange)
+?request(pricerange)
+?reqmore()
+?reqmore()
+goodbye()
+goodbye()
+inform __name__ __food__ __kidsallowed__
+inform __name__ __food__ __kidsallowed__
+inform __name__ __area__
+inform __name__ __area__
+inform __name__ __address__ __phone__
+inform __name__ __address__ __phone__
+goodbye()
+goodbye()
+inform __name__ __food__
+inform __name__ __food__
+inform __name__ __near__
+inform __name__ __near__
+inform __name__ __phone__
+inform __name__ __phone__
+inform __name__ __pricerange__
+inform __name__ __pricerange__
+goodbye()
+goodbye()
+inform __name__ __pricerange__ __food__
+inform __name__ __pricerange__ __food__
+inform __name__ __type__
+inform __name__ __type__
+inform __name__ __address__
+inform __name__ __address__
+inform __name__ __area__
+inform __name__ __area__
+goodbye()
+goodbye()
+inform __name__ __pricerange__
+inform __name__ __pricerange__
+?confirm __area__
+?confirm __area__
+inform_count __type__ __count__ __area__ __pricerange__
+inform_count __type__ __count__ __area__ __pricerange__
+?select __kidsallowed__ __kidsallowed__
+?select __kidsallowed__ __kidsallowed__
+?request(pricerange)
+?request(pricerange)
+?reqmore()
+?reqmore()
+goodbye()
+goodbye()
+?request(pricerange)
+?request(pricerange)
+inform __name__ __goodformeal__ __kidsallowed__
+inform __name__ __goodformeal__ __kidsallowed__
+inform_count __type__ __count__ __goodformeal__ __kidsallowed__
+inform_count __type__ __count__ __goodformeal__ __kidsallowed__
+?request(pricerange)
+?request(pricerange)
+inform __name__ __pricerange__ __goodformeal__ __kidsallowed__
+inform __name__ __pricerange__ __goodformeal__ __kidsallowed__
+inform __name__ __food__ __address__ __phone__
+inform __name__ __food__ __address__ __phone__
+goodbye()
+goodbye()
+inform __name__ __area__ __food__
+inform __name__ __area__ __food__
+inform __name__ __price__ __phone__
+inform __name__ __price__ __phone__
+goodbye()
+goodbye()
+?select __goodformeal__
+?select __goodformeal__
+goodbye()
+goodbye()
+?request(pricerange)
+?request(pricerange)
+inform __name__ __pricerange__
+inform __name__ __pricerange__
+inform __name__ __type__
+inform __name__ __type__
+goodbye()
+goodbye()
+?request(area)
+?request(area)
+inform_count __type__ __count__ __area__
+inform_count __type__ __count__ __area__
+?request(goodformeal)
+?request(goodformeal)
+inform_no_match __food__ __pricerange__
+inform_no_match __food__ __pricerange__
+goodbye()
+goodbye()
+inform __name__ __kidsallowed__ __food__
+inform __name__ __kidsallowed__ __food__
+inform __name__ __address__ __postcode__
+inform __name__ __address__ __postcode__
+goodbye()
+goodbye()
+?select __area__
+?select __area__
+inform __name__ __food__ __pricerange__
+inform __name__ __food__ __pricerange__
+inform __name__ __phone__
+inform __name__ __phone__
+inform __name__ __area__
+inform __name__ __area__
+goodbye()
+goodbye()
+?select __kidsallowed__ __kidsallowed__
+?select __kidsallowed__ __kidsallowed__
+inform __name__ __kidsallowed__ __pricerange__
+inform __name__ __kidsallowed__ __pricerange__
+inform __name__ __type__
+inform __name__ __type__
+inform __name__ __address__
+inform __name__ __address__
+inform __name__ __near__
+inform __name__ __near__
+inform __name__ __type__
+inform __name__ __type__
+goodbye()
+goodbye()
+inform __name__ __kidsallowed__ __food__ __goodformeal__
+inform __name__ __kidsallowed__ __food__ __goodformeal__
+inform __name__ __area__
+inform __name__ __area__
+inform __name__ __phone__
+inform __name__ __phone__
+goodbye()
+goodbye()
+inform __name__ __kidsallowed__ __near__
+inform __name__ __kidsallowed__ __near__
+inform __name__ __goodformeal__
+inform __name__ __goodformeal__
+inform __name__ __type__
+inform __name__ __type__
+inform __name__ __address__
+inform __name__ __address__
+inform __name__ __food__
+inform __name__ __food__
+goodbye()
+goodbye()
+inform __name__ __pricerange__ __food__
+inform __name__ __pricerange__ __food__
+inform __name__ __pricerange__ __food__
+inform __name__ __pricerange__ __food__
+inform __name__ __address__
+inform __name__ __address__
+inform __name__ __postcode__
+inform __name__ __postcode__
+inform __name__ __pricerange__ __food__
+inform __name__ __pricerange__ __food__
+inform_only_match __name__ __pricerange__ __food__
+inform_only_match __name__ __pricerange__ __food__
+inform __name__ __near__
+inform __name__ __near__
+inform __name__ __address__ __phone__
+inform __name__ __address__ __phone__
+goodbye()
+goodbye()
+inform __name__ __food__ __near__
+inform __name__ __food__ __near__
+inform __name__ __goodformeal__
+inform __name__ __goodformeal__
+inform_no_match __food__ __goodformeal__
+inform_no_match __food__ __goodformeal__
+inform __name__ __goodformeal__ __area__ __address__
+inform __name__ __goodformeal__ __area__ __address__
+goodbye()
+goodbye()
+inform __name__ __food__ __pricerange__
+inform __name__ __food__ __pricerange__
+inform __name__ __kidsallowed__
+inform __name__ __kidsallowed__
+inform __name__ __address__
+inform __name__ __address__
+inform __name__ __area__
+inform __name__ __area__
+goodbye()
+goodbye()
+inform __name__ __area__ __pricerange__ __food__
+inform __name__ __area__ __pricerange__ __food__
+inform_count __type__ __count__ __food__ __pricerange__ __area__
+inform_count __type__ __count__ __food__ __pricerange__ __area__
+?select __kidsallowed__ __kidsallowed__
+?select __kidsallowed__ __kidsallowed__
+inform __name__ __kidsallowed__ __pricerange__ __food__ __area__
+inform __name__ __kidsallowed__ __pricerange__ __food__ __area__
+inform __name__ __phone__
+inform __name__ __phone__
+?select __kidsallowed__ __kidsallowed__
+?select __kidsallowed__ __kidsallowed__
+inform __name__ __address__
+inform __name__ __address__
+goodbye()
+goodbye()
+inform __name__ __pricerange__
+inform __name__ __pricerange__
+inform __name__ __phone__
+inform __name__ __phone__
+?confirm __pricerange__
+?confirm __pricerange__
+inform __name__ __pricerange__
+inform __name__ __pricerange__
+goodbye()
+goodbye()
+?request(goodformeal)
+?request(goodformeal)
+?request(pricerange)
+?request(pricerange)
+inform __name__ __pricerange__
+inform __name__ __pricerange__
+inform __name__ __pricerange__
+inform __name__ __pricerange__
+goodbye()
+goodbye()
+inform __name__ __pricerange__ __kidsallowed__
+inform __name__ __pricerange__ __kidsallowed__
+inform __name__ __type__
+inform __name__ __type__
+inform __name__ __phone__
+inform __name__ __phone__
+inform __name__ __food__
+inform __name__ __food__
+goodbye()
+goodbye()
+?request(pricerange)
+?request(pricerange)
+?request(near)
+?request(near)
+?request(pricerange)
+?request(pricerange)
+inform __name__ __pricerange__
+inform __name__ __pricerange__
